@@ -17,6 +17,7 @@ export default function PDFViewer({ file, title }: PDFViewerProps): JSX.Element 
   const [numPages, setNumPages] = useState<number>(0);
   const [pageNumber, setPageNumber] = useState<number>(1);
   const [pdfDoc, setPdfDoc] = useState<any>(null);
+  const [useFallback, setUseFallback] = useState(true); // Default to iframe since CORS blocks PDF.js
   const canvasRef = useRef<HTMLCanvasElement>(null);
   const containerRef = useRef<HTMLDivElement>(null);
 
@@ -45,14 +46,20 @@ export default function PDFViewer({ file, title }: PDFViewerProps): JSX.Element 
     try {
       setLoading(true);
       setError(null);
+      setUseFallback(false);
       
       if (!window.pdfjsLib) {
         throw new Error('PDF.js library not loaded');
       }
 
+      // Try to load PDF with CORS handling
       const loadingTask = window.pdfjsLib.getDocument({
         url: file,
         withCredentials: false,
+        httpHeaders: {},
+        // Try to handle CORS issues
+        cMapUrl: 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/cmaps/',
+        cMapPacked: true,
       });
       
       const pdf = await loadingTask.promise;
@@ -61,60 +68,30 @@ export default function PDFViewer({ file, title }: PDFViewerProps): JSX.Element 
       await renderPage(pdf, 1);
       setLoading(false);
     } catch (err: any) {
-      console.error('Error loading PDF:', err);
-      setError(err.message || 'Failed to load PDF. Please try the download link below.');
+      console.error('Error loading PDF with PDF.js:', err);
+      // If PDF.js fails, fall back to iframe
+      setUseFallback(true);
       setLoading(false);
+      // Don't set error - we'll show iframe instead
     }
   }, [file, renderPage]);
 
   useEffect(() => {
-    // Check if PDF.js is already loaded
+    // Since CORS blocks PDF.js, we'll default to iframe
+    // But we can still try PDF.js as an option if it becomes available
+    setLoading(false);
+    
+    // Optional: Try PDF.js if available (but expect it to fail due to CORS)
+    // Uncomment below if you want to attempt PDF.js first
+    /*
     if (window.pdfjsLib) {
       window.pdfjsLib.GlobalWorkerOptions.workerSrc = 
         'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
       loadPDF();
       return;
     }
-
-    // Check if script is already being loaded
-    const existingScript = document.querySelector('script[src*="pdf.min.js"]');
-    if (existingScript) {
-      const handleLoad = () => {
-        if (window.pdfjsLib) {
-          window.pdfjsLib.GlobalWorkerOptions.workerSrc = 
-            'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
-          loadPDF();
-        }
-      };
-      existingScript.addEventListener('load', handleLoad);
-      // If already loaded, call immediately
-      if (window.pdfjsLib) {
-        handleLoad();
-      }
-      return;
-    }
-
-    // Load PDF.js from CDN
-    const script = document.createElement('script');
-    script.src = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js';
-    script.async = true;
-    
-    script.onload = () => {
-      // Configure PDF.js worker
-      if (window.pdfjsLib) {
-        window.pdfjsLib.GlobalWorkerOptions.workerSrc = 
-          'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
-        loadPDF();
-      }
-    };
-    
-    script.onerror = () => {
-      setError('Failed to load PDF.js library');
-      setLoading(false);
-    };
-    
-    document.head.appendChild(script);
-  }, [file, loadPDF]);
+    */
+  }, [file]);
 
   useEffect(() => {
     if (pageNumber > 0 && pdfDoc && pageNumber !== 1) {
@@ -206,6 +183,12 @@ export default function PDFViewer({ file, title }: PDFViewerProps): JSX.Element 
           height: auto;
           box-shadow: 0 2px 8px rgba(0,0,0,0.1);
         }
+        .pdf-iframe-fallback {
+          width: 100%;
+          height: 800px;
+          border: none;
+          background: white;
+        }
         .pdf-loading {
           padding: 40px;
           text-align: center;
@@ -264,7 +247,7 @@ export default function PDFViewer({ file, title }: PDFViewerProps): JSX.Element 
           </div>
         )}
 
-        {!loading && !error && numPages > 0 && (
+        {!loading && !error && !useFallback && numPages > 0 && (
           <>
             <div className="pdf-controls">
               <button onClick={goToPrevPage} disabled={pageNumber <= 1}>
@@ -281,6 +264,49 @@ export default function PDFViewer({ file, title }: PDFViewerProps): JSX.Element 
               <canvas ref={canvasRef}></canvas>
             </div>
           </>
+        )}
+
+        {!loading && useFallback && (
+          <div className="pdf-canvas-container">
+            <iframe
+              src={`${file}#view=FitH`}
+              className="pdf-iframe-fallback"
+              title={title || 'PDF Document'}
+              onLoad={(e) => {
+                // Check if iframe loaded successfully
+                try {
+                  const iframe = e.target as HTMLIFrameElement;
+                  // If we can't access content, it might be blocked
+                  setTimeout(() => {
+                    try {
+                      if (iframe.contentWindow?.location.href === 'about:blank') {
+                        // Iframe was blocked, try object tag
+                        setError('PDF cannot be embedded. Please use the download link below.');
+                      }
+                    } catch (err) {
+                      // Cross-origin - this is expected and means iframe might be working
+                      console.log('Iframe loaded (cross-origin check prevented)');
+                    }
+                  }, 2000);
+                } catch (err) {
+                  // Can't check - assume it's working
+                }
+              }}
+              onError={() => {
+                setError('Unable to load PDF. The server may be blocking access. Please use the download link below.');
+                setUseFallback(false);
+              }}
+            />
+            <p style={{ 
+              padding: '10px', 
+              fontSize: '12px', 
+              color: '#666', 
+              textAlign: 'center',
+              margin: 0 
+            }}>
+              If the PDF doesn't load, it may be blocked by your browser or the server. Use the download link below.
+            </p>
+          </div>
         )}
       </div>
 
