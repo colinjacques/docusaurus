@@ -11,6 +11,7 @@ on:
     paths:
       - '.github/workflows/sync-pdfs.yml'
       - 'scripts/sync-pdfs.js'
+      - 'src/components/PDFViewer.tsx'
 
 jobs:
   sync:
