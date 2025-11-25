@@ -1,0 +1,21 @@
+---
+title: "Yamaha 01V96"
+---
+
+import PDFViewer from '@site/src/components/PDFViewer';
+
+# Yamaha 01V96
+
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Enterprise%20Control%20Systems/Caprica/Device%20Setup%20Sheets/Audio%20Mixer/Yamaha%2001V96.pdf" title="Yamaha 01V96" />
+
+---
+
+**Document Information:**
+- **Original filename:** `Yamaha 01V96.pdf`
+- **File size:** 0.25 MB
+- **Last modified:** 2025-08-12
+- **Category:** Manuals/Enterprise Control Systems/Caprica/Device Setup Sheets/Audio Mixer
+
+---
+
+**External Link:** [Yamaha 01V96.pdf](https://documentation.rossvideo.com/files/Manuals/Enterprise%20Control%20Systems/Caprica/Device%20Setup%20Sheets/Audio%20Mixer/Yamaha%2001V96.pdf)

@@ -1,0 +1,8 @@
+{
+  "label": "Switcher",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Switcher documentation"
+  }
+}

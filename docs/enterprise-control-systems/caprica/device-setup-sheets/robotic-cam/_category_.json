@@ -1,0 +1,8 @@
+{
+  "label": "Robotic Cam",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Robotic Cam documentation"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "label": "Rossgear",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Rossgear documentation"
+  }
+}

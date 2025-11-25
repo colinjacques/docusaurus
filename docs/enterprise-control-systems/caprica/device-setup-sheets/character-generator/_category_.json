@@ -1,0 +1,8 @@
+{
+  "label": "Character Generator",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Character Generator documentation"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "label": "Graphite Ppc",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Graphite Ppc documentation"
+  }
+}

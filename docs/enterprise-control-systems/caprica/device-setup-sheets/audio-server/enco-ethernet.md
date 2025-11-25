@@ -1,0 +1,21 @@
+---
+title: "ENCO Ethernet"
+---
+
+import PDFViewer from '@site/src/components/PDFViewer';
+
+# ENCO Ethernet
+
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Enterprise%20Control%20Systems/Caprica/Device%20Setup%20Sheets/Audio%20Server/ENCO%20-%20Ethernet.pdf" title="ENCO Ethernet" />
+
+---
+
+**Document Information:**
+- **Original filename:** `ENCO - Ethernet.pdf`
+- **File size:** 0.17 MB
+- **Last modified:** 2025-08-12
+- **Category:** Manuals/Enterprise Control Systems/Caprica/Device Setup Sheets/Audio Server
+
+---
+
+**External Link:** [ENCO - Ethernet.pdf](https://documentation.rossvideo.com/files/Manuals/Enterprise%20Control%20Systems/Caprica/Device%20Setup%20Sheets/Audio%20Server/ENCO%20-%20Ethernet.pdf)

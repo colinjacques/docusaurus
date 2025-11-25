@@ -1,0 +1,8 @@
+{
+  "label": "Video Servers",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Video Servers documentation"
+  }
+}

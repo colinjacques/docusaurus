@@ -1,0 +1,8 @@
+{
+  "label": "Raiden",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Raiden documentation"
+  }
+}

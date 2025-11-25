@@ -1,0 +1,8 @@
+{
+  "label": "Kvm",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Kvm documentation"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "label": "Router",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Router documentation"
+  }
+}

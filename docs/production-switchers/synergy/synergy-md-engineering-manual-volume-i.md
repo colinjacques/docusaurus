@@ -1,0 +1,21 @@
+---
+title: "Synergy MD Engineering Manual Volume I"
+---
+
+import PDFViewer from '@site/src/components/PDFViewer';
+
+# Synergy MD Engineering Manual Volume I
+
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Synergy/Synergy%20MD%20Engineering%20Manual%20Volume%20I%20(4400DR-001).pdf" title="Synergy MD Engineering Manual Volume I" />
+
+---
+
+**Document Information:**
+- **Original filename:** `Synergy MD Engineering Manual Volume I (4400DR-001).pdf`
+- **File size:** 5.26 MB
+- **Last modified:** 2025-08-13
+- **Category:** Manuals/Production Switchers/Synergy
+
+---
+
+**External Link:** [Synergy MD Engineering Manual Volume I (4400DR-001).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Synergy/Synergy%20MD%20Engineering%20Manual%20Volume%20I%20(4400DR-001).pdf)

@@ -1,0 +1,8 @@
+{
+  "label": "P Bus",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "P Bus documentation"
+  }
+}

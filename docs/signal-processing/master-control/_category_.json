@@ -1,0 +1,8 @@
+{
+  "label": "Master Control",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Master Control documentation"
+  }
+}

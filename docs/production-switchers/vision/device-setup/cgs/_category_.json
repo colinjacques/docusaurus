@@ -1,0 +1,8 @@
+{
+  "label": "Cgs",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Cgs documentation"
+  }
+}

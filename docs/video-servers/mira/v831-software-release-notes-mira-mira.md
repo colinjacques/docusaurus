@@ -1,0 +1,21 @@
+---
+title: "V8.3.1 Software Release Notes MIRA & MIRA+"
+---
+
+import PDFViewer from '@site/src/components/PDFViewer';
+
+# V8.3.1 Software Release Notes MIRA & MIRA+
+
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Video%20Servers/Mira/V8.3.1%20Software%20Release%20Notes%20-%20MIRA%20%26%20MIRA%2B.pdf" title="V8.3.1 Software Release Notes MIRA & MIRA+" />
+
+---
+
+**Document Information:**
+- **Original filename:** `V8.3.1 Software Release Notes - MIRA & MIRA+.pdf`
+- **File size:** 0.23 MB
+- **Last modified:** 2025-08-13
+- **Category:** Manuals/Video Servers/Mira
+
+---
+
+**External Link:** [V8.3.1 Software Release Notes - MIRA & MIRA+.pdf](https://documentation.rossvideo.com/files/Manuals/Video%20Servers/Mira/V8.3.1%20Software%20Release%20Notes%20-%20MIRA%20%26%20MIRA%2B.pdf)

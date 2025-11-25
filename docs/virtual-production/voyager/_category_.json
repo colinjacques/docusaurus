@@ -1,0 +1,8 @@
+{
+  "label": "Voyager",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Voyager documentation"
+  }
+}

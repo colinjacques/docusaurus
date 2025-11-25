@@ -1,0 +1,8 @@
+{
+  "label": "Server Vtr",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Server Vtr documentation"
+  }
+}
