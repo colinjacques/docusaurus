@@ -6,6 +6,7 @@ frontend:
         - node --version
         - npm --version
         - npm ci
+        - npm run sync-pdfs
     build:
       commands:
         - npm run build
