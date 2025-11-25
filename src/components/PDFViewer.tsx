@@ -268,44 +268,48 @@ export default function PDFViewer({ file, title }: PDFViewerProps): JSX.Element 
 
         {!loading && useFallback && (
           <div className="pdf-canvas-container">
-            <iframe
-              src={`${file}#view=FitH`}
-              className="pdf-iframe-fallback"
-              title={title || 'PDF Document'}
-              onLoad={(e) => {
-                // Check if iframe loaded successfully
-                try {
-                  const iframe = e.target as HTMLIFrameElement;
-                  // If we can't access content, it might be blocked
-                  setTimeout(() => {
-                    try {
-                      if (iframe.contentWindow?.location.href === 'about:blank') {
-                        // Iframe was blocked, try object tag
-                        setError('PDF cannot be embedded. Please use the download link below.');
-                      }
-                    } catch (err) {
-                      // Cross-origin - this is expected and means iframe might be working
-                      console.log('Iframe loaded (cross-origin check prevented)');
-                    }
-                  }, 2000);
-                } catch (err) {
-                  // Can't check - assume it's working
-                }
-              }}
-              onError={() => {
-                setError('Unable to load PDF. The server may be blocking access. Please use the download link below.');
-                setUseFallback(false);
-              }}
-            />
-            <p style={{ 
-              padding: '10px', 
-              fontSize: '12px', 
-              color: '#666', 
+            <div style={{
+              padding: '60px 20px',
               textAlign: 'center',
-              margin: 0 
+              background: 'white',
+              borderRadius: '4px'
             }}>
-              If the PDF doesn't load, it may be blocked by your browser or the server. Use the download link below.
-            </p>
+              <div style={{ fontSize: '48px', marginBottom: '20px' }}>📄</div>
+              <h3 style={{ marginBottom: '10px', color: '#333' }}>PDF Viewer</h3>
+              <p style={{ 
+                color: '#666', 
+                marginBottom: '20px',
+                fontSize: '14px'
+              }}>
+                The PDF cannot be embedded due to server security restrictions.
+              </p>
+              <p style={{ 
+                color: '#999', 
+                fontSize: '12px',
+                marginBottom: '30px'
+              }}>
+                Please use the download link below to view the PDF in your browser.
+              </p>
+              <a 
+                href={file} 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{
+                  display: 'inline-block',
+                  padding: '12px 24px',
+                  background: '#10a37f',
+                  color: 'white',
+                  textDecoration: 'none',
+                  borderRadius: '4px',
+                  fontWeight: '500',
+                  transition: 'background 0.2s'
+                }}
+                onMouseOver={(e) => e.currentTarget.style.background = '#0d8968'}
+                onMouseOut={(e) => e.currentTarget.style.background = '#10a37f'}
+              >
+                🔗 Open PDF in New Tab
+              </a>
+            </div>
           </div>
         )}
       </div>
