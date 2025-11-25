@@ -31,9 +31,17 @@ jobs:
         with:
           node-version: '20'
 
+      - name: Cleanup broken references
+        run: |
+          npm run cleanup
+
       - name: Sync PDFs from SharePoint mapping
         run: |
           npm run sync-pdfs
+          
+      - name: Cleanup broken references after sync
+        run: |
+          npm run cleanup
 
       - name: Check for changes
         id: git-check
