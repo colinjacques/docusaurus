@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Ross Furio VR-600 Pan-Tilt Prompter Guide 2.pdf`
-- **File size:** 0.24 MB
+- **File size:** 244.91 KB
 - **Last modified:** 2025-05-26
 - **Category:** Manuals/Third Party Products
 

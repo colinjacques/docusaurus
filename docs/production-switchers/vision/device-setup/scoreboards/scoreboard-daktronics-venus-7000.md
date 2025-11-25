@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Scoreboard_Daktronics Venus 7000 (4999DR-143).pdf`
-- **File size:** 0.10 MB
+- **File size:** 100.39 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Production Switchers/Vision/Device Setup/Scoreboards
 

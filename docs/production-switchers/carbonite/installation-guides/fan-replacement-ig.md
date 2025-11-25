@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Fan-Replacement-IG(4802DR-300).pdf`
-- **File size:** 0.17 MB
+- **File size:** 173.68 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Production Switchers/Carbonite/Installation Guides
 

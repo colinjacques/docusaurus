@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `MC1-MK_NK-VRC Setup Sheet (MC1MKDR-020).pdf`
-- **File size:** 0.62 MB
+- **File size:** 632.33 KB
 - **Last modified:** 2025-06-12
 - **Category:** Manuals/Master Control/MC1
 

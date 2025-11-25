@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `NK-3G72 Low Output Card Replacement App Note(2000DR-022).pdf`
-- **File size:** 0.61 MB
+- **File size:** 619.6 KB
 - **Last modified:** 2025-06-02
 - **Category:** Manuals/Routers/NK
 

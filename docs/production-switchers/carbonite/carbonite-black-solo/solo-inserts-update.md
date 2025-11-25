@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Solo-Inserts-Update(4840DR-503).pdf`
-- **File size:** 0.53 MB
+- **File size:** 547.01 KB
 - **Last modified:** 2025-07-30
 - **Category:** Manuals/Production Switchers/Carbonite/Carbonite Black Solo
 

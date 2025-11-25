@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Installing_the_VR600_Power_Supply_Bracket_(5100DR-011-02).pdf`
-- **File size:** 0.63 MB
+- **File size:** 648.17 KB
 - **Last modified:** 2025-06-10
 - **Category:** Manuals/Robotic Camera Systems/Furio Robo
 

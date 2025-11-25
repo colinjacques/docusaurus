@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Module-Installation_(4820DR-303).pdf`
-- **File size:** 0.99 MB
+- **File size:** 1017.14 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Production Switchers/Acuity/Installation Guides
 

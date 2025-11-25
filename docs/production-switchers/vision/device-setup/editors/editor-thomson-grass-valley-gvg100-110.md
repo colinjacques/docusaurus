@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Editor_Thomson Grass Valley GVG100-110 (4999DR-081).pdf`
-- **File size:** 0.09 MB
+- **File size:** 94.14 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Production Switchers/Vision/Device Setup/Editors
 

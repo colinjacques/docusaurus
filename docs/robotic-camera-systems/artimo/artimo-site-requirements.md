@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Artimo_Site_Requirements_(5100DR-601-01).pdf`
-- **File size:** 0.37 MB
+- **File size:** 380.13 KB
 - **Last modified:** 2025-06-10
 - **Category:** Manuals/Robotic Camera Systems/Artimo
 

@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Streamline Quick Start Guide (7800DR-002-02).pdf`
-- **File size:** 0.22 MB
+- **File size:** 229.79 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Media Asset Management/Streamline
 

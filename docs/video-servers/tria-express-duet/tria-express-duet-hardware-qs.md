@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Tria-Express-DUET-Hardware-QS(4609DR-200).pdf`
-- **File size:** 0.49 MB
+- **File size:** 498.88 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Video Servers/Tria Express Duet
 

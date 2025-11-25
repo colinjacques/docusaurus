@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Graphite CPC Release Notes.pdf`
-- **File size:** 0.32 MB
+- **File size:** 323.03 KB
 - **Last modified:** 2025-06-24
 - **Category:** Manuals/All-in-One Production Systems/Graphite-CPC
 

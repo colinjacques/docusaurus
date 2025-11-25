@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `XPression 4RU IP Q25 Hardware Specs.pdf`
-- **File size:** 0.43 MB
+- **File size:** 436.83 KB
 - **Last modified:** 2025-07-30
 - **Category:** Manuals/CG and Graphics/XPression/Hardware Specs
 

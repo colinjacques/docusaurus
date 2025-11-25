@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Ultricore-OE App Note (2101DR-110).pdf`
-- **File size:** 0.45 MB
+- **File size:** 465.21 KB
 - **Last modified:** 2025-10-24
 - **Category:** Manuals/Routers/Ultrix
 

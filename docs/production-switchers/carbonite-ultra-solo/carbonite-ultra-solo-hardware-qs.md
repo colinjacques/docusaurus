@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Carbonite-Ultra-SOLO-Hardware-QS(4844DR-200).pdf`
-- **File size:** 0.71 MB
+- **File size:** 731.96 KB
 - **Last modified:** 2025-07-30
 - **Category:** Manuals/Production Switchers/Carbonite Ultra Solo
 

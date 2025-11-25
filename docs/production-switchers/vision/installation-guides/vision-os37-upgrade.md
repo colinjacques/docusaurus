@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Vision-OS37-Upgrade-(4800DR-328).pdf`
-- **File size:** 1.10 MB
+- **File size:** 1.1 MB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Production Switchers/Vision/Installation Guides
 

@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Serial-Tally_GVG Contribution Serial Tally - Panel (4999DR-085).pdf`
-- **File size:** 0.09 MB
+- **File size:** 96.33 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Production Switchers/Vision/Device Setup/Serial Tallies
 

@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Listec Main Assembly For Furio.pdf`
-- **File size:** 0.55 MB
+- **File size:** 566.43 KB
 - **Last modified:** 2025-05-26
 - **Category:** Manuals/Third Party Products/Listec
 

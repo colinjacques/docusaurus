@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Graphite-Hardware-QS(4850DR-200).pdf`
-- **File size:** 0.65 MB
+- **File size:** 665.86 KB
 - **Last modified:** 2025-06-23
 - **Category:** Manuals/All-in-One Production Systems/Graphite
 

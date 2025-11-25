@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Acuity-Software-Licenses(4820DR-502).pdf`
-- **File size:** 0.72 MB
+- **File size:** 733.63 KB
 - **Last modified:** 2025-06-02
 - **Category:** Manuals/Production Switchers/Acuity
 

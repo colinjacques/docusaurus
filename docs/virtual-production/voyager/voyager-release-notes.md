@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `VOYAGER RELEASE NOTES.pdf`
-- **File size:** 0.27 MB
+- **File size:** 278.83 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Virtual Production/Voyager
 

@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `AR Set Up Kit.pdf`
-- **File size:** 1.80 MB
+- **File size:** 1.8 MB
 - **Last modified:** 2025-08-12
 - **Category:** Manuals/CG and Graphics/Virtual Solutions/AR
 

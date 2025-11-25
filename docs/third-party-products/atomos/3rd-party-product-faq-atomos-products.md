@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `3rd Party Product FAQ - Atomos Products.pdf`
-- **File size:** 0.13 MB
+- **File size:** 132.48 KB
 - **Last modified:** 2025-05-26
 - **Category:** Manuals/Third Party Products/Atomos
 

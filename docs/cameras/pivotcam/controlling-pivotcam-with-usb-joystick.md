@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Controlling_PIVOTCam_with_USB_Joystick.pdf`
-- **File size:** 0.41 MB
+- **File size:** 414.76 KB
 - **Last modified:** 2025-05-12
 - **Category:** Manuals/Cameras/PIVOTCam
 

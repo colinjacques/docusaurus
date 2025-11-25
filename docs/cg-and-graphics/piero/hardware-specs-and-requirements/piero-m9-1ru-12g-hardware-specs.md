@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `PIERO_M9_1RU_12G_Hardware_Specs.pdf`
-- **File size:** 0.17 MB
+- **File size:** 169.83 KB
 - **Last modified:** 2025-10-23
 - **Category:** Manuals/CG and Graphics/PIERO/Hardware Specs and Requirements
 

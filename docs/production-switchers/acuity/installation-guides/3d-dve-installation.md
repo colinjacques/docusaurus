@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `3D-DVE-Installation(4820DR-310).pdf`
-- **File size:** 0.21 MB
+- **File size:** 213.11 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Production Switchers/Acuity/Installation Guides
 

@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `pro-xi 100 Upgrade Procedure.pdf`
-- **File size:** 0.92 MB
+- **File size:** 943.5 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/KVM/Pro-xi 100
 

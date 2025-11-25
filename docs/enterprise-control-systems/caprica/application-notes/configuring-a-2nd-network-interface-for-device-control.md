@@ -12,8 +12,8 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Configuring a 2nd Network Interface for Device Control.pdf`
-- **File size:** 0.35 MB
-- **Last modified:** 2025-08-12
+- **File size:** 368.74 KB
+- **Last modified:** 2025-11-20
 - **Category:** Manuals/Enterprise Control Systems/Caprica/Application Notes
 
 ---

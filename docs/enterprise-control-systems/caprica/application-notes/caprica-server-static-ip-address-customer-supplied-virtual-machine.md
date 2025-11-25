@@ -12,8 +12,8 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Caprica Server Static IP Address - Customer Supplied Virtual Machine.pdf`
-- **File size:** 0.20 MB
-- **Last modified:** 2025-08-12
+- **File size:** 213.25 KB
+- **Last modified:** 2025-11-20
 - **Category:** Manuals/Enterprise Control Systems/Caprica/Application Notes
 
 ---

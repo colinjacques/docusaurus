@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Video-Server_Tribune Video Server (4999DR-123).pdf`
-- **File size:** 0.09 MB
+- **File size:** 95.4 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Production Switchers/Vision/Device Setup/Video Servers
 

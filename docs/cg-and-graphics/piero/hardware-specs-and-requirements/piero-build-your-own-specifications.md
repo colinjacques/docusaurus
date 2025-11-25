@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `PIERO_Build_Your_Own_Specifications.pdf`
-- **File size:** 0.28 MB
+- **File size:** 290.54 KB
 - **Last modified:** 2025-10-23
 - **Category:** Manuals/CG and Graphics/PIERO/Hardware Specs and Requirements
 

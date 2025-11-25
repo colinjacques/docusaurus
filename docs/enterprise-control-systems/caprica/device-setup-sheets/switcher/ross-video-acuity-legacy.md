@@ -12,8 +12,8 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Ross Video Acuity Legacy.pdf`
-- **File size:** 0.96 MB
-- **Last modified:** 2025-08-12
+- **File size:** 988.9 KB
+- **Last modified:** 2025-11-20
 - **Category:** Manuals/Enterprise Control Systems/Caprica/Device Setup Sheets/Switcher
 
 ---

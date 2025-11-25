@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `RSAP Quick Start Guide (3900DR-306-01).pdf`
-- **File size:** 1.00 MB
+- **File size:** 1 MB
 - **Last modified:** 2025-08-26
 - **Category:** Manuals/Terminal Equipment
 

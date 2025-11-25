@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Touchscreen-Installation-Guide(4800DR-319).pdf`
-- **File size:** 0.22 MB
+- **File size:** 220.85 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Production Switchers/Vision/Installation Guides
 

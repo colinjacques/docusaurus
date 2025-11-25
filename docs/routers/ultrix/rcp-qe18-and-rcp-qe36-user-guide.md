@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `RCP-QE18 and RCP-QE36 User Guide (2201DR-903).pdf`
-- **File size:** 9.90 MB
+- **File size:** 9.9 MB
 - **Last modified:** 2025-10-24
 - **Category:** Manuals/Routers/Ultrix
 

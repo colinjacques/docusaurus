@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Upgrading_Firmware_on_PTZ-12G_and_PTZ-NDI_Cameras.pdf`
-- **File size:** 0.29 MB
+- **File size:** 295.3 KB
 - **Last modified:** 2025-05-26
 - **Category:** Manuals/Cameras/PTZ
 

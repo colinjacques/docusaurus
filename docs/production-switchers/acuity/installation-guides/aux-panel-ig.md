@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Aux-Panel-IG(4820DR-302).pdf`
-- **File size:** 0.94 MB
+- **File size:** 961.7 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Production Switchers/Acuity/Installation Guides
 

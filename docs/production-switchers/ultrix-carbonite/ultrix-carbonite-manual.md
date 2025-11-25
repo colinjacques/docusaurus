@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Ultrix-Carbonite-Manual(4843DR-110).pdf`
-- **File size:** 16.70 MB
+- **File size:** 16.7 MB
 - **Last modified:** 2025-07-30
 - **Category:** Manuals/Production Switchers/Ultrix Carbonite
 

@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `LUCID STUDIO RELEASE NOTES.pdf`
-- **File size:** 0.24 MB
+- **File size:** 240.78 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Virtual Production/Lucid
 

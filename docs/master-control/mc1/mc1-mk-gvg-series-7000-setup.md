@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `MC1-MK_GVG Series 7000 Setup (MC1MKDR-106).pdf`
-- **File size:** 0.59 MB
+- **File size:** 604.66 KB
 - **Last modified:** 2025-06-12
 - **Category:** Manuals/Master Control/MC1
 

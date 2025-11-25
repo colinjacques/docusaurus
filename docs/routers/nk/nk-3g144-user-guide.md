@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `NK-3G144 User Guide (9807DR-5600).pdf`
-- **File size:** 11.00 MB
+- **File size:** 11 MB
 - **Last modified:** 2025-06-02
 - **Category:** Manuals/Routers/NK
 

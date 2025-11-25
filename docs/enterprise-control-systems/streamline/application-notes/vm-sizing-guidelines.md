@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `VM Sizing Guidelines.pdf`
-- **File size:** 0.05 MB
+- **File size:** 52.65 KB
 - **Last modified:** 2025-08-12
 - **Category:** Manuals/Enterprise Control Systems/Streamline/Application Notes
 

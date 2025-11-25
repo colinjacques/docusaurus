@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Elasticsearch Setup Guide r03.pdf`
-- **File size:** 0.81 MB
+- **File size:** 830.59 KB
 - **Last modified:** 2025-09-30
 - **Category:** Manuals/Enterprise Control Systems/Inception
 

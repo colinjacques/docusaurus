@@ -12,8 +12,8 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Viz Vectar Plus.pdf`
-- **File size:** 0.40 MB
-- **Last modified:** 2025-08-12
+- **File size:** 414.76 KB
+- **Last modified:** 2025-11-20
 - **Category:** Manuals/Enterprise Control Systems/Caprica/Device Setup Sheets/Switcher
 
 ---

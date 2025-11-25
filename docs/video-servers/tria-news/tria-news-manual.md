@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Tria-News-Manual(4606DR-120).pdf`
-- **File size:** 4.30 MB
+- **File size:** 4.3 MB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Video Servers/Tria News
 

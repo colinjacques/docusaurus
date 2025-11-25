@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Sony ELC and XPression MOS Integration (3500DR-600-01).pdf`
-- **File size:** 0.73 MB
+- **File size:** 744.34 KB
 - **Last modified:** 2025-10-22
 - **Category:** Manuals/CG and Graphics/XPression/Application Notes
 

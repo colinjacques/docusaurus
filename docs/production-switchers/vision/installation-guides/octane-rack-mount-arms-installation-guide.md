@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Octane-Rack-Mount-Arms-Installation-Guide(4800DR-344).pdf`
-- **File size:** 0.30 MB
+- **File size:** 306.81 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Production Switchers/Vision/Installation Guides
 

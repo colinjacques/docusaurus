@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Router_Miranda NVISION (Harris Edge) (4999DR-109).pdf`
-- **File size:** 0.23 MB
+- **File size:** 239.58 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Production Switchers/Vision/Device Setup/Routers
 

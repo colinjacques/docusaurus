@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `SRG-4500 PTP troubleshooting.pdf`
-- **File size:** 0.07 MB
+- **File size:** 74.75 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/General
 

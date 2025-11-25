@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Synergy_100_SD_Quick_Reference_Guide.pdf`
-- **File size:** 0.38 MB
+- **File size:** 391.8 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Production Switchers/Synergy
 

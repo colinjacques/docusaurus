@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `VANC Monitor Manual (WHZ890DR-004).pdf`
-- **File size:** 4.00 MB
+- **File size:** 4 MB
 - **Last modified:** 2025-06-09
 - **Category:** Manuals/Signal Processing/Nielsen and TES
 

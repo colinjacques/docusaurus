@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Ultricore-Tally Device Setup Guide (2201DR-015).pdf`
-- **File size:** 0.70 MB
+- **File size:** 715.43 KB
 - **Last modified:** 2025-10-14
 - **Category:** Manuals/Tally Systems/Ultricore Tally
 

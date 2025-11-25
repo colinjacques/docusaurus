@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `XPression Designer and Developer User-Supplied Hardware Platform (3509DR-507-01).pdf`
-- **File size:** 0.97 MB
+- **File size:** 997.17 KB
 - **Last modified:** 2025-10-28
 - **Category:** Manuals/CG and Graphics/XPression/Application Notes
 

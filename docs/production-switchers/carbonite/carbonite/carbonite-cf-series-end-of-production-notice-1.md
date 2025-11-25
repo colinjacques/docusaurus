@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Carbonite CF Series End Of Production Notice.pdf`
-- **File size:** 0.06 MB
+- **File size:** 60.29 KB
 - **Last modified:** 2025-10-01
 - **Category:** Manuals/Production Switchers/Carbonite/Carbonite
 

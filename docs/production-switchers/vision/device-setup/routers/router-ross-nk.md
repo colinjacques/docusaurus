@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Router_Ross NK (4999DR-032).pdf`
-- **File size:** 0.23 MB
+- **File size:** 238.52 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Production Switchers/Vision/Device Setup/Routers
 

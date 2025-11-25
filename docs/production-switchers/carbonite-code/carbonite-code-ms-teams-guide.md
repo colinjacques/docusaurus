@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Carbonite Code - MS Teams Guide.pdf`
-- **File size:** 0.42 MB
+- **File size:** 432.88 KB
 - **Last modified:** 2025-10-08
 - **Category:** Manuals/Production Switchers/Carbonite Code
 

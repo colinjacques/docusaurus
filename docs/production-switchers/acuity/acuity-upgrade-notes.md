@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Acuity-Upgrade-Notes(4820DR-500).pdf`
-- **File size:** 0.61 MB
+- **File size:** 619.74 KB
 - **Last modified:** 2025-06-02
 - **Category:** Manuals/Production Switchers/Acuity
 

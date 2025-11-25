@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `shogun_studio_qsg.pdf`
-- **File size:** 0.28 MB
+- **File size:** 283.67 KB
 - **Last modified:** 2025-05-26
 - **Category:** Manuals/Third Party Products/Atomos
 

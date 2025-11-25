@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Evertz-IP-Board-Installation(4820DR-316).pdf`
-- **File size:** 0.51 MB
+- **File size:** 517.34 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Production Switchers/Acuity/Installation Guides
 

@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Streamline User Guide (7800DR-004-4.0).pdf`
-- **File size:** 6.80 MB
+- **File size:** 6.8 MB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Media Asset Management/Streamline
 

@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Carbonite-Code-Hardware-QS(4856DR-200).pdf`
-- **File size:** 0.43 MB
+- **File size:** 443.75 KB
 - **Last modified:** 2025-05-08
 - **Category:** Manuals/Production Switchers/Carbonite Code
 

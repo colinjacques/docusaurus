@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Artimo_Wheel_Cleaning_Procedure_(5100DR-603-01).pdf`
-- **File size:** 0.55 MB
+- **File size:** 567.58 KB
 - **Last modified:** 2025-06-10
 - **Category:** Manuals/Robotic Camera Systems/Artimo
 

@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `QMD(X)-Frame-Board-Installation-Guide(4800DR-331).pdf`
-- **File size:** 0.44 MB
+- **File size:** 448.13 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Production Switchers/Vision/Installation Guides
 

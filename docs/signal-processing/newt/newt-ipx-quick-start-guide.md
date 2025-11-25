@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `NEWT-IPX Quick Start Guide (1000DR-202).pdf`
-- **File size:** 2.60 MB
+- **File size:** 2.6 MB
 - **Last modified:** 2025-06-02
 - **Category:** Manuals/Signal Processing/Newt
 

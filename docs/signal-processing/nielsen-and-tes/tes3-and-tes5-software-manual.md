@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `TES3 and TES5 Software Manual (TES3DR-004B).pdf`
-- **File size:** 1.20 MB
+- **File size:** 1.2 MB
 - **Last modified:** 2025-06-04
 - **Category:** Manuals/Signal Processing/Nielsen and TES
 

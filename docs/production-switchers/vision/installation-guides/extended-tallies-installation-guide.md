@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Extended-Tallies-Installation-Guide(4800DR-332).pdf`
-- **File size:** 0.36 MB
+- **File size:** 367.68 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Production Switchers/Vision/Installation Guides
 

@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Kiva-Express-DUET-Hardware-QS(4610DR-200).pdf`
-- **File size:** 0.48 MB
+- **File size:** 496.57 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Video Servers/Kiva Express
 

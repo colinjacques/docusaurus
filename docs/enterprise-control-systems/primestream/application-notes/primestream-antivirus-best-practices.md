@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Primestream Antivirus Best Practices.pdf`
-- **File size:** 0.18 MB
+- **File size:** 187.57 KB
 - **Last modified:** 2025-08-12
 - **Category:** Manuals/Enterprise Control Systems/Primestream/Application Notes
 

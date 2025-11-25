@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `RPM_Tiered_Pricing.pdf`
-- **File size:** 0.25 MB
+- **File size:** 261.08 KB
 - **Last modified:** 2025-07-07
 - **Category:** Manuals/Enterprise Control Systems/RPM
 

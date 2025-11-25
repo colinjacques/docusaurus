@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Voyager Project Update Guide.pdf`
-- **File size:** 0.17 MB
+- **File size:** 172.38 KB
 - **Last modified:** 2025-08-12
 - **Category:** Manuals/CG and Graphics/Virtual Solutions/Voyager/Project Update Guide
 

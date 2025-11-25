@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Synergy_100_SD_Operation_Guide.pdf`
-- **File size:** 4.30 MB
+- **File size:** 4.3 MB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Production Switchers/Synergy
 

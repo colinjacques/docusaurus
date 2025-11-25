@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Video-Server_360 Systems Image Server 2000(4999DR-001).pdf`
-- **File size:** 0.24 MB
+- **File size:** 240.7 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Production Switchers/Vision/Device Setup/Video Servers
 

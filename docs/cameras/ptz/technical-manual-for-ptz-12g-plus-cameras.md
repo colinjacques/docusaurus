@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Technical_Manual_for_PTZ-12G_Plus_Cameras.pdf`
-- **File size:** 5.50 MB
+- **File size:** 5.5 MB
 - **Last modified:** 2025-05-26
 - **Category:** Manuals/Cameras/PTZ
 

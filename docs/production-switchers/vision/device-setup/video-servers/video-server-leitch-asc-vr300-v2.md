@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Video-Server_Leitch ASC VR300 V2.7 (4999DR-111).pdf`
-- **File size:** 0.23 MB
+- **File size:** 234.6 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Production Switchers/Vision/Device Setup/Video Servers
 

@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `PIVOTCam Quick Start Guide.pdf`
-- **File size:** 0.26 MB
+- **File size:** 265.84 KB
 - **Last modified:** 2025-05-12
 - **Category:** Manuals/Cameras/PIVOTCam
 

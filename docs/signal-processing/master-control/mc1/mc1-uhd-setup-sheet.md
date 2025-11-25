@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `MC1-UHD_Setup Sheet (8922DR-210-01).pdf`
-- **File size:** 0.72 MB
+- **File size:** 740.32 KB
 - **Last modified:** 2025-06-03
 - **Category:** Manuals/Signal Processing/Master Control/MC1
 

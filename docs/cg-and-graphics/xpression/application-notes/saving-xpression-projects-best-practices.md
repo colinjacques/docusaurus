@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Saving XPression Projects - Best Practices (3500DR-535-02).pdf`
-- **File size:** 0.91 MB
+- **File size:** 934.74 KB
 - **Last modified:** 2025-10-14
 - **Category:** Manuals/CG and Graphics/XPression/Application Notes
 

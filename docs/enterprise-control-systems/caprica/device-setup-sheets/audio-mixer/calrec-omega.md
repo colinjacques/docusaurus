@@ -12,8 +12,8 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Calrec Omega.pdf`
-- **File size:** 0.24 MB
-- **Last modified:** 2025-08-12
+- **File size:** 247.78 KB
+- **Last modified:** 2025-11-10
 - **Category:** Manuals/Enterprise Control Systems/Caprica/Device Setup Sheets/Audio Mixer
 
 ---

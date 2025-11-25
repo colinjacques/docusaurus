@@ -12,8 +12,8 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Ross Video Acuity.pdf`
-- **File size:** 1.75 MB
-- **Last modified:** 2025-08-12
+- **File size:** 1.74 MB
+- **Last modified:** 2025-11-20
 - **Category:** Manuals/Enterprise Control Systems/Caprica/Device Setup Sheets/Switcher
 
 ---

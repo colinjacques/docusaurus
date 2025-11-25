@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Evertz 7700R-SC-BRC Controller(4999DR-133).pdf`
-- **File size:** 0.23 MB
+- **File size:** 238.75 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Production Switchers/Vision/Device Setup/Serial Tallies
 

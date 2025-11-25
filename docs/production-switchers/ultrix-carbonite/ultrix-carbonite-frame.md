@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Ultrix-Carbonite-Frame(4843DR-200).pdf`
-- **File size:** 0.79 MB
+- **File size:** 807.45 KB
 - **Last modified:** 2025-06-02
 - **Category:** Manuals/Production Switchers/Ultrix Carbonite
 

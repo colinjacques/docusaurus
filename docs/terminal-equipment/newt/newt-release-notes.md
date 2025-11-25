@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Newt Release Notes (1000DR-010).pdf`
-- **File size:** 0.20 MB
+- **File size:** 203.95 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Terminal Equipment/Newt
 

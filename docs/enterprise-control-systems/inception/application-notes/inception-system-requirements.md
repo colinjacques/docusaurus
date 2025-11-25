@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Inception System Requirements.pdf`
-- **File size:** 0.14 MB
+- **File size:** 141.39 KB
 - **Last modified:** 2025-08-12
 - **Category:** Manuals/Enterprise Control Systems/Inception/Application Notes
 

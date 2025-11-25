@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Carbonite-Black-Dimensions(4804DR-408).pdf`
-- **File size:** 0.88 MB
+- **File size:** 905.15 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Production Switchers/Carbonite/Carbonite Black
 

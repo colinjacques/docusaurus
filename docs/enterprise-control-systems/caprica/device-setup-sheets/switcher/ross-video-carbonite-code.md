@@ -12,8 +12,8 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Ross Video Carbonite Code.pdf`
-- **File size:** 0.21 MB
-- **Last modified:** 2025-08-12
+- **File size:** 391.48 KB
+- **Last modified:** 2025-11-20
 - **Category:** Manuals/Enterprise Control Systems/Caprica/Device Setup Sheets/Switcher
 
 ---

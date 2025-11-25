@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Synergy-1-Display-Replacement-Installation-Guide(4800DR-352).pdf`
-- **File size:** 0.17 MB
+- **File size:** 171.38 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Production Switchers/Synergy/Installation Guides
 

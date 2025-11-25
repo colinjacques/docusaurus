@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Furio_Safety_Guide_5100DR-304-02.pdf`
-- **File size:** 0.75 MB
+- **File size:** 771.65 KB
 - **Last modified:** 2025-06-10
 - **Category:** Manuals/Robotic Camera Systems/Furio Robo
 

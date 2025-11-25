@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `XPression Memory Cache Settings (3500DR-542-02 Rev 2).pdf`
-- **File size:** 0.89 MB
+- **File size:** 911.63 KB
 - **Last modified:** 2025-09-09
 - **Category:** Manuals/CG and Graphics/XPression/Application Notes
 

@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Router_Philips Jupiter (4999DR-024).pdf`
-- **File size:** 0.24 MB
+- **File size:** 241.74 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Production Switchers/Vision/Device Setup/Routers
 

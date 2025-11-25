@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `BPS-Emergency-Repair-Guide-5100DR-381-01.pdf`
-- **File size:** 0.27 MB
+- **File size:** 278.2 KB
 - **Last modified:** 2025-06-10
 - **Category:** Manuals/Robotic Camera Systems/Furio Robo
 

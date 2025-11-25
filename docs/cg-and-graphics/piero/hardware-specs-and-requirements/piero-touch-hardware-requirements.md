@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `PIERO_Touch_Hardware_Requirements.pdf`
-- **File size:** 0.97 MB
+- **File size:** 994.4 KB
 - **Last modified:** 2025-10-23
 - **Category:** Manuals/CG and Graphics/PIERO/Hardware Specs and Requirements
 

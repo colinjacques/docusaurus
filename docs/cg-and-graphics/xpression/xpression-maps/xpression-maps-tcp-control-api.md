@@ -12,8 +12,8 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `XPression Maps TCP Control API (3500DR-023-2.0 Rev 4).pdf`
-- **File size:** 1.56 MB
-- **Last modified:** 2025-10-30
+- **File size:** 1.57 MB
+- **Last modified:** 2025-11-05
 - **Category:** Manuals/CG and Graphics/XPression/XPression Maps
 
 ---

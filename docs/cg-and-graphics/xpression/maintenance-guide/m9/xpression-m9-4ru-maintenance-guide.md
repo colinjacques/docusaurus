@@ -6,16 +6,16 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 # XPression M9 4RU Maintenance Guide
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Maintenance%20Guide/M9/XPression%20M9%204RU%20Maintenance%20Guide.pdf" title="XPression M9 4RU Maintenance Guide" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Maintenance%20Guide/M9/XPression%20M9%204RU%20Maintenance%20Guide%20(3509DR-005-01).pdf" title="XPression M9 4RU Maintenance Guide" />
 
 ---
 
 **Document Information:**
-- **Original filename:** `XPression M9 4RU Maintenance Guide.pdf`
-- **File size:** 48.94 MB
-- **Last modified:** 2025-07-30
+- **Original filename:** `XPression M9 4RU Maintenance Guide (3509DR-005-01).pdf`
+- **File size:** 52.22 MB
+- **Last modified:** 2025-11-11
 - **Category:** Manuals/CG and Graphics/XPression/Maintenance Guide/M9
 
 ---
 
-**External Link:** [XPression M9 4RU Maintenance Guide.pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Maintenance%20Guide/M9/XPression%20M9%204RU%20Maintenance%20Guide.pdf)
+**External Link:** [XPression M9 4RU Maintenance Guide (3509DR-005-01).pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Maintenance%20Guide/M9/XPression%20M9%204RU%20Maintenance%20Guide%20(3509DR-005-01).pdf)

@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `RAM-Replacement-IG(4802DR-301).pdf`
-- **File size:** 0.20 MB
+- **File size:** 203.98 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Production Switchers/Carbonite/Installation Guides
 

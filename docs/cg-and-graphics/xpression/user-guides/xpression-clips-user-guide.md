@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `XPression Clips User Guide (3500DR-019-12.5).pdf`
-- **File size:** 9.90 MB
+- **File size:** 9.9 MB
 - **Last modified:** 2025-09-09
 - **Category:** Manuals/CG and Graphics/XPression/User Guides
 

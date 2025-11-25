@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `ACO-2200 Quick Start Guide (2200DR-002).pdf`
-- **File size:** 0.92 MB
+- **File size:** 942.42 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Signal Processing/SRG-4400 and ACO-4400
 

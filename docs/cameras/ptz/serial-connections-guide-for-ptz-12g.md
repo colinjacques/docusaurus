@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Serial_Connections_Guide_for_PTZ-12G.pdf`
-- **File size:** 0.92 MB
+- **File size:** 940.18 KB
 - **Last modified:** 2025-06-09
 - **Category:** Manuals/Cameras/PTZ
 

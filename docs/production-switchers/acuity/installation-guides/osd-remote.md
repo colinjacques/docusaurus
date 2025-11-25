@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `OSD-Remote(4820DR-313).pdf`
-- **File size:** 0.60 MB
+- **File size:** 610.01 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Production Switchers/Acuity/Installation Guides
 

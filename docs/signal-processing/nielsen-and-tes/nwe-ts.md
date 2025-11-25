@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `NWE_TS.pdf`
-- **File size:** 0.92 MB
+- **File size:** 937.45 KB
 - **Last modified:** 2025-06-04
 - **Category:** Manuals/Signal Processing/Nielsen and TES
 

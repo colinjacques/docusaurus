@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `NEWT-SHELF Install Guide (1000DR-404).pdf`
-- **File size:** 0.75 MB
+- **File size:** 764.53 KB
 - **Last modified:** 2025-06-12
 - **Category:** Manuals/Signal Processing/Newt
 

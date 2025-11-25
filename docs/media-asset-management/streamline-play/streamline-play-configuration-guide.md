@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Streamline Play Configuration Guide (7850DR-002-1.0).pdf`
-- **File size:** 3.80 MB
+- **File size:** 3.8 MB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Media Asset Management/Streamline Play
 

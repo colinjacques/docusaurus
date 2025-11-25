@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Lucid Studio Hardware Specifications.pdf`
-- **File size:** 0.17 MB
+- **File size:** 175.28 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Virtual Production/Lucid
 

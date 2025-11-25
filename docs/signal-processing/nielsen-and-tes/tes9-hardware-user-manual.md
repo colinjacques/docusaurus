@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `TES9 Hardware User Manual (TES9DR-004A).pdf`
-- **File size:** 0.91 MB
+- **File size:** 932.99 KB
 - **Last modified:** 2025-06-04
 - **Category:** Manuals/Signal Processing/Nielsen and TES
 

@@ -12,8 +12,8 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Creating a New Caprica VM in Hyper-V.pdf`
-- **File size:** 0.58 MB
-- **Last modified:** 2025-08-12
+- **File size:** 606.05 KB
+- **Last modified:** 2025-11-20
 - **Category:** Manuals/Enterprise Control Systems/Caprica/Application Notes
 
 ---

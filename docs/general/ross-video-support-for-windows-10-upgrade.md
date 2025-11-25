@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Ross Video Support for Windows 10 Upgrade.pdf`
-- **File size:** 0.43 MB
+- **File size:** 439.81 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/General
 

@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Acuity-Touchscreen-Replacement(4820DR-317).pdf`
-- **File size:** 0.54 MB
+- **File size:** 548.31 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Production Switchers/Acuity/Installation Guides
 

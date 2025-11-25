@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Carbonite Button Inserts.pdf`
-- **File size:** 0.28 MB
+- **File size:** 281.95 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Production Switchers/Carbonite/Carbonite Black Solo
 

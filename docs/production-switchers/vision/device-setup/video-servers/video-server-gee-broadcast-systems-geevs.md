@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Video-Server_Gee Broadcast Systems Geevs (4999DR-006).pdf`
-- **File size:** 0.23 MB
+- **File size:** 238.38 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Production Switchers/Vision/Device Setup/Video Servers
 

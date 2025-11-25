@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Ultricool Quick Start Guide (2101DR-402).pdf`
-- **File size:** 1.60 MB
+- **File size:** 1.6 MB
 - **Last modified:** 2025-06-03
 - **Category:** Manuals/Routers/Ultricool
 

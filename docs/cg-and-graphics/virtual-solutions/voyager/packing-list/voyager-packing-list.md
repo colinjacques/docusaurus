@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Voyager Packing List.pdf`
-- **File size:** 0.27 MB
+- **File size:** 275.88 KB
 - **Last modified:** 2025-07-30
 - **Category:** Manuals/CG and Graphics/Virtual Solutions/Voyager/Packing List
 

@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `RCP-NK1 NKM Button Inserts.pdf`
-- **File size:** 0.43 MB
+- **File size:** 445.25 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Routers/NK
 

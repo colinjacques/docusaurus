@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Graphite-Dante(4850DR-302).pdf`
-- **File size:** 0.85 MB
+- **File size:** 865.52 KB
 - **Last modified:** 2025-08-27
 - **Category:** Manuals/All-in-One Production Systems/Graphite/App Notes
 

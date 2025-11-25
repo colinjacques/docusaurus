@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `PIVOTCam-20-User-Manual(5000DR-300).pdf`
-- **File size:** 0.56 MB
+- **File size:** 577.39 KB
 - **Last modified:** 2025-08-12
 - **Category:** Manuals/Cameras/PIVOTCam
 

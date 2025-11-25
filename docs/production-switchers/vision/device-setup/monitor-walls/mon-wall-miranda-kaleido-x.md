@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Mon-Wall_Miranda Kaleido-X (4999DR-060).pdf`
-- **File size:** 0.22 MB
+- **File size:** 225.91 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Production Switchers/Vision/Device Setup/Monitor Walls
 

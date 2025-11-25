@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `GPI On XPression App Note(3500DR-513-07).pdf`
-- **File size:** 0.29 MB
+- **File size:** 301.92 KB
 - **Last modified:** 2025-08-12
 - **Category:** Manuals/CG and Graphics/XPression/Application Notes
 

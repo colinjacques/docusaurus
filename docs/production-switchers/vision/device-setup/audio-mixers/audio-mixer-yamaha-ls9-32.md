@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Audio-Mixer_Yamaha LS9-32 (SMC-9901)(4999DR-069).pdf`
-- **File size:** 0.23 MB
+- **File size:** 234.59 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Production Switchers/Vision/Device Setup/Audio Mixers
 

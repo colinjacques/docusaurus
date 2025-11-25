@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `NWE-TS Quick Start Guide (NWETSDR-002).pdf`
-- **File size:** 0.82 MB
+- **File size:** 836.26 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Terminal Equipment/Nielsen and TES
 

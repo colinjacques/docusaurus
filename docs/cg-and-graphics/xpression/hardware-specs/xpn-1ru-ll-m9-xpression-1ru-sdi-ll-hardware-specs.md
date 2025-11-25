@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `XPN-1RU-LL-M9 XPression 1RU SDI LL Hardware Specs (3509DR-553-01 Rev 2).pdf`
-- **File size:** 0.22 MB
+- **File size:** 223.98 KB
 - **Last modified:** 2025-08-15
 - **Category:** Manuals/CG and Graphics/XPression/Hardware Specs
 

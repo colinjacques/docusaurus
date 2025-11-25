@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Tria - On-Set Application Note.pdf`
-- **File size:** 0.54 MB
+- **File size:** 552.04 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Video Servers/Tria
 

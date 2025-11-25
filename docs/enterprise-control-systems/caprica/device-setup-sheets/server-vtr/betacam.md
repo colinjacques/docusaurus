@@ -12,8 +12,8 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Betacam.pdf`
-- **File size:** 0.23 MB
-- **Last modified:** 2025-08-12
+- **File size:** 235.8 KB
+- **Last modified:** 2025-11-10
 - **Category:** Manuals/Enterprise Control Systems/Caprica/Device Setup Sheets/Server VTR
 
 ---

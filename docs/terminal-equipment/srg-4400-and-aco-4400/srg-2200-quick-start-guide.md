@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `SRG-2200 Quick Start Guide (2200DR-102).pdf`
-- **File size:** 0.69 MB
+- **File size:** 706.19 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Terminal Equipment/SRG-4400 and ACO-4400
 

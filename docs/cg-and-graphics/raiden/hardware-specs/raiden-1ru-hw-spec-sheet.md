@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Raiden_1RU_HW_Spec_Sheet.pdf`
-- **File size:** 0.20 MB
+- **File size:** 205.94 KB
 - **Last modified:** 2025-07-30
 - **Category:** Manuals/CG and Graphics/Raiden/Hardware Specs
 

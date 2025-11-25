@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Aux-Panel-Installation-Guide(4800DR-322).pdf`
-- **File size:** 0.44 MB
+- **File size:** 450.25 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Production Switchers/Vision/Installation Guides
 

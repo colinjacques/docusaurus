@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Audio-Mixer_Calrec Alpha Digital Audio Mixing System (4999DR-035).pdf`
-- **File size:** 0.10 MB
+- **File size:** 104.4 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Production Switchers/Vision/Device Setup/Audio Mixers
 

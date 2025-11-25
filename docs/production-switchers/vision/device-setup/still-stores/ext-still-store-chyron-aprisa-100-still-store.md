@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Ext-Still-Store_Chyron Aprisa 100 Still Store (4999DR-066).pdf`
-- **File size:** 0.22 MB
+- **File size:** 230.33 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Production Switchers/Vision/Device Setup/Still Stores
 

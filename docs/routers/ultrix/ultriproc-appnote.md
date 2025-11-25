@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Ultriproc_Appnote.pdf`
-- **File size:** 0.33 MB
+- **File size:** 340.83 KB
 - **Last modified:** 2025-10-24
 - **Category:** Manuals/Routers/Ultrix
 

@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `VOYAGER TRACKLESS STUDIO RELEASE NOTES.pdf`
-- **File size:** 0.41 MB
+- **File size:** 424.67 KB
 - **Last modified:** 2025-07-30
 - **Category:** Manuals/CG and Graphics/Virtual Solutions/Voyager Trackless Studio
 

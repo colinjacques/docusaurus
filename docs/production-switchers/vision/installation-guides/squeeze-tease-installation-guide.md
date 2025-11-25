@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Squeeze_Tease-Installation-Guide(4800DR-317).pdf`
-- **File size:** 0.29 MB
+- **File size:** 292.42 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Production Switchers/Vision/Installation Guides
 

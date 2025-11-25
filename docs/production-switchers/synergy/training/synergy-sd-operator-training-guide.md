@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Synergy SD Operator Training Guide.pdf`
-- **File size:** 0.65 MB
+- **File size:** 662.12 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Production Switchers/Synergy/Training
 

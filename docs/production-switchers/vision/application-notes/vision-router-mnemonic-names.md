@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Vision Router Mnemonic Names(4800DR-348).pdf`
-- **File size:** 0.98 MB
+- **File size:** 1000.04 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Production Switchers/Vision/Application Notes
 

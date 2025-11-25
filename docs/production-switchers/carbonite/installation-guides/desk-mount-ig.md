@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Desk-Mount-IG(4802DR-302).pdf`
-- **File size:** 0.38 MB
+- **File size:** 390.81 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Production Switchers/Carbonite/Installation Guides
 

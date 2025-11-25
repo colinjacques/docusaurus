@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Carbonite-Ultra-SOLO-Manual(4844DR-110).pdf`
-- **File size:** 13.10 MB
+- **File size:** 13.1 MB
 - **Last modified:** 2025-06-02
 - **Category:** Manuals/Production Switchers/Carbonite Ultra Solo
 

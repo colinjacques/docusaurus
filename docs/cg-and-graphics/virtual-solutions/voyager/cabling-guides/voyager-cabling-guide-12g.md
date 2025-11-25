@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Voyager Cabling Guide - 12G.pdf`
-- **File size:** 3.00 MB
+- **File size:** 3 MB
 - **Last modified:** 2025-07-30
 - **Category:** Manuals/CG and Graphics/Virtual Solutions/Voyager/Cabling Guides
 

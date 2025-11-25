@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Acuity-4K-UHD-Production(4820DR-508).pdf`
-- **File size:** 0.34 MB
+- **File size:** 349.46 KB
 - **Last modified:** 2025-09-04
 - **Category:** Manuals/Production Switchers/Acuity/Application Notes
 

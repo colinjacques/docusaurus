@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `CB9-Inserts-Update(4840DR-504).pdf`
-- **File size:** 0.18 MB
+- **File size:** 181.77 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Production Switchers/Carbonite/Carbonite Black
 

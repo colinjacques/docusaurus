@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Carbonite-Black-Mosaic-Hardware-QS(4807DR-200).pdf`
-- **File size:** 0.55 MB
+- **File size:** 561.73 KB
 - **Last modified:** 2025-06-02
 - **Category:** Manuals/Production Switchers/Mosaic
 

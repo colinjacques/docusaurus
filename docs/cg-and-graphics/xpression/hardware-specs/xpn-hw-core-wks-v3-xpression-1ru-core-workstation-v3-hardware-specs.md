@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `XPN-HW-CORE-WKS-V3 XPression 1RU Core Workstation V3 Hardware Specs (3509DR-551-01 Rev 3).pdf`
-- **File size:** 0.22 MB
+- **File size:** 220.41 KB
 - **Last modified:** 2025-08-15
 - **Category:** Manuals/CG and Graphics/XPression/Hardware Specs
 

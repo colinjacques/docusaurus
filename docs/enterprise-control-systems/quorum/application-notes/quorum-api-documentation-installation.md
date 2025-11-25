@@ -12,8 +12,8 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Quorum API Documentation Installation.pdf`
-- **File size:** 0.19 MB
-- **Last modified:** 2025-08-12
+- **File size:** 197.51 KB
+- **Last modified:** 2025-11-19
 - **Category:** Manuals/Enterprise Control Systems/Quorum/Application Notes
 
 ---

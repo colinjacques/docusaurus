@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Mira-Express-Hardware-QS(4604DR-200).pdf`
-- **File size:** 0.63 MB
+- **File size:** 641.26 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Video Servers/Mira Express
 

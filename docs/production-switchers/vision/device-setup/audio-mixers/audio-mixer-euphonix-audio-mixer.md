@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Audio-Mixer_euphonix Audio Mixer (4999DR-070).pdf`
-- **File size:** 0.22 MB
+- **File size:** 229.08 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Production Switchers/Vision/Device Setup/Audio Mixers
 

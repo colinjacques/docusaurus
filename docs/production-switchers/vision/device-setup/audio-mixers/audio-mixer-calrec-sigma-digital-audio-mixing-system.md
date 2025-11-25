@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Audio-Mixer_Calrec Sigma Digital Audio Mixing System (4999DR-036).pdf`
-- **File size:** 0.10 MB
+- **File size:** 104.72 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Production Switchers/Vision/Device Setup/Audio Mixers
 

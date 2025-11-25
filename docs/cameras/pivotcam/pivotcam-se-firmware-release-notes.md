@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `PIVOTCam-SE_Firmware_Release_Notes_(5000DR-302).pdf`
-- **File size:** 0.55 MB
+- **File size:** 558.95 KB
 - **Last modified:** 2025-05-12
 - **Category:** Manuals/Cameras/PIVOTCam
 

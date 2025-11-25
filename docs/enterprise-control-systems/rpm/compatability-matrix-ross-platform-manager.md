@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Compatability Matrix - Ross Platform Manager.pdf`
-- **File size:** 0.28 MB
+- **File size:** 282.52 KB
 - **Last modified:** 2025-08-12
 - **Category:** Manuals/Enterprise Control Systems/RPM
 

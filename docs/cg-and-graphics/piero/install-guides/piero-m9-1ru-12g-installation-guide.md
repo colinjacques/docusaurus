@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `PIERO_M9_1RU_12G_Installation_Guide.pdf`
-- **File size:** 3.60 MB
+- **File size:** 3.6 MB
 - **Last modified:** 2025-07-24
 - **Category:** Manuals/CG and Graphics/PIERO/Install Guides
 

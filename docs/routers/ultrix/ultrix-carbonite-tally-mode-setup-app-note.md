@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Ultrix-Carbonite Tally Mode Setup App Note.pdf`
-- **File size:** 0.88 MB
+- **File size:** 900.64 KB
 - **Last modified:** 2025-10-24
 - **Category:** Manuals/Routers/Ultrix
 

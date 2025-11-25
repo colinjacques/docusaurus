@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `NEWT-BRKT-EARS Install Guide (1000DR-408).pdf`
-- **File size:** 0.36 MB
+- **File size:** 373.13 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Terminal Equipment/Newt
 

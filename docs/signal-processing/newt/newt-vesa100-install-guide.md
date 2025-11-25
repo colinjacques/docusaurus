@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `NEWT-VESA100 Install Guide (1000DR-410).pdf`
-- **File size:** 0.46 MB
+- **File size:** 466.89 KB
 - **Last modified:** 2025-06-12
 - **Category:** Manuals/Signal Processing/Newt
 

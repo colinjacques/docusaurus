@@ -12,8 +12,8 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Setting the Hyper-V Automatic Start and Stop Options.pdf`
-- **File size:** 0.30 MB
-- **Last modified:** 2025-08-12
+- **File size:** 317.89 KB
+- **Last modified:** 2025-11-20
 - **Category:** Manuals/Enterprise Control Systems/Caprica/Application Notes
 
 ---

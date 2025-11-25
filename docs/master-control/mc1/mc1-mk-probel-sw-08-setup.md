@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `MC1-MK_Probel SW-08 Setup (MC1MKDR-105).pdf`
-- **File size:** 0.59 MB
+- **File size:** 604.6 KB
 - **Last modified:** 2025-06-12
 - **Category:** Manuals/Master Control/MC1
 

@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Router_GVG Encore 6101000xx (4999DR-030).pdf`
-- **File size:** 0.24 MB
+- **File size:** 241.09 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Production Switchers/Vision/Device Setup/Routers
 

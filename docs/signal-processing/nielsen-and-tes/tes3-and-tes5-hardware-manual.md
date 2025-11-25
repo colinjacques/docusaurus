@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `TES3 and TES5 Hardware Manual (TES3DR-004A).pdf`
-- **File size:** 0.72 MB
+- **File size:** 740.48 KB
 - **Last modified:** 2025-06-04
 - **Category:** Manuals/Signal Processing/Nielsen and TES
 

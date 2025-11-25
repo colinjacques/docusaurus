@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `XPression 2RU IP D25L Hardware Specs.pdf`
-- **File size:** 0.33 MB
+- **File size:** 335.99 KB
 - **Last modified:** 2025-07-30
 - **Category:** Manuals/CG and Graphics/XPression/Hardware Specs
 

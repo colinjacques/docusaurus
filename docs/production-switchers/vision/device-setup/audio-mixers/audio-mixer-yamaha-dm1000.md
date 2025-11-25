@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Audio-Mixer_Yamaha DM1000 (SMC-9901)(4999DR-093).pdf`
-- **File size:** 0.23 MB
+- **File size:** 235.57 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Production Switchers/Vision/Device Setup/Audio Mixers
 

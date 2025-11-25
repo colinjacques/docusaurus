@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `PIVOTCam Cabling and Control.pdf`
-- **File size:** 0.55 MB
+- **File size:** 561.34 KB
 - **Last modified:** 2025-05-12
 - **Category:** Manuals/Cameras/PIVOTCam
 

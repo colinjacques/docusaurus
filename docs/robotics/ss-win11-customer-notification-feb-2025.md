@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `SS Win11 Customer Notification Feb 2025.pdf`
-- **File size:** 0.48 MB
+- **File size:** 493.91 KB
 - **Last modified:** 2025-05-26
 - **Category:** Manuals/Robotics
 

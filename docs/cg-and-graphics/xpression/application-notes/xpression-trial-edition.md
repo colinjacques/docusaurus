@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `XPression Trial Edition (3500DR-548-01).pdf`
-- **File size:** 0.73 MB
+- **File size:** 744.42 KB
 - **Last modified:** 2025-10-14
 - **Category:** Manuals/CG and Graphics/XPression/Application Notes
 

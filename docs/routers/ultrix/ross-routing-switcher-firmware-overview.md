@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Ross Routing Switcher Firmware Overview (2100DR-110).pdf`
-- **File size:** 0.20 MB
+- **File size:** 206.25 KB
 - **Last modified:** 2025-10-24
 - **Category:** Manuals/Routers/Ultrix
 

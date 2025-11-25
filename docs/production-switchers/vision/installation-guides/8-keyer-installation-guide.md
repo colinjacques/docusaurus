@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `8-Keyer-Installation-Guide(4800DR-324).pdf`
-- **File size:** 0.07 MB
+- **File size:** 68.68 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Production Switchers/Vision/Installation Guides
 

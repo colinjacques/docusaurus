@@ -12,8 +12,8 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Grass Valley Kayenne.pdf`
-- **File size:** 0.44 MB
-- **Last modified:** 2025-08-12
+- **File size:** 456.74 KB
+- **Last modified:** 2025-11-20
 - **Category:** Manuals/Enterprise Control Systems/Caprica/Device Setup Sheets/Switcher
 
 ---

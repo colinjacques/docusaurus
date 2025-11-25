@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Upgrading XPression from Windows7 to Windows10 (3500DR-540).pdf`
-- **File size:** 0.78 MB
+- **File size:** 802.81 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/General
 

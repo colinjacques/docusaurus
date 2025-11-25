@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Canon_Camera_Paint_Control_Setup_Guide.pdf`
-- **File size:** 0.55 MB
+- **File size:** 558.19 KB
 - **Last modified:** 2025-05-26
 - **Category:** Manuals/Cameras/Plugins
 

@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Lightning - XPression Expanding Block for Lower Third.pdf`
-- **File size:** 0.06 MB
+- **File size:** 61.13 KB
 - **Last modified:** 2025-08-12
 - **Category:** Manuals/Enterprise Control Systems/Legislative Control System
 

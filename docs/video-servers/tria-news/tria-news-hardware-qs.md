@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Tria-News-Hardware-QS(4606DR-200).pdf`
-- **File size:** 0.21 MB
+- **File size:** 219.22 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Video Servers/Tria News
 

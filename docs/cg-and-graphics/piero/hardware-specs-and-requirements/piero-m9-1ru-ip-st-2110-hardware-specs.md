@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `PIERO_M9_1RU_IP ST 2110 Hardware Specs.pdf`
-- **File size:** 0.16 MB
+- **File size:** 164.78 KB
 - **Last modified:** 2025-10-23
 - **Category:** Manuals/CG and Graphics/PIERO/Hardware Specs and Requirements
 

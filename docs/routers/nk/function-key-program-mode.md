@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Function Key Program Mode(9807DR-023).pdf`
-- **File size:** 0.27 MB
+- **File size:** 276.42 KB
 - **Last modified:** 2025-06-02
 - **Category:** Manuals/Routers/NK
 

@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `MC1-MK_EAS-911 Setup Sheet (MC1MKDR-101).pdf`
-- **File size:** 0.70 MB
+- **File size:** 719.79 KB
 - **Last modified:** 2025-06-03
 - **Category:** Manuals/Signal Processing/Master Control/MC1
 

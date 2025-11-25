@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `CG_Vizrt (TCP) (4999DR-178).pdf`
-- **File size:** 0.37 MB
+- **File size:** 381.02 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Production Switchers/Vision/Device Setup/CGs
 

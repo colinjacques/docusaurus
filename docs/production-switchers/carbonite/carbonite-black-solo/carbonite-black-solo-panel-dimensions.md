@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Carbonite Black Solo Panel Dimensions.pdf`
-- **File size:** 0.30 MB
+- **File size:** 305.84 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Production Switchers/Carbonite/Carbonite Black Solo
 

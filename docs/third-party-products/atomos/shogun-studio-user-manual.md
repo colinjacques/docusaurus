@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Shogun_Studio_User_Manual.pdf`
-- **File size:** 1.50 MB
+- **File size:** 1.5 MB
 - **Last modified:** 2025-05-26
 - **Category:** Manuals/Third Party Products/Atomos
 

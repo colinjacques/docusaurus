@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Current Release Notes.pdf`
-- **File size:** 0.21 MB
+- **File size:** 214.15 KB
 - **Last modified:** 2025-10-30
 - **Category:** Manuals/CG and Graphics/XPression/Release Notes
 

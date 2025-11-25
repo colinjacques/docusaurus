@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `GVG100-Commands(4802DR-401).pdf`
-- **File size:** 0.44 MB
+- **File size:** 451 KB
 - **Last modified:** 2025-06-02
 - **Category:** Manuals/Production Switchers/Protocol Documents
 

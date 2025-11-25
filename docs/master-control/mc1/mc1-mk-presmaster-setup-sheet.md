@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `MC1-MK_Presmaster Setup Sheet (MC1MKDR-102).pdf`
-- **File size:** 0.64 MB
+- **File size:** 654.87 KB
 - **Last modified:** 2025-06-12
 - **Category:** Manuals/Master Control/MC1
 

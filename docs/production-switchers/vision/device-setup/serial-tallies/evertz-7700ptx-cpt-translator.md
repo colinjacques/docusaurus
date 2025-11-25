@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Evertz 7700PTX-CPT Translator(4999DR-120A).pdf`
-- **File size:** 0.31 MB
+- **File size:** 319.61 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Production Switchers/Vision/Device Setup/Serial Tallies
 

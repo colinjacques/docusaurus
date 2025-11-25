@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Release_Notes_for_Monogram_Configuration_Files_(5100DR-094-1.0A).pdf`
-- **File size:** 0.26 MB
+- **File size:** 262.57 KB
 - **Last modified:** 2025-05-12
 - **Category:** Manuals/Cameras/Monogram
 

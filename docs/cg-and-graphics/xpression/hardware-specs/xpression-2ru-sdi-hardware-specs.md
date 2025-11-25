@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `XPression 2RU SDI Hardware Specs.pdf`
-- **File size:** 0.31 MB
+- **File size:** 316.78 KB
 - **Last modified:** 2025-07-30
 - **Category:** Manuals/CG and Graphics/XPression/Hardware Specs
 

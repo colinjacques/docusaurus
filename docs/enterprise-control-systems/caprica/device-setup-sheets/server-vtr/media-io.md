@@ -12,8 +12,8 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Media IO.pdf`
-- **File size:** 0.18 MB
-- **Last modified:** 2025-08-12
+- **File size:** 183.57 KB
+- **Last modified:** 2025-11-10
 - **Category:** Manuals/Enterprise Control Systems/Caprica/Device Setup Sheets/Server VTR
 
 ---

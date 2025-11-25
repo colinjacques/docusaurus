@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `XPression Anti-Virus Best Practices (3500DR-500-03).pdf`
-- **File size:** 0.75 MB
+- **File size:** 769.63 KB
 - **Last modified:** 2025-10-14
 - **Category:** Manuals/CG and Graphics/XPression/Application Notes
 

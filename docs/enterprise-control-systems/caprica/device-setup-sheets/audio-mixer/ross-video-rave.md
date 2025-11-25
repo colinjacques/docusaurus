@@ -12,8 +12,8 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Ross Video Rave.pdf`
-- **File size:** 0.18 MB
-- **Last modified:** 2025-08-12
+- **File size:** 185.38 KB
+- **Last modified:** 2025-11-10
 - **Category:** Manuals/Enterprise Control Systems/Caprica/Device Setup Sheets/Audio Mixer
 
 ---

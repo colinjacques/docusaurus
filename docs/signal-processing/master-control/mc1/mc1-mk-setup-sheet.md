@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `MC1-MK_Setup Sheet (8922DR-211-01).pdf`
-- **File size:** 0.78 MB
+- **File size:** 797.21 KB
 - **Last modified:** 2025-06-09
 - **Category:** Manuals/Signal Processing/Master Control/MC1
 

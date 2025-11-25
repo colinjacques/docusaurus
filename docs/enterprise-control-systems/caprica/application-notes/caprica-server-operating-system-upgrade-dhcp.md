@@ -12,8 +12,8 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Caprica Server Operating System Upgrade - DHCP.pdf`
-- **File size:** 0.60 MB
-- **Last modified:** 2025-08-12
+- **File size:** 660.4 KB
+- **Last modified:** 2025-11-20
 - **Category:** Manuals/Enterprise Control Systems/Caprica/Application Notes
 
 ---

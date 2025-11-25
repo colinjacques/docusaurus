@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Carbonite-QS(4802DR-200).pdf`
-- **File size:** 0.70 MB
+- **File size:** 714.23 KB
 - **Last modified:** 2025-07-30
 - **Category:** Manuals/Production Switchers/Carbonite/Carbonite Black
 

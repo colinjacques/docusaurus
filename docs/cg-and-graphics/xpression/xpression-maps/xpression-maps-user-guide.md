@@ -12,8 +12,8 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `XPression Maps User Guide (SRC-3500DR-021-4.0).pdf`
-- **File size:** 64.35 MB
-- **Last modified:** 2025-10-30
+- **File size:** 64.37 MB
+- **Last modified:** 2025-11-05
 - **Category:** Manuals/CG and Graphics/XPression/XPression Maps
 
 ---

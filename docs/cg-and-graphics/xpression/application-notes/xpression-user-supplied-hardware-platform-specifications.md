@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `XPression User Supplied Hardware Platform Specifications (3509DR-506-01).pdf`
-- **File size:** 0.96 MB
+- **File size:** 985.72 KB
 - **Last modified:** 2025-10-28
 - **Category:** Manuals/CG and Graphics/XPression/Application Notes
 

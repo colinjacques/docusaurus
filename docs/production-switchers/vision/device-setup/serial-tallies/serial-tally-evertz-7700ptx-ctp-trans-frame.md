@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Serial-Tally_Evertz 7700PTX-CTP Trans - Frame (4999DR-120).pdf`
-- **File size:** 0.10 MB
+- **File size:** 102.57 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Production Switchers/Vision/Device Setup/Serial Tallies
 

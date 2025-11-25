@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Tria-Express-Hardware-QS(4603DR-200).pdf`
-- **File size:** 0.24 MB
+- **File size:** 247.68 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Video Servers/Tria Express
 

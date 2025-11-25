@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `IGGY-AES16-16 User Guide.pdf`
-- **File size:** 4.20 MB
+- **File size:** 4.2 MB
 - **Last modified:** 2025-06-02
 - **Category:** Manuals/Signal Processing/Iggy
 

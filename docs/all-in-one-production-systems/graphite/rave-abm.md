@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Rave_ABM.pdf`
-- **File size:** 0.34 MB
+- **File size:** 346.57 KB
 - **Last modified:** 2025-08-12
 - **Category:** Manuals/All-in-One Production Systems/Graphite
 

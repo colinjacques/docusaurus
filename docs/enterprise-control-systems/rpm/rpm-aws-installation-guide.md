@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `RPM_AWS_Installation_Guide.pdf`
-- **File size:** 0.73 MB
+- **File size:** 743.29 KB
 - **Last modified:** 2025-09-10
 - **Category:** Manuals/Enterprise Control Systems/RPM
 

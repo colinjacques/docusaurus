@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Mounting-IG(4840DR-300).pdf`
-- **File size:** 0.48 MB
+- **File size:** 489.4 KB
 - **Last modified:** 2025-07-30
 - **Category:** Manuals/Production Switchers/Carbonite/Carbonite Black Solo
 

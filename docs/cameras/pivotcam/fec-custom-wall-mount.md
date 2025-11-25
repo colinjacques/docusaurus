@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `FEC Custom Wall Mount.pdf`
-- **File size:** 0.60 MB
+- **File size:** 612.37 KB
 - **Last modified:** 2025-05-12
 - **Category:** Manuals/Cameras/PIVOTCam
 

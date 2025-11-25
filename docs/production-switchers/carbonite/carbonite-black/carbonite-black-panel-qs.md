@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Carbonite-Black-Panel-QS(4804DR-201).pdf`
-- **File size:** 0.96 MB
+- **File size:** 980.85 KB
 - **Last modified:** 2025-07-30
 - **Category:** Manuals/Production Switchers/Carbonite/Carbonite Black
 

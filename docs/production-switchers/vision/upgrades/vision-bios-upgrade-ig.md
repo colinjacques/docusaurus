@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Vision-BIOS-Upgrade-IG(4800DR-346).pdf`
-- **File size:** 0.45 MB
+- **File size:** 465.12 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Production Switchers/Vision/Upgrades
 

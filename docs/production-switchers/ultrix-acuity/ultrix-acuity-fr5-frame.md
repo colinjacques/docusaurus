@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Ultrix-Acuity-FR5-Frame(4842DR-200).pdf`
-- **File size:** 0.78 MB
+- **File size:** 801.61 KB
 - **Last modified:** 2025-07-30
 - **Category:** Manuals/Production Switchers/Ultrix Acuity
 

@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Ross_Video_End_User_Software_License_Agreement.pdf`
-- **File size:** 0.16 MB
+- **File size:** 161.93 KB
 - **Last modified:** 2025-05-26
 - **Category:** Manuals/Robotic Camera Systems/End User Agreement
 

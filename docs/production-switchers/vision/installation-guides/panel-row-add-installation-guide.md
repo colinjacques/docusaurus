@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Panel-Row-Add-Installation-Guide(4800DR-325).pdf`
-- **File size:** 0.91 MB
+- **File size:** 929.53 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Production Switchers/Vision/Installation Guides
 

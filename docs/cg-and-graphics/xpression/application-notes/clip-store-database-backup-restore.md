@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Clip Store Database Backup _ Restore(3500DR-532-01).pdf`
-- **File size:** 0.24 MB
+- **File size:** 244.89 KB
 - **Last modified:** 2025-08-12
 - **Category:** Manuals/CG and Graphics/XPression/Application Notes
 

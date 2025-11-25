@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `NDI_Networking_Appnote.pdf`
-- **File size:** 0.73 MB
+- **File size:** 749.72 KB
 - **Last modified:** 2025-10-24
 - **Category:** Manuals/Routers/Ultrix
 

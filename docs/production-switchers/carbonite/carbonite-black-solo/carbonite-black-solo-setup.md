@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Carbonite-Black-Solo-Setup(4840DR-120).pdf`
-- **File size:** 3.20 MB
+- **File size:** 3.2 MB
 - **Last modified:** 2025-06-02
 - **Category:** Manuals/Production Switchers/Carbonite/Carbonite Black Solo
 

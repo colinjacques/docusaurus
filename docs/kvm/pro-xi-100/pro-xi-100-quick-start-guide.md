@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `pro-xi 100 Quick Start Guide (PRO100DR-002).pdf`
-- **File size:** 0.79 MB
+- **File size:** 813.61 KB
 - **Last modified:** 2025-06-02
 - **Category:** Manuals/KVM/Pro-xi 100
 

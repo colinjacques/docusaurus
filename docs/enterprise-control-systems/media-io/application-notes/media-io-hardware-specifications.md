@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Media IO Hardware Specifications.pdf`
-- **File size:** 0.15 MB
+- **File size:** 154 KB
 - **Last modified:** 2025-08-12
 - **Category:** Manuals/Enterprise Control Systems/Media IO/Application Notes
 

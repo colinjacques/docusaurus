@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Ross Video Support for Windows 11 Upgrade.pdf`
-- **File size:** 0.16 MB
+- **File size:** 159.47 KB
 - **Last modified:** 2025-06-09
 - **Category:** Manuals/General
 

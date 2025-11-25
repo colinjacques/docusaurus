@@ -12,8 +12,8 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `XPRESSION MAPS RELEASE NOTES 4.0.pdf`
-- **File size:** 0.20 MB
-- **Last modified:** 2025-10-30
+- **File size:** 211.66 KB
+- **Last modified:** 2025-11-05
 - **Category:** Manuals/CG and Graphics/XPression/XPression Maps
 
 ---

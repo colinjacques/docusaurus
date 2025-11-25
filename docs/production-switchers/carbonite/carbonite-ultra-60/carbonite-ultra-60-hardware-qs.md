@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Carbonite-Ultra-60-Hardware-QS.pdf`
-- **File size:** 0.76 MB
+- **File size:** 778.56 KB
 - **Last modified:** 2025-07-30
 - **Category:** Manuals/Production Switchers/Carbonite/Carbonite Ultra 60
 

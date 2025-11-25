@@ -12,7 +12,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `UMD_Under Monitor Display (4999DR-086).pdf`
-- **File size:** 0.09 MB
+- **File size:** 93.34 KB
 - **Last modified:** 2025-08-13
 - **Category:** Manuals/Production Switchers/Vision/Device Setup
 
