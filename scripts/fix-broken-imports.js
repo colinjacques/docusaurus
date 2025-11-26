@@ -34,23 +34,33 @@ function createRedirectFile(missingPath, actualPath) {
     fs.mkdirSync(dir, { recursive: true });
   }
   
-  // Create index.md that redirects to the actual path
-  const indexFile = path.join(dir, filename + '.md');
+  // Create both .md and .ts files to handle both markdown and module imports
+  const mdFile = path.join(dir, filename + '.md');
+  const tsFile = path.join(dir, filename + '.ts');
   
   if (actualPath) {
-    // Calculate relative path
+    // Calculate relative path for markdown
     const relativePath = path.relative(dir, path.join(DOCS_DIR, actualPath));
     const redirectContent = `---
-title: Redirect
+title: ${filename.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase())}
 ---
 
 This page has been moved. Please see the [${filename} documentation](${relativePath}/).
 `;
     
-    fs.writeFileSync(indexFile, redirectContent);
-    console.log(`✅ Created redirect: ${indexFile} -> ${actualPath}`);
+    fs.writeFileSync(mdFile, redirectContent);
+    
+    // Create TypeScript module that exports a redirect component
+    const tsContent = `// Redirect module for ${filename}
+// This file exists to satisfy module imports
+export default function ${filename.replace(/-/g, '_')}() {
+  return null;
+}
+`;
+    fs.writeFileSync(tsFile, tsContent);
+    console.log(`✅ Created redirect: ${mdFile} and ${tsFile} -> ${actualPath}`);
   } else {
-    // Create a placeholder file to prevent build errors
+    // Create a placeholder markdown file
     const placeholderContent = `---
 title: ${filename.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase())}
 ---
@@ -58,8 +68,17 @@ title: ${filename.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase())}
 This documentation is being updated. Please check back soon.
 `;
     
-    fs.writeFileSync(indexFile, placeholderContent);
-    console.log(`✅ Created placeholder: ${indexFile}`);
+    fs.writeFileSync(mdFile, placeholderContent);
+    
+    // Create TypeScript module that exports a placeholder component
+    const tsContent = `// Placeholder module for ${filename}
+// This file exists to satisfy module imports
+export default function ${filename.replace(/-/g, '_')}() {
+  return null;
+}
+`;
+    fs.writeFileSync(tsFile, tsContent);
+    console.log(`✅ Created placeholder: ${mdFile} and ${tsFile}`);
   }
 }
 
