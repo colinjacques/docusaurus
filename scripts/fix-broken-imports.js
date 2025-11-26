@@ -34,13 +34,19 @@ function createRedirectFile(missingPath, actualPath) {
     fs.mkdirSync(dir, { recursive: true });
   }
   
-  // Create both .md and .ts files to handle both markdown and module imports
-  const mdFile = path.join(dir, filename + '.md');
-  const tsFile = path.join(dir, filename + '.ts');
+  // Create directory structure for module imports
+  const moduleDir = path.join(dir, filename);
+  if (!fs.existsSync(moduleDir)) {
+    fs.mkdirSync(moduleDir, { recursive: true });
+  }
+  
+  // Create index.md in the directory
+  const indexMdFile = path.join(moduleDir, 'index.md');
+  const indexTsFile = path.join(moduleDir, 'index.ts');
   
   if (actualPath) {
     // Calculate relative path for markdown
-    const relativePath = path.relative(dir, path.join(DOCS_DIR, actualPath));
+    const relativePath = path.relative(moduleDir, path.join(DOCS_DIR, actualPath));
     const redirectContent = `---
 title: ${filename.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase())}
 ---
@@ -48,7 +54,7 @@ title: ${filename.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase())}
 This page has been moved. Please see the [${filename} documentation](${relativePath}/).
 `;
     
-    fs.writeFileSync(mdFile, redirectContent);
+    fs.writeFileSync(indexMdFile, redirectContent);
     
     // Create TypeScript module that exports a redirect component
     const tsContent = `// Redirect module for ${filename}
@@ -57,8 +63,8 @@ export default function ${filename.replace(/-/g, '_')}() {
   return null;
 }
 `;
-    fs.writeFileSync(tsFile, tsContent);
-    console.log(`✅ Created redirect: ${mdFile} and ${tsFile} -> ${actualPath}`);
+    fs.writeFileSync(indexTsFile, tsContent);
+    console.log(`✅ Created redirect directory: ${moduleDir}/ -> ${actualPath}`);
   } else {
     // Create a placeholder markdown file
     const placeholderContent = `---
@@ -68,7 +74,7 @@ title: ${filename.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase())}
 This documentation is being updated. Please check back soon.
 `;
     
-    fs.writeFileSync(mdFile, placeholderContent);
+    fs.writeFileSync(indexMdFile, placeholderContent);
     
     // Create TypeScript module that exports a placeholder component
     const tsContent = `// Placeholder module for ${filename}
@@ -77,8 +83,8 @@ export default function ${filename.replace(/-/g, '_')}() {
   return null;
 }
 `;
-    fs.writeFileSync(tsFile, tsContent);
-    console.log(`✅ Created placeholder: ${mdFile} and ${tsFile}`);
+    fs.writeFileSync(indexTsFile, tsContent);
+    console.log(`✅ Created placeholder directory: ${moduleDir}/`);
   }
 }
 
