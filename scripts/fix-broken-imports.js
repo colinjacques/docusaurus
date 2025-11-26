@@ -57,6 +57,7 @@ This page has been moved. Please see the [${filename} documentation](${relativeP
     fs.writeFileSync(indexMdFile, redirectContent);
     
     // Create TypeScript module that exports a redirect component
+    // Also create .js and .mjs versions for better module resolution
     const tsContent = `// Redirect module for ${filename}
 // This file exists to satisfy module imports
 export default function ${filename.replace(/-/g, '_')}() {
@@ -64,6 +65,19 @@ export default function ${filename.replace(/-/g, '_')}() {
 }
 `;
     fs.writeFileSync(indexTsFile, tsContent);
+    
+    // Also create .js version
+    const jsFile = path.join(moduleDir, 'index.js');
+    fs.writeFileSync(jsFile, tsContent);
+    
+    // Create package.json to help with module resolution
+    const packageJson = path.join(moduleDir, 'package.json');
+    const packageContent = JSON.stringify({
+      "type": "module",
+      "main": "index.js",
+      "module": "index.js"
+    }, null, 2);
+    fs.writeFileSync(packageJson, packageContent);
     console.log(`✅ Created redirect directory: ${moduleDir}/ -> ${actualPath}`);
   } else {
     // Create a placeholder markdown file
@@ -77,6 +91,7 @@ This documentation is being updated. Please check back soon.
     fs.writeFileSync(indexMdFile, placeholderContent);
     
     // Create TypeScript module that exports a placeholder component
+    // Also create .js version for better module resolution
     const tsContent = `// Placeholder module for ${filename}
 // This file exists to satisfy module imports
 export default function ${filename.replace(/-/g, '_')}() {
@@ -84,6 +99,19 @@ export default function ${filename.replace(/-/g, '_')}() {
 }
 `;
     fs.writeFileSync(indexTsFile, tsContent);
+    
+    // Also create .js version
+    const jsFile = path.join(moduleDir, 'index.js');
+    fs.writeFileSync(jsFile, tsContent);
+    
+    // Create package.json to help with module resolution
+    const packageJson = path.join(moduleDir, 'package.json');
+    const packageContent = JSON.stringify({
+      "type": "module",
+      "main": "index.js",
+      "module": "index.js"
+    }, null, 2);
+    fs.writeFileSync(packageJson, packageContent);
     console.log(`✅ Created placeholder directory: ${moduleDir}/`);
   }
 }
