@@ -46,11 +46,36 @@ function resolveSitePath(sitePath) {
     return fullPath + '.md';
   }
   
+  // Try with .mdx extension
+  if (fileExists(fullPath + '.mdx')) {
+    return fullPath + '.mdx';
+  }
+  
+  // Try with .js extension (for module imports)
+  if (fileExists(fullPath + '.js')) {
+    return fullPath + '.js';
+  }
+  
+  // Try with .ts extension (for module imports)
+  if (fileExists(fullPath + '.ts')) {
+    return fullPath + '.ts';
+  }
+  
   // Try as directory with index.md
   if (dirExists(fullPath)) {
     const indexPath = path.join(fullPath, 'index.md');
     if (fileExists(indexPath)) {
       return indexPath;
+    }
+    // Try index.js
+    const indexJsPath = path.join(fullPath, 'index.js');
+    if (fileExists(indexJsPath)) {
+      return indexJsPath;
+    }
+    // Try index.ts
+    const indexTsPath = path.join(fullPath, 'index.ts');
+    if (fileExists(indexTsPath)) {
+      return indexTsPath;
     }
   }
   
@@ -120,6 +145,17 @@ function findMarkdownFiles(dir, fileList = []) {
 // Main cleanup function
 function cleanup() {
   console.log('🧹 Cleaning up broken references...\n');
+  
+  // Clear .docusaurus cache to remove stale references
+  const docusaurusCache = path.join(__dirname, '..', '.docusaurus');
+  if (fs.existsSync(docusaurusCache)) {
+    try {
+      fs.rmSync(docusaurusCache, { recursive: true, force: true });
+      console.log('✓ Cleared .docusaurus cache\n');
+    } catch (err) {
+      console.warn(`⚠️  Could not clear .docusaurus cache: ${err.message}\n`);
+    }
+  }
   
   const markdownFiles = findMarkdownFiles(DOCS_DIR);
   let removedCount = 0;
