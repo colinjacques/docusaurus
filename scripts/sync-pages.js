@@ -241,6 +241,32 @@ function getAllMarkdownFiles(dir, fileList = []) {
   return fileList;
 }
 
+// Paths that should always have index.js files to satisfy Docusaurus imports
+const REQUIRED_INDEX_PATHS = [
+  'docs/cg-and-graphics/xpression/application-notes/xpression-go/index.js',
+  'docs/cg-and-graphics/xpression/quick-install-hardware/go/index.js',
+  'docs/cg-and-graphics/xpression/quick-install-hardware/go2/index.js',
+];
+
+// Ensure required index.js files exist
+function ensureRequiredIndexFiles() {
+  for (const filePath of REQUIRED_INDEX_PATHS) {
+    const fullPath = path.join(__dirname, '..', filePath);
+    const dirPath = path.dirname(fullPath);
+    
+    // Ensure directory exists
+    if (!fs.existsSync(dirPath)) {
+      fs.mkdirSync(dirPath, { recursive: true });
+    }
+    
+    // Create index.js if it doesn't exist
+    if (!fs.existsSync(fullPath)) {
+      fs.writeFileSync(fullPath, '// Empty module to satisfy Docusaurus directory imports\nexport default null;\n', 'utf8');
+      console.log(`✓ Created required index.js: ${filePath}`);
+    }
+  }
+}
+
 // Remove files that are no longer in the JSON
 function removeObsoleteFiles() {
   const allMarkdownFiles = getAllMarkdownFiles(DOCS_DIR);
@@ -323,6 +349,10 @@ async function main() {
     // Remove obsolete files
     console.log('\n🧹 Cleaning up obsolete files...');
     removeObsoleteFiles();
+
+    // Ensure required index.js files exist for Docusaurus module resolution
+    console.log('\n📦 Ensuring required index.js files exist...');
+    ensureRequiredIndexFiles();
 
     console.log('\n✅ Page sync completed successfully!');
     console.log(`   Total pages synced: ${expectedFiles.size}`);
