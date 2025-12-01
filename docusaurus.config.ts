@@ -95,6 +95,9 @@ const config: Config = {
                 '@site/docs/cg-and-graphics/xpression/quick-install---hardware/go': emptyModulePath,
                 '@site/docs/cg-and-graphics/xpression/quick-install---hardware/go2': emptyModulePath,
               },
+              // Ensure index.js files are resolved for directory imports
+              mainFiles: ['index', '...'],
+              extensions: ['.js', '.jsx', '.ts', '.tsx', '.json', '...'],
             },
             plugins: [
               ...existingPlugins,
