@@ -73,9 +73,12 @@ const config: Config = {
           const emptyModulePath = path.resolve(__dirname, 'src', 'empty-module.js');
           
           // Get the actual paths to the index.js files we created
+          // Use relative paths from site root to match @site alias resolution
           const xpressionGoPath = path.resolve(__dirname, 'docs', 'cg-and-graphics', 'xpression', 'application-notes', 'xpression-go', 'index.js');
-          const goPath = path.resolve(__dirname, 'docs', 'cg-and-graphics', 'xpression', 'quick-install---hardware', 'go', 'index.js');
-          const go2Path = path.resolve(__dirname, 'docs', 'cg-and-graphics', 'xpression', 'quick-install---hardware', 'go2', 'index.js');
+          const goPathSingleDash = path.resolve(__dirname, 'docs', 'cg-and-graphics', 'xpression', 'quick-install-hardware', 'go', 'index.js');
+          const go2PathSingleDash = path.resolve(__dirname, 'docs', 'cg-and-graphics', 'xpression', 'quick-install-hardware', 'go2', 'index.js');
+          const goPathTripleDash = path.resolve(__dirname, 'docs', 'cg-and-graphics', 'xpression', 'quick-install---hardware', 'go', 'index.js');
+          const go2PathTripleDash = path.resolve(__dirname, 'docs', 'cg-and-graphics', 'xpression', 'quick-install---hardware', 'go2', 'index.js');
           
           // Merge with existing config instead of replacing
           const existingAlias = config.resolve?.alias || {};
@@ -90,12 +93,14 @@ const config: Config = {
                 // Check if this is one of our problematic paths
                 if (requestPath === '@site/docs/cg-and-graphics/xpression/application-notes/xpression-go') {
                   request.request = xpressionGoPath;
-                } else if (requestPath === '@site/docs/cg-and-graphics/xpression/quick-install---hardware/go' ||
-                           requestPath === '@site/docs/cg-and-graphics/xpression/quick-install-hardware/go') {
-                  request.request = goPath;
-                } else if (requestPath === '@site/docs/cg-and-graphics/xpression/quick-install---hardware/go2' ||
-                           requestPath === '@site/docs/cg-and-graphics/xpression/quick-install-hardware/go2') {
-                  request.request = go2Path;
+                } else if (requestPath === '@site/docs/cg-and-graphics/xpression/quick-install---hardware/go') {
+                  request.request = goPathTripleDash;
+                } else if (requestPath === '@site/docs/cg-and-graphics/xpression/quick-install---hardware/go2') {
+                  request.request = go2PathTripleDash;
+                } else if (requestPath === '@site/docs/cg-and-graphics/xpression/quick-install-hardware/go') {
+                  request.request = goPathSingleDash;
+                } else if (requestPath === '@site/docs/cg-and-graphics/xpression/quick-install-hardware/go2') {
+                  request.request = go2PathSingleDash;
                 }
                 
                 callback();
@@ -117,12 +122,12 @@ const config: Config = {
               alias: {
                 ...existingAlias,
                 // Alias broken import paths to actual index.js files
-                // Handle both triple-dash (---) and variations
+                // Handle both triple-dash (---) and single-dash variations
                 '@site/docs/cg-and-graphics/xpression/application-notes/xpression-go': xpressionGoPath,
-                '@site/docs/cg-and-graphics/xpression/quick-install---hardware/go': goPath,
-                '@site/docs/cg-and-graphics/xpression/quick-install---hardware/go2': go2Path,
-                '@site/docs/cg-and-graphics/xpression/quick-install-hardware/go': goPath,
-                '@site/docs/cg-and-graphics/xpression/quick-install-hardware/go2': go2Path,
+                '@site/docs/cg-and-graphics/xpression/quick-install---hardware/go': goPathTripleDash,
+                '@site/docs/cg-and-graphics/xpression/quick-install---hardware/go2': go2PathTripleDash,
+                '@site/docs/cg-and-graphics/xpression/quick-install-hardware/go': goPathSingleDash,
+                '@site/docs/cg-and-graphics/xpression/quick-install-hardware/go2': go2PathSingleDash,
               },
               plugins: [
                 ...(config.resolve?.plugins || []),
@@ -138,12 +143,20 @@ const config: Config = {
               ),
               // Handle both triple-dash and single-dash variations
               new webpack.NormalModuleReplacementPlugin(
-                /@site\/docs\/cg-and-graphics\/xpression\/quick-install-+-hardware\/go(\/.*)?$/,
-                goPath
+                /@site\/docs\/cg-and-graphics\/xpression\/quick-install---hardware\/go(\/.*)?$/,
+                goPathTripleDash
               ),
               new webpack.NormalModuleReplacementPlugin(
-                /@site\/docs\/cg-and-graphics\/xpression\/quick-install-+-hardware\/go2(\/.*)?$/,
-                go2Path
+                /@site\/docs\/cg-and-graphics\/xpression\/quick-install---hardware\/go2(\/.*)?$/,
+                go2PathTripleDash
+              ),
+              new webpack.NormalModuleReplacementPlugin(
+                /@site\/docs\/cg-and-graphics\/xpression\/quick-install-hardware\/go(\/.*)?$/,
+                goPathSingleDash
+              ),
+              new webpack.NormalModuleReplacementPlugin(
+                /@site\/docs\/cg-and-graphics\/xpression\/quick-install-hardware\/go2(\/.*)?$/,
+                go2PathSingleDash
               ),
             ],
           };
