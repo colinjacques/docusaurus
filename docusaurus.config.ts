@@ -1,6 +1,7 @@
 import {themes as prismThemes} from 'prism-react-renderer';
 import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
+import path from 'path';
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
@@ -61,6 +62,15 @@ const config: Config = {
       return {
         name: 'custom-webpack-config',
         configureWebpack(config, isServer) {
+          const webpack = require('webpack');
+          
+          // List of broken import paths to ignore
+          const brokenPaths = [
+            '@site/docs/cg-and-graphics/xpression/application-notes/xpression-go',
+            '@site/docs/cg-and-graphics/xpression/quick-install---hardware/go',
+            '@site/docs/cg-and-graphics/xpression/quick-install---hardware/go2',
+          ];
+          
           return {
             module: {
               rules: [
@@ -70,6 +80,20 @@ const config: Config = {
                 },
               ],
             },
+            resolve: {
+              alias: brokenPaths.reduce((acc, brokenPath) => {
+                // Create alias to an empty module
+                acc[brokenPath] = path.join(__dirname, 'src', 'empty-module.js');
+                return acc;
+              }, {}),
+            },
+            plugins: [
+              // Provide empty modules for broken imports
+              new webpack.NormalModuleReplacementPlugin(
+                /^@site\/docs\/cg-and-graphics\/xpression\/(application-notes\/xpression-go|quick-install---hardware\/(go|go2))$/,
+                path.join(__dirname, 'src', 'empty-module.js')
+              ),
+            ],
           };
         },
       };
