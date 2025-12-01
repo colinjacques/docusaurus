@@ -246,6 +246,8 @@ const REQUIRED_INDEX_PATHS = [
   'docs/cg-and-graphics/xpression/application-notes/xpression-go/index.js',
   'docs/cg-and-graphics/xpression/quick-install-hardware/go/index.js',
   'docs/cg-and-graphics/xpression/quick-install-hardware/go2/index.js',
+  'docs/cg-and-graphics/xpression/quick-install---hardware/go/index.js',
+  'docs/cg-and-graphics/xpression/quick-install---hardware/go2/index.js',
 ];
 
 // Ensure required index.js files exist
