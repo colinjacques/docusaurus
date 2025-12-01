@@ -63,13 +63,7 @@ const config: Config = {
         name: 'custom-webpack-config',
         configureWebpack(config, isServer) {
           const webpack = require('webpack');
-          
-          // List of broken import paths to ignore
-          const brokenPaths = [
-            '@site/docs/cg-and-graphics/xpression/application-notes/xpression-go',
-            '@site/docs/cg-and-graphics/xpression/quick-install---hardware/go',
-            '@site/docs/cg-and-graphics/xpression/quick-install---hardware/go2',
-          ];
+          const emptyModulePath = path.join(__dirname, 'src', 'empty-module.js');
           
           return {
             module: {
@@ -81,17 +75,26 @@ const config: Config = {
               ],
             },
             resolve: {
-              alias: brokenPaths.reduce((acc, brokenPath) => {
-                // Create alias to an empty module
-                acc[brokenPath] = path.join(__dirname, 'src', 'empty-module.js');
-                return acc;
-              }, {}),
+              alias: {
+                // Alias broken import paths to empty module
+                '@site/docs/cg-and-graphics/xpression/application-notes/xpression-go': emptyModulePath,
+                '@site/docs/cg-and-graphics/xpression/quick-install---hardware/go': emptyModulePath,
+                '@site/docs/cg-and-graphics/xpression/quick-install---hardware/go2': emptyModulePath,
+              },
             },
             plugins: [
-              // Provide empty modules for broken imports
+              // Catch any variations of these paths
               new webpack.NormalModuleReplacementPlugin(
-                /^@site\/docs\/cg-and-graphics\/xpression\/(application-notes\/xpression-go|quick-install---hardware\/(go|go2))$/,
-                path.join(__dirname, 'src', 'empty-module.js')
+                /@site\/docs\/cg-and-graphics\/xpression\/application-notes\/xpression-go$/,
+                emptyModulePath
+              ),
+              new webpack.NormalModuleReplacementPlugin(
+                /@site\/docs\/cg-and-graphics\/xpression\/quick-install---hardware\/go$/,
+                emptyModulePath
+              ),
+              new webpack.NormalModuleReplacementPlugin(
+                /@site\/docs\/cg-and-graphics\/xpression\/quick-install---hardware\/go2$/,
+                emptyModulePath
               ),
             ],
           };
