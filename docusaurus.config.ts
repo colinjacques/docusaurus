@@ -44,6 +44,12 @@ const config: Config = {
         docs: {
           sidebarPath: './sidebars.ts',
           routeBasePath: 'docs',
+          // Exclude empty placeholder directories that cause import errors
+          exclude: [
+            '**/cg-and-graphics/xpression/application-notes/xpression-go/**',
+            '**/cg-and-graphics/xpression/quick-install---hardware/go/**',
+            '**/cg-and-graphics/xpression/quick-install---hardware/go2/**',
+          ],
         },
         blog: false,
         theme: {
