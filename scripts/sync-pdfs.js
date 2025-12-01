@@ -42,6 +42,7 @@ function toKebabCase(str) {
   return str
     .replace(/([a-z])([A-Z])/g, '$1-$2')
     .replace(/[\s_]+/g, '-')
+    .replace(/-+/g, '-') // Replace multiple consecutive dashes with single dash
     .toLowerCase();
 }
 
