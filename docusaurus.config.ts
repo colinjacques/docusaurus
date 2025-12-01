@@ -115,11 +115,12 @@ const config: Config = {
               ...config.resolve,
               alias: {
                 ...existingAlias,
-                // Alias broken import paths to actual index.js files
+                // Alias broken import paths to actual index.js files using relative paths
                 // Only single-dash paths (triple-dash should not exist after toKebabCase fix)
-                '@site/docs/cg-and-graphics/xpression/application-notes/xpression-go': xpressionGoPath,
-                '@site/docs/cg-and-graphics/xpression/quick-install-hardware/go': goPath,
-                '@site/docs/cg-and-graphics/xpression/quick-install-hardware/go2': go2Path,
+                // Use relative paths from site root to match @site alias resolution
+                '@site/docs/cg-and-graphics/xpression/application-notes/xpression-go': path.relative(path.resolve(__dirname), xpressionGoPath),
+                '@site/docs/cg-and-graphics/xpression/quick-install-hardware/go': path.relative(path.resolve(__dirname), goPath),
+                '@site/docs/cg-and-graphics/xpression/quick-install-hardware/go2': path.relative(path.resolve(__dirname), go2Path),
               },
               plugins: [
                 ...(config.resolve?.plugins || []),
