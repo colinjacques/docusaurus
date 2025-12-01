@@ -59,6 +59,9 @@ jobs:
           branch: ${{ github.ref_name }}
           force: false
 
+      - name: Clear Docusaurus cache
+        run: npm run clear
+
       - name: Cleanup broken references before build
         run: npm run cleanup
 
