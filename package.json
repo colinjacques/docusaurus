@@ -14,6 +14,7 @@
     "write-heading-ids": "docusaurus write-heading-ids",
     "typecheck": "tsc",
     "sync-pdfs": "node scripts/sync-pdfs.js",
+    "sync-pages": "node scripts/sync-pages.js",
     "cleanup": "node scripts/cleanup-broken-refs.js",
     "prebuild": "npm run cleanup && node scripts/fix-broken-imports.js"
   },
