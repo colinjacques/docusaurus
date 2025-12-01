@@ -49,6 +49,8 @@ const config: Config = {
             '**/cg-and-graphics/xpression/application-notes/xpression-go/**',
             '**/cg-and-graphics/xpression/quick-install---hardware/go/**',
             '**/cg-and-graphics/xpression/quick-install---hardware/go2/**',
+            '**/cg-and-graphics/xpression/quick-install-hardware/go/**',
+            '**/cg-and-graphics/xpression/quick-install-hardware/go2/**',
           ],
         },
         blog: false,
