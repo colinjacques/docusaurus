@@ -45,11 +45,11 @@ const config: Config = {
           sidebarPath: './sidebars.ts',
           routeBasePath: 'docs',
           // Exclude empty placeholder directories that cause import errors
-          // These patterns catch both triple-dash and single-dash variations
+          // Only exclude single-dash paths (triple-dash should not exist after toKebabCase fix)
           exclude: [
             '**/cg-and-graphics/xpression/application-notes/xpression-go/**',
-            '**/cg-and-graphics/xpression/quick-install-*-hardware/go/**',
-            '**/cg-and-graphics/xpression/quick-install-*-hardware/go2/**',
+            '**/cg-and-graphics/xpression/quick-install-hardware/go/**',
+            '**/cg-and-graphics/xpression/quick-install-hardware/go2/**',
           ],
         },
         blog: false,
@@ -73,12 +73,10 @@ const config: Config = {
           const emptyModulePath = path.resolve(__dirname, 'src', 'empty-module.js');
           
           // Get the actual paths to the index.js files we created
-          // Use relative paths from site root to match @site alias resolution
+          // Only single-dash paths (triple-dash should not exist after toKebabCase fix)
           const xpressionGoPath = path.resolve(__dirname, 'docs', 'cg-and-graphics', 'xpression', 'application-notes', 'xpression-go', 'index.js');
-          const goPathSingleDash = path.resolve(__dirname, 'docs', 'cg-and-graphics', 'xpression', 'quick-install-hardware', 'go', 'index.js');
-          const go2PathSingleDash = path.resolve(__dirname, 'docs', 'cg-and-graphics', 'xpression', 'quick-install-hardware', 'go2', 'index.js');
-          const goPathTripleDash = path.resolve(__dirname, 'docs', 'cg-and-graphics', 'xpression', 'quick-install---hardware', 'go', 'index.js');
-          const go2PathTripleDash = path.resolve(__dirname, 'docs', 'cg-and-graphics', 'xpression', 'quick-install---hardware', 'go2', 'index.js');
+          const goPath = path.resolve(__dirname, 'docs', 'cg-and-graphics', 'xpression', 'quick-install-hardware', 'go', 'index.js');
+          const go2Path = path.resolve(__dirname, 'docs', 'cg-and-graphics', 'xpression', 'quick-install-hardware', 'go2', 'index.js');
           
           // Merge with existing config instead of replacing
           const existingAlias = config.resolve?.alias || {};
@@ -90,17 +88,13 @@ const config: Config = {
               resolver.hooks.resolve.tapAsync('BrokenPathResolver', (request, resolveContext, callback) => {
                 const requestPath = request.request;
                 
-                // Check if this is one of our problematic paths
+                // Check if this is one of our problematic paths (only single-dash paths)
                 if (requestPath === '@site/docs/cg-and-graphics/xpression/application-notes/xpression-go') {
                   request.request = xpressionGoPath;
-                } else if (requestPath === '@site/docs/cg-and-graphics/xpression/quick-install---hardware/go') {
-                  request.request = goPathTripleDash;
-                } else if (requestPath === '@site/docs/cg-and-graphics/xpression/quick-install---hardware/go2') {
-                  request.request = go2PathTripleDash;
                 } else if (requestPath === '@site/docs/cg-and-graphics/xpression/quick-install-hardware/go') {
-                  request.request = goPathSingleDash;
+                  request.request = goPath;
                 } else if (requestPath === '@site/docs/cg-and-graphics/xpression/quick-install-hardware/go2') {
-                  request.request = go2PathSingleDash;
+                  request.request = go2Path;
                 }
                 
                 callback();
@@ -122,12 +116,10 @@ const config: Config = {
               alias: {
                 ...existingAlias,
                 // Alias broken import paths to actual index.js files
-                // Handle both triple-dash (---) and single-dash variations
+                // Only single-dash paths (triple-dash should not exist after toKebabCase fix)
                 '@site/docs/cg-and-graphics/xpression/application-notes/xpression-go': xpressionGoPath,
-                '@site/docs/cg-and-graphics/xpression/quick-install---hardware/go': goPathTripleDash,
-                '@site/docs/cg-and-graphics/xpression/quick-install---hardware/go2': go2PathTripleDash,
-                '@site/docs/cg-and-graphics/xpression/quick-install-hardware/go': goPathSingleDash,
-                '@site/docs/cg-and-graphics/xpression/quick-install-hardware/go2': go2PathSingleDash,
+                '@site/docs/cg-and-graphics/xpression/quick-install-hardware/go': goPath,
+                '@site/docs/cg-and-graphics/xpression/quick-install-hardware/go2': go2Path,
               },
               plugins: [
                 ...(config.resolve?.plugins || []),
@@ -141,22 +133,14 @@ const config: Config = {
                 /@site\/docs\/cg-and-graphics\/xpression\/application-notes\/xpression-go(\/.*)?$/,
                 xpressionGoPath
               ),
-              // Handle both triple-dash and single-dash variations
-              new webpack.NormalModuleReplacementPlugin(
-                /@site\/docs\/cg-and-graphics\/xpression\/quick-install---hardware\/go(\/.*)?$/,
-                goPathTripleDash
-              ),
-              new webpack.NormalModuleReplacementPlugin(
-                /@site\/docs\/cg-and-graphics\/xpression\/quick-install---hardware\/go2(\/.*)?$/,
-                go2PathTripleDash
-              ),
+              // Only handle single-dash paths (triple-dash should not exist after toKebabCase fix)
               new webpack.NormalModuleReplacementPlugin(
                 /@site\/docs\/cg-and-graphics\/xpression\/quick-install-hardware\/go(\/.*)?$/,
-                goPathSingleDash
+                goPath
               ),
               new webpack.NormalModuleReplacementPlugin(
                 /@site\/docs\/cg-and-graphics\/xpression\/quick-install-hardware\/go2(\/.*)?$/,
-                go2PathSingleDash
+                go2Path
               ),
             ],
           };
