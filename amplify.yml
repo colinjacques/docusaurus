@@ -5,9 +5,8 @@ frontend:
       commands:
         - node --version
         - npm --version
-        - npm ci
-        - npm run sync-pages
-        - npm run cleanup
+      - npm ci
+      - npm run sync-pages
     build:
       commands:
         - npm run build

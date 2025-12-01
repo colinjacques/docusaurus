@@ -28,9 +28,6 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Cleanup broken references
-        run: npm run cleanup
-
       - name: Sync pages from SharePoint mapping
         run: npm run sync-pages
 
@@ -61,9 +58,6 @@ jobs:
 
       - name: Clear Docusaurus cache
         run: npm run clear
-
-      - name: Cleanup broken references before build
-        run: npm run cleanup
 
       - name: Build Docusaurus
         run: npm run build

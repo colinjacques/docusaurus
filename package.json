@@ -15,8 +15,7 @@
     "typecheck": "tsc",
     "sync-pdfs": "node scripts/sync-pdfs.js",
     "sync-pages": "node scripts/sync-pages.js",
-    "cleanup": "node scripts/cleanup-broken-refs.js",
-    "prebuild": "npm run cleanup"
+    "cleanup": "node scripts/cleanup-broken-refs.js"
   },
   "dependencies": {
     "@docusaurus/core": "3.9.2",

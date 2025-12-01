@@ -45,12 +45,11 @@ const config: Config = {
           sidebarPath: './sidebars.ts',
           routeBasePath: 'docs',
           // Exclude empty placeholder directories that cause import errors
+          // These patterns catch both triple-dash and single-dash variations
           exclude: [
             '**/cg-and-graphics/xpression/application-notes/xpression-go/**',
-            '**/cg-and-graphics/xpression/quick-install---hardware/go/**',
-            '**/cg-and-graphics/xpression/quick-install---hardware/go2/**',
-            '**/cg-and-graphics/xpression/quick-install-hardware/go/**',
-            '**/cg-and-graphics/xpression/quick-install-hardware/go2/**',
+            '**/cg-and-graphics/xpression/quick-install-*-hardware/go/**',
+            '**/cg-and-graphics/xpression/quick-install-*-hardware/go2/**',
           ],
         },
         blog: false,
@@ -73,9 +72,36 @@ const config: Config = {
           const webpack = require('webpack');
           const emptyModulePath = path.resolve(__dirname, 'src', 'empty-module.js');
           
+          // Get the actual paths to the index.js files we created
+          const xpressionGoPath = path.resolve(__dirname, 'docs', 'cg-and-graphics', 'xpression', 'application-notes', 'xpression-go', 'index.js');
+          const goPath = path.resolve(__dirname, 'docs', 'cg-and-graphics', 'xpression', 'quick-install---hardware', 'go', 'index.js');
+          const go2Path = path.resolve(__dirname, 'docs', 'cg-and-graphics', 'xpression', 'quick-install---hardware', 'go2', 'index.js');
+          
           // Merge with existing config instead of replacing
           const existingAlias = config.resolve?.alias || {};
           const existingPlugins = config.plugins || [];
+          
+          // Create a custom resolver plugin that runs early
+          class BrokenPathResolver {
+            apply(resolver) {
+              resolver.hooks.resolve.tapAsync('BrokenPathResolver', (request, resolveContext, callback) => {
+                const requestPath = request.request;
+                
+                // Check if this is one of our problematic paths
+                if (requestPath === '@site/docs/cg-and-graphics/xpression/application-notes/xpression-go') {
+                  request.request = xpressionGoPath;
+                } else if (requestPath === '@site/docs/cg-and-graphics/xpression/quick-install---hardware/go' ||
+                           requestPath === '@site/docs/cg-and-graphics/xpression/quick-install-hardware/go') {
+                  request.request = goPath;
+                } else if (requestPath === '@site/docs/cg-and-graphics/xpression/quick-install---hardware/go2' ||
+                           requestPath === '@site/docs/cg-and-graphics/xpression/quick-install-hardware/go2') {
+                  request.request = go2Path;
+                }
+                
+                callback();
+              });
+            }
+          }
           
           return {
             module: {
@@ -90,29 +116,34 @@ const config: Config = {
               ...config.resolve,
               alias: {
                 ...existingAlias,
-                // Alias broken import paths to empty module
-                '@site/docs/cg-and-graphics/xpression/application-notes/xpression-go': emptyModulePath,
-                '@site/docs/cg-and-graphics/xpression/quick-install---hardware/go': emptyModulePath,
-                '@site/docs/cg-and-graphics/xpression/quick-install---hardware/go2': emptyModulePath,
+                // Alias broken import paths to actual index.js files
+                // Handle both triple-dash (---) and variations
+                '@site/docs/cg-and-graphics/xpression/application-notes/xpression-go': xpressionGoPath,
+                '@site/docs/cg-and-graphics/xpression/quick-install---hardware/go': goPath,
+                '@site/docs/cg-and-graphics/xpression/quick-install---hardware/go2': go2Path,
+                '@site/docs/cg-and-graphics/xpression/quick-install-hardware/go': goPath,
+                '@site/docs/cg-and-graphics/xpression/quick-install-hardware/go2': go2Path,
               },
-              // Ensure index.js files are resolved for directory imports
-              mainFiles: ['index', '...'],
-              extensions: ['.js', '.jsx', '.ts', '.tsx', '.json', '...'],
+              plugins: [
+                ...(config.resolve?.plugins || []),
+                new BrokenPathResolver(),
+              ],
             },
             plugins: [
               ...existingPlugins,
-              // Catch these imports and replace with empty module
+              // Use a more aggressive approach - catch any variation of these paths
               new webpack.NormalModuleReplacementPlugin(
-                /^@site\/docs\/cg-and-graphics\/xpression\/application-notes\/xpression-go$/,
-                emptyModulePath
+                /@site\/docs\/cg-and-graphics\/xpression\/application-notes\/xpression-go(\/.*)?$/,
+                xpressionGoPath
+              ),
+              // Handle both triple-dash and single-dash variations
+              new webpack.NormalModuleReplacementPlugin(
+                /@site\/docs\/cg-and-graphics\/xpression\/quick-install-+-hardware\/go(\/.*)?$/,
+                goPath
               ),
               new webpack.NormalModuleReplacementPlugin(
-                /^@site\/docs\/cg-and-graphics\/xpression\/quick-install---hardware\/go$/,
-                emptyModulePath
-              ),
-              new webpack.NormalModuleReplacementPlugin(
-                /^@site\/docs\/cg-and-graphics\/xpression\/quick-install---hardware\/go2$/,
-                emptyModulePath
+                /@site\/docs\/cg-and-graphics\/xpression\/quick-install-+-hardware\/go2(\/.*)?$/,
+                go2Path
               ),
             ],
           };
