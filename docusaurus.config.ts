@@ -71,7 +71,11 @@ const config: Config = {
         name: 'custom-webpack-config',
         configureWebpack(config, isServer) {
           const webpack = require('webpack');
-          const emptyModulePath = path.join(__dirname, 'src', 'empty-module.js');
+          const emptyModulePath = path.resolve(__dirname, 'src', 'empty-module.js');
+          
+          // Merge with existing config instead of replacing
+          const existingAlias = config.resolve?.alias || {};
+          const existingPlugins = config.plugins || [];
           
           return {
             module: {
@@ -83,7 +87,9 @@ const config: Config = {
               ],
             },
             resolve: {
+              ...config.resolve,
               alias: {
+                ...existingAlias,
                 // Alias broken import paths to empty module
                 '@site/docs/cg-and-graphics/xpression/application-notes/xpression-go': emptyModulePath,
                 '@site/docs/cg-and-graphics/xpression/quick-install---hardware/go': emptyModulePath,
@@ -91,17 +97,18 @@ const config: Config = {
               },
             },
             plugins: [
-              // Catch any variations of these paths
+              ...existingPlugins,
+              // Catch these imports and replace with empty module
               new webpack.NormalModuleReplacementPlugin(
-                /@site\/docs\/cg-and-graphics\/xpression\/application-notes\/xpression-go$/,
+                /^@site\/docs\/cg-and-graphics\/xpression\/application-notes\/xpression-go$/,
                 emptyModulePath
               ),
               new webpack.NormalModuleReplacementPlugin(
-                /@site\/docs\/cg-and-graphics\/xpression\/quick-install---hardware\/go$/,
+                /^@site\/docs\/cg-and-graphics\/xpression\/quick-install---hardware\/go$/,
                 emptyModulePath
               ),
               new webpack.NormalModuleReplacementPlugin(
-                /@site\/docs\/cg-and-graphics\/xpression\/quick-install---hardware\/go2$/,
+                /^@site\/docs\/cg-and-graphics\/xpression\/quick-install---hardware\/go2$/,
                 emptyModulePath
               ),
             ],
