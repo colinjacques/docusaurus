@@ -4,7 +4,7 @@ These scripts automatically sync documentation from the SharePoint mapping JSON 
 
 ## Scripts Overview
 
-### `sync-pages.js` (Recommended)
+### `sync-pages.js`
 
 The comprehensive sync script that:
 1. Fetches the SharePoint mapping JSON from `https://documentation.rossvideo.com/sharepoint_mapping.json`
@@ -13,20 +13,13 @@ The comprehensive sync script that:
 4. **Removes obsolete files** that are no longer in the JSON mapping
 5. Maps SharePoint folder structure to Docusaurus docs structure
 
-### `sync-pdfs.js` (Legacy)
-
-The original script that only syncs PDF files. Use `sync-pages.js` instead for comprehensive syncing.
-
 ## Usage
 
 ### Manual Run
 
 ```bash
-# Sync all pages (recommended)
+# Sync all pages
 npm run sync-pages
-
-# Sync only PDFs (legacy)
-npm run sync-pdfs
 ```
 
 ### Automated Updates
@@ -48,7 +41,7 @@ The script maps SharePoint folder names to Docusaurus docs folders:
 - `CG and Graphics` → `cg-and-graphics`
 - `Enterprise Control Systems` → `enterprise-control-systems`
 - `Terminal Equipment` → `terminal-equipment`
-- And more... (see `FOLDER_MAPPING` in `sync-pdfs.js`)
+- And more... (see `FOLDER_MAPPING` in `sync-pages.js`)
 
 Subfolders are automatically converted to kebab-case (e.g., "User Guides" → "user-guides").
 

@@ -45,11 +45,15 @@ const config: Config = {
           sidebarPath: './sidebars.ts',
           routeBasePath: 'docs',
           // Exclude empty placeholder directories that cause import errors
+          // Exclude both the directory itself and all contents
           // Only exclude single-dash paths (triple-dash should not exist after toKebabCase fix)
           exclude: [
             '**/cg-and-graphics/xpression/application-notes/xpression-go/**',
+            '**/cg-and-graphics/xpression/application-notes/xpression-go',
             '**/cg-and-graphics/xpression/quick-install-hardware/go/**',
+            '**/cg-and-graphics/xpression/quick-install-hardware/go',
             '**/cg-and-graphics/xpression/quick-install-hardware/go2/**',
+            '**/cg-and-graphics/xpression/quick-install-hardware/go2',
           ],
         },
         blog: false,
@@ -127,6 +131,9 @@ const config: Config = {
                 '@site/docs/cg-and-graphics/xpression/quick-install-hardware/go': goPath,
                 '@site/docs/cg-and-graphics/xpression/quick-install-hardware/go2': go2Path,
               },
+              // Ensure directory imports resolve to index.js
+              mainFiles: ['index', '...'],
+              extensions: ['.js', '.jsx', '.ts', '.tsx', '.json', ...(config.resolve?.extensions || [])],
               plugins: [
                 ...(config.resolve?.plugins || []),
                 new BrokenPathResolver(),

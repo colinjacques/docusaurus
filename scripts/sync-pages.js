@@ -273,6 +273,22 @@ function removeObsoleteFiles() {
   const allMarkdownFiles = getAllMarkdownFiles(DOCS_DIR);
   const filesToRemove = allMarkdownFiles.filter(file => !expectedFiles.has(file));
 
+  // Also remove problematic .js files that cause Docusaurus import issues
+  const problematicJsFiles = [
+    path.join(DOCS_DIR, 'cg-and-graphics', 'xpression', 'application-notes', 'xpression-go.js'),
+  ];
+  
+  for (const jsFile of problematicJsFiles) {
+    if (fs.existsSync(jsFile)) {
+      try {
+        fs.unlinkSync(jsFile);
+        console.log(`  ✗ Removed problematic .js file: ${path.relative(process.cwd(), jsFile)}`);
+      } catch (error) {
+        console.error(`  ⚠ Failed to remove ${jsFile}: ${error.message}`);
+      }
+    }
+  }
+
   if (filesToRemove.length === 0) {
     console.log('\n✓ No obsolete files to remove');
     return;
