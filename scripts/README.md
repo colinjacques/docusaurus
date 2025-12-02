@@ -79,6 +79,15 @@ Non-PDF files generate markdown files with:
 - Verify GitHub Actions are enabled for the repository
 - Check workflow permissions in repository settings
 
+### Git conflicts in daily sync
+The workflow includes conflict prevention:
+- **Pulls latest changes** before syncing to avoid conflicts
+- **Pulls again before pushing** to handle concurrent changes
+- Uses `--rebase` to maintain a clean history
+- If conflicts occur, the workflow will fail gracefully and can be retried
+
+**Note:** If you're making manual changes, try to avoid pushing during the scheduled sync time (2 AM UTC) to minimize conflicts.
+
 ## Manual Workflow Trigger
 
 You can manually trigger the GitHub Actions workflow:

@@ -18,6 +18,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -28,14 +29,18 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      - name: Pull latest changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git pull --rebase origin ${{ github.ref_name }} || echo "No remote changes to pull"
+
       - name: Sync pages from SharePoint mapping
         run: npm run sync-pages
 
       - name: Check for changes
         id: git-check
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
           git add -A
           if git diff --staged --quiet; then
             echo "changed=false" >> $GITHUB_OUTPUT
@@ -47,6 +52,11 @@ jobs:
         if: steps.git-check.outputs.changed == 'true'
         run: |
           git commit -m "chore: auto-sync pages from SharePoint mapping [skip ci]" || exit 0
+
+      - name: Pull before push to avoid conflicts
+        if: steps.git-check.outputs.changed == 'true'
+        run: |
+          git pull --rebase origin ${{ github.ref_name }} || echo "No conflicts"
 
       - name: Push changes
         if: steps.git-check.outputs.changed == 'true'
