@@ -262,6 +262,8 @@ export default function PDFViewer({ file, title }: PDFViewerProps): JSX.Element 
             className="pdf-iframe-fallback"
             title={title || 'PDF Viewer'}
             allow="fullscreen"
+            allowFullScreen
+            style={{ border: 'none' }}
           />
         )}
       </div>
