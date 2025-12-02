@@ -20,15 +20,33 @@ This guide explains how to configure Meilisearch API key for the Docusaurus site
 
 ## AWS Amplify Configuration
 
-To set the API key in AWS Amplify:
+### Option 1: Via AWS CLI (Recommended)
+
+```bash
+aws amplify update-app \
+  --app-id d1zqbfqltmiojc \
+  --region us-east-1 \
+  --environment-variables \
+    MEILISEARCH_API_KEY=27024c8e7b24757d95f85b9803044818911d64928f68fcaf2d01bb95e48d5317,\
+    MEILISEARCH_HOST=https://search.rossvideo.app,\
+    MEILISEARCH_INDEX_UID=docs
+
+# Trigger a new deployment to apply the changes
+aws amplify start-job \
+  --app-id d1zqbfqltmiojc \
+  --branch-name main \
+  --job-type RELEASE \
+  --region us-east-1
+```
+
+### Option 2: Via AWS Console
 
 1. Go to your AWS Amplify Console
-2. Select your app
+2. Select your app (d1zqbfqltmiojc)
 3. Go to **App settings** → **Environment variables**
 4. Add the following environment variables:
    - `MEILISEARCH_API_KEY` = `27024c8e7b24757d95f85b9803044818911d64928f68fcaf2d01bb95e48d5317`
    - `MEILISEARCH_HOST` = `https://search.rossvideo.app` (optional, this is the default)
-   - `MEILISEARCH_INDEX_UID` = `docs` (optional, this is the default)
 
 5. Save and redeploy your app
 
