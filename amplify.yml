@@ -9,6 +9,7 @@ frontend:
         - npm run sync-pages
     build:
       commands:
+        # MEILISEARCH_API_KEY should be set in AWS Amplify Environment Variables
         - npm run build
   artifacts:
     baseDirectory: build

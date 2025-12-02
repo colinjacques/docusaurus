@@ -5,6 +5,13 @@ import path from 'path';
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
+// Meilisearch configuration
+// Set MEILISEARCH_API_KEY environment variable for production
+// For local development, create a .env file with: MEILISEARCH_API_KEY=your_key_here
+const meilisearchApiKey = process.env.MEILISEARCH_API_KEY || '';
+const meilisearchHost = process.env.MEILISEARCH_HOST || 'https://search.rossvideo.app';
+const meilisearchIndexUid = process.env.MEILISEARCH_INDEX_UID || 'docs';
+
 const config: Config = {
   title: 'Ross Documentation',
   tagline: 'PDF Documentation Portal - POC for Markdown Migration',
@@ -233,6 +240,15 @@ const config: Config = {
       darkTheme: prismThemes.dracula,
     },
   } satisfies Preset.ThemeConfig,
+  
+  // Custom fields accessible via useDocusaurusContext
+  customFields: {
+    meilisearch: {
+      host: meilisearchHost,
+      apiKey: meilisearchApiKey,
+      indexUid: meilisearchIndexUid,
+    },
+  },
 };
 
 export default config;

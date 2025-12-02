@@ -1,4 +1,5 @@
 import React, { useEffect, useRef } from 'react';
+import { useDocusaurusContext } from '@docusaurus/core';
 
 declare global {
   interface Window {
@@ -12,8 +13,19 @@ declare global {
 }
 
 export default function SearchBar(): JSX.Element | null {
+  const { siteConfig } = useDocusaurusContext();
   const containerRef = useRef<HTMLDivElement>(null);
   const initializedRef = useRef(false);
+
+  // Get Meilisearch config from customFields
+  const meilisearchConfig = (siteConfig.customFields?.meilisearch as {
+    host: string;
+    apiKey?: string;
+    indexUid: string;
+  }) || {
+    host: 'https://search.rossvideo.app',
+    indexUid: 'docs',
+  };
 
   useEffect(() => {
     // Only initialize on client side
@@ -29,14 +41,23 @@ export default function SearchBar(): JSX.Element | null {
     const initSearch = () => {
       if (window.docsearch && containerRef.current) {
         try {
-          window.docsearch({
+          const searchConfig: {
+            container: HTMLElement;
+            host: string;
+            apiKey?: string;
+            indexUid: string;
+          } = {
             container: containerRef.current,
-            host: 'https://search.rossvideo.app',
-            // API key is optional if using public search endpoint
-            // apiKey: process.env.MEILISEARCH_API_KEY || '',
-            // Index UID - update this with your actual index name
-            indexUid: 'docs',
-          });
+            host: meilisearchConfig.host,
+            indexUid: meilisearchConfig.indexUid,
+          };
+
+          // Only add API key if it's provided
+          if (meilisearchConfig.apiKey) {
+            searchConfig.apiKey = meilisearchConfig.apiKey;
+          }
+
+          window.docsearch(searchConfig);
           initializedRef.current = true;
         } catch (error) {
           console.error('Failed to initialize Meilisearch DocSearch:', error);
@@ -48,7 +69,7 @@ export default function SearchBar(): JSX.Element | null {
     };
 
     initSearch();
-  }, []);
+  }, [meilisearchConfig]);
 
   return (
     <div
