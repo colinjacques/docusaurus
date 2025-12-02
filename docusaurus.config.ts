@@ -64,8 +64,16 @@ const config: Config = {
     ],
   ],
 
+
   stylesheets: [
     'https://use.typekit.net/uav1rla.css',
+    'https://cdn.jsdelivr.net/npm/meilisearch-docsearch@latest/dist/index.css',
+  ],
+  scripts: [
+    {
+      src: 'https://cdn.jsdelivr.net/npm/meilisearch-docsearch@latest/dist/index.global.js',
+      async: true,
+    },
   ],
 
   plugins: [
