@@ -1,5 +1,5 @@
 import React, { useEffect, useRef } from 'react';
-import { useDocusaurusContext } from '@docusaurus/core';
+import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 
 declare global {
   interface Window {
