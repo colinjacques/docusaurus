@@ -12,7 +12,7 @@ declare global {
   }
 }
 
-export default function SearchBar(): JSX.Element | null {
+export default function SearchBar(): React.JSX.Element | null {
   const { siteConfig } = useDocusaurusContext();
   const containerRef = useRef<HTMLDivElement>(null);
   const initializedRef = useRef(false);
