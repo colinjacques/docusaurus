@@ -77,20 +77,10 @@ export default function PDFViewer({ file, title }: PDFViewerProps): JSX.Element 
   }, [file, renderPage]);
 
   useEffect(() => {
-    // Since CORS blocks PDF.js, we'll default to iframe
-    // But we can still try PDF.js as an option if it becomes available
+    // Default to iframe embedding for PDFs (works with CORS)
+    // PDF.js requires CORS headers which the server may not provide
     setLoading(false);
-    
-    // Optional: Try PDF.js if available (but expect it to fail due to CORS)
-    // Uncomment below if you want to attempt PDF.js first
-    /*
-    if (window.pdfjsLib) {
-      window.pdfjsLib.GlobalWorkerOptions.workerSrc = 
-        'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
-      loadPDF();
-      return;
-    }
-    */
+    setUseFallback(true);
   }, [file]);
 
   useEffect(() => {
@@ -267,50 +257,12 @@ export default function PDFViewer({ file, title }: PDFViewerProps): JSX.Element 
         )}
 
         {!loading && useFallback && (
-          <div className="pdf-canvas-container">
-            <div style={{
-              padding: '60px 20px',
-              textAlign: 'center',
-              background: 'white',
-              borderRadius: '4px'
-            }}>
-              <div style={{ fontSize: '48px', marginBottom: '20px' }}>📄</div>
-              <h3 style={{ marginBottom: '10px', color: '#333' }}>PDF Viewer</h3>
-              <p style={{ 
-                color: '#666', 
-                marginBottom: '20px',
-                fontSize: '14px'
-              }}>
-                The PDF cannot be embedded due to server security restrictions.
-              </p>
-              <p style={{ 
-                color: '#999', 
-                fontSize: '12px',
-                marginBottom: '30px'
-              }}>
-                Please use the download link below to view the PDF in your browser.
-              </p>
-              <a 
-                href={file} 
-                target="_blank" 
-                rel="noopener noreferrer"
-                style={{
-                  display: 'inline-block',
-                  padding: '12px 24px',
-                  background: '#10a37f',
-                  color: 'white',
-                  textDecoration: 'none',
-                  borderRadius: '4px',
-                  fontWeight: '500',
-                  transition: 'background 0.2s'
-                }}
-                onMouseOver={(e) => e.currentTarget.style.background = '#0d8968'}
-                onMouseOut={(e) => e.currentTarget.style.background = '#10a37f'}
-              >
-                🔗 Open PDF in New Tab
-              </a>
-            </div>
-          </div>
+          <iframe
+            src={file}
+            className="pdf-iframe-fallback"
+            title={title || 'PDF Viewer'}
+            allow="fullscreen"
+          />
         )}
       </div>
 
