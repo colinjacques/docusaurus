@@ -75,7 +75,6 @@ const config: Config = {
         name: 'custom-webpack-config',
         configureWebpack(config, isServer) {
           const webpack = require('webpack');
-          const emptyModulePath = path.resolve(__dirname, 'src', 'empty-module.js');
           
           // Get the actual paths to the index.js files we created
           // Only single-dash paths (triple-dash should not exist after toKebabCase fix)
@@ -83,33 +82,9 @@ const config: Config = {
           const goPath = path.resolve(__dirname, 'docs', 'cg-and-graphics', 'xpression', 'quick-install-hardware', 'go', 'index.js');
           const go2Path = path.resolve(__dirname, 'docs', 'cg-and-graphics', 'xpression', 'quick-install-hardware', 'go2', 'index.js');
           
-          // Merge with existing config instead of replacing
+          // Merge with existing config - spread operator ensures proper merging
           const existingAlias = config.resolve?.alias || {};
           const existingPlugins = config.plugins || [];
-          
-          // Create a custom resolver plugin that runs early in the resolution chain
-          class BrokenPathResolver {
-            apply(resolver) {
-              // Use the 'resolve' hook which runs during module resolution
-              resolver.hooks.resolve.tapAsync('BrokenPathResolver', (request, resolveContext, callback) => {
-                if (!request) return callback();
-                
-                const requestPath = request.request;
-                
-                // Check if this is one of our problematic paths (only single-dash paths)
-                // Use absolute paths for webpack resolution
-                if (requestPath === '@site/docs/cg-and-graphics/xpression/application-notes/xpression-go') {
-                  request.request = xpressionGoPath;
-                } else if (requestPath === '@site/docs/cg-and-graphics/xpression/quick-install-hardware/go') {
-                  request.request = goPath;
-                } else if (requestPath === '@site/docs/cg-and-graphics/xpression/quick-install-hardware/go2') {
-                  request.request = go2Path;
-                }
-                
-                callback();
-              });
-            }
-          }
           
           return {
             module: {
@@ -125,35 +100,29 @@ const config: Config = {
               alias: {
                 ...existingAlias,
                 // Alias broken import paths to actual index.js files
+                // These aliases will be merged with Docusaurus's existing @site alias configuration
                 // Only single-dash paths (triple-dash should not exist after toKebabCase fix)
-                // Use absolute paths for webpack resolution
                 '@site/docs/cg-and-graphics/xpression/application-notes/xpression-go': xpressionGoPath,
                 '@site/docs/cg-and-graphics/xpression/quick-install-hardware/go': goPath,
                 '@site/docs/cg-and-graphics/xpression/quick-install-hardware/go2': go2Path,
               },
               // Ensure directory imports resolve to index.js
               mainFiles: ['index', '...'],
-              extensions: ['.js', '.jsx', '.ts', '.tsx', '.json', ...(config.resolve?.extensions || [])],
-              plugins: [
-                ...(config.resolve?.plugins || []),
-                new BrokenPathResolver(),
-              ],
             },
             plugins: [
               ...existingPlugins,
-              // Use a more aggressive approach - catch any variation of these paths
-              // Use absolute paths for webpack resolution
+              // Use NormalModuleReplacementPlugin to catch any variation of these paths
+              // This runs before the alias resolution, so it can intercept the imports
               new webpack.NormalModuleReplacementPlugin(
-                /@site\/docs\/cg-and-graphics\/xpression\/application-notes\/xpression-go(\/.*)?$/,
+                /^@site\/docs\/cg-and-graphics\/xpression\/application-notes\/xpression-go(\/.*)?$/,
                 xpressionGoPath
               ),
-              // Only handle single-dash paths (triple-dash should not exist after toKebabCase fix)
               new webpack.NormalModuleReplacementPlugin(
-                /@site\/docs\/cg-and-graphics\/xpression\/quick-install-hardware\/go(\/.*)?$/,
+                /^@site\/docs\/cg-and-graphics\/xpression\/quick-install-hardware\/go(\/.*)?$/,
                 goPath
               ),
               new webpack.NormalModuleReplacementPlugin(
-                /@site\/docs\/cg-and-graphics\/xpression\/quick-install-hardware\/go2(\/.*)?$/,
+                /^@site\/docs\/cg-and-graphics\/xpression\/quick-install-hardware\/go2(\/.*)?$/,
                 go2Path
               ),
             ],
