@@ -42,11 +42,15 @@ const FOLDER_MAPPING = {
 const expectedFiles = new Set();
 
 // Map subfolder names (e.g., "User Guides" -> "user-guides")
+// Also removes special characters that cause Docusaurus route generation issues
 function toKebabCase(str) {
   return str
     .replace(/([a-z])([A-Z])/g, '$1-$2')
     .replace(/[\s_]+/g, '-')
+    // Remove special characters that cause Docusaurus issues (!, &, +, etc.)
+    .replace(/[!@#$%^&*()+=\[\]{}|;:'",<>?\/\\~`]/g, '')
     .replace(/-+/g, '-') // Replace multiple consecutive dashes with single dash
+    .replace(/^-+|-+$/g, '') // Remove leading/trailing dashes
     .toLowerCase();
 }
 

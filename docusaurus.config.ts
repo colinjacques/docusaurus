@@ -82,9 +82,52 @@ const config: Config = {
           const goPath = path.resolve(__dirname, 'docs', 'cg-and-graphics', 'xpression', 'quick-install-hardware', 'go', 'index.js');
           const go2Path = path.resolve(__dirname, 'docs', 'cg-and-graphics', 'xpression', 'quick-install-hardware', 'go2', 'index.js');
           
-          // Merge with existing config - spread operator ensures proper merging
+          // Create a webpack plugin that intercepts module requests and fixes broken imports
+          // This runs during compilation, before module resolution
+          class FixBrokenImportsPlugin {
+            apply(compiler) {
+              compiler.hooks.normalModuleFactory.tap('FixBrokenImportsPlugin', (nmf) => {
+                // Hook into the beforeResolve phase to fix broken imports
+                nmf.hooks.beforeResolve.tap('FixBrokenImportsPlugin', (data) => {
+                  if (!data || !data.request) return;
+                  
+                  const request = data.request;
+                  // Fix broken directory imports by replacing with actual file paths
+                  if (request === '@site/docs/cg-and-graphics/xpression/application-notes/xpression-go') {
+                    data.request = xpressionGoPath;
+                    return; // Return early to use the fixed path
+                  } else if (request === '@site/docs/cg-and-graphics/xpression/quick-install-hardware/go') {
+                    data.request = goPath;
+                    return;
+                  } else if (request === '@site/docs/cg-and-graphics/xpression/quick-install-hardware/go2') {
+                    data.request = go2Path;
+                    return;
+                  }
+                });
+                
+                // Also hook into the resolve phase as a fallback
+                nmf.hooks.resolve.tapAsync('FixBrokenImportsPlugin', (data, callback) => {
+                  if (!data || !data.request) return callback();
+                  
+                  const request = data.request;
+                  if (request === '@site/docs/cg-and-graphics/xpression/application-notes/xpression-go') {
+                    data.request = xpressionGoPath;
+                  } else if (request === '@site/docs/cg-and-graphics/xpression/quick-install-hardware/go') {
+                    data.request = goPath;
+                  } else if (request === '@site/docs/cg-and-graphics/xpression/quick-install-hardware/go2') {
+                    data.request = go2Path;
+                  }
+                  
+                  callback();
+                });
+              });
+            }
+          }
+          
+          // Merge with existing config
           const existingAlias = config.resolve?.alias || {};
           const existingPlugins = config.plugins || [];
+          const existingResolvePlugins = config.resolve?.plugins || [];
           
           return {
             module: {
@@ -108,11 +151,15 @@ const config: Config = {
               },
               // Ensure directory imports resolve to index.js
               mainFiles: ['index', '...'],
+              plugins: [
+                ...existingResolvePlugins,
+              ],
             },
             plugins: [
               ...existingPlugins,
-              // Use NormalModuleReplacementPlugin to catch any variation of these paths
-              // This runs before the alias resolution, so it can intercept the imports
+              // Use a custom plugin to fix broken imports during compilation
+              new FixBrokenImportsPlugin(),
+              // Use NormalModuleReplacementPlugin as a fallback
               new webpack.NormalModuleReplacementPlugin(
                 /^@site\/docs\/cg-and-graphics\/xpression\/application-notes\/xpression-go(\/.*)?$/,
                 xpressionGoPath

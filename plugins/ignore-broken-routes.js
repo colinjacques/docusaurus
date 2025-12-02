@@ -1,8 +1,12 @@
 /**
- * Docusaurus plugin to prevent route generation for problematic paths
- * and ensure index.js files exist for module resolution
- * Also removes problematic .js files that cause import issues
- * This plugin runs early to configure module resolution before routes are generated
+ * Docusaurus plugin to fix module resolution for problematic directory imports
+ * The root cause: Docusaurus generates imports like @site/docs/.../xpression-go
+ * but these directories need to resolve to their index.js files
+ * 
+ * This plugin:
+ * 1. Ensures index.js files exist in problematic directories
+ * 2. Fixes the generated registry.js file to append /index.js to broken imports
+ * 3. Configures webpack to resolve these paths correctly
  */
 const path = require('path');
 const fs = require('fs');
@@ -44,6 +48,40 @@ function ignoreBrokenRoutes(context, options) {
         }
       }
     },
+    async allContentLoaded({content, actions}) {
+      // This runs after all content is loaded but before webpack compilation
+      // Fix the registry.js file to append /index.js to broken directory imports
+      const siteDir = context.siteDir;
+      const registryPath = path.join(siteDir, '.docusaurus', 'registry.js');
+      
+      // Wait a bit for registry.js to be generated
+      await new Promise(resolve => setTimeout(resolve, 100));
+      
+      if (fs.existsSync(registryPath)) {
+        let content = fs.readFileSync(registryPath, 'utf8');
+        let modified = false;
+        
+        // Fix broken directory imports by appending /index.js
+        // Match patterns like: '@site/docs/.../xpression-go'
+        const brokenPatterns = [
+          [/'@site\/docs\/cg-and-graphics\/xpression\/application-notes\/xpression-go'/g, "'@site/docs/cg-and-graphics/xpression/application-notes/xpression-go/index.js'"],
+          [/'@site\/docs\/cg-and-graphics\/xpression\/quick-install-hardware\/go'/g, "'@site/docs/cg-and-graphics/xpression/quick-install-hardware/go/index.js'"],
+          [/'@site\/docs\/cg-and-graphics\/xpression\/quick-install-hardware\/go2'/g, "'@site/docs/cg-and-graphics/xpression/quick-install-hardware/go2/index.js'"],
+        ];
+        
+        for (const [pattern, replacement] of brokenPatterns) {
+          if (content.match(pattern)) {
+            content = content.replace(pattern, replacement);
+            modified = true;
+          }
+        }
+        
+        if (modified) {
+          fs.writeFileSync(registryPath, content, 'utf8');
+          console.log('[ignore-broken-routes] Fixed broken directory imports in registry.js');
+        }
+      }
+    },
     configureWebpack(config, isServer) {
       // Configure webpack to resolve @site imports for these directories
       const siteDir = context.siteDir;
@@ -60,11 +98,13 @@ function ignoreBrokenRoutes(context, options) {
           ...config.resolve,
           alias: {
             ...existingAlias,
-            // Alias directory imports to their index.js files
-            // This must match exactly what Docusaurus generates in registry.js
+            // Alias directory imports to their index.js files (both with and without /index.js)
             '@site/docs/cg-and-graphics/xpression/application-notes/xpression-go': requiredPaths[0],
+            '@site/docs/cg-and-graphics/xpression/application-notes/xpression-go/index.js': requiredPaths[0],
             '@site/docs/cg-and-graphics/xpression/quick-install-hardware/go': requiredPaths[1],
+            '@site/docs/cg-and-graphics/xpression/quick-install-hardware/go/index.js': requiredPaths[1],
             '@site/docs/cg-and-graphics/xpression/quick-install-hardware/go2': requiredPaths[2],
+            '@site/docs/cg-and-graphics/xpression/quick-install-hardware/go2/index.js': requiredPaths[2],
           },
         },
       };
