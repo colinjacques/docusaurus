@@ -12,8 +12,8 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `PIERO_Live_User_Guide.pdf`
-- **File size:** 37.65 MB
-- **Last modified:** 2025-10-31
+- **File size:** 37.22 MB
+- **Last modified:** 2025-12-02
 - **Category:** Manuals/CG and Graphics/PIERO/User Guides
 
 ---
