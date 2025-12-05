@@ -12,8 +12,8 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `Ross Video HyperMax.pdf`
-- **File size:** 389.86 KB
-- **Last modified:** 2025-11-20
+- **File size:** 469.7 KB
+- **Last modified:** 2025-12-04
 - **Category:** Manuals/Enterprise Control Systems/Caprica/Device Setup Sheets/Switcher
 
 ---
