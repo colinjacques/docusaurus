@@ -12,8 +12,8 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 **Document Information:**
 - **Original filename:** `RossTalk-IN.pdf`
-- **File size:** 303.2 KB
-- **Last modified:** 2025-11-10
+- **File size:** 685.69 KB
+- **Last modified:** 2025-12-08
 - **Category:** Manuals/Enterprise Control Systems/Caprica/Device Setup Sheets/RossTalk
 
 ---
