@@ -13,7 +13,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 **Document Information:**
 - **Original filename:** `CX Panel Hardware Setup Guide v1.5.pdf`
 - **File size:** 4.7 MB
-- **Last modified:** 2025-12-11
+- **Last modified:** 2025-12-15
 - **Category:** Manuals/Enterprise Control Systems/OverDrive
 
 ---
