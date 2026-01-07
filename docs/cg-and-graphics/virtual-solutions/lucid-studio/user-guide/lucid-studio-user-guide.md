@@ -14,7 +14,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 - **Original filename:** `Lucid Studio User Guide (3600DR-001-7.3.2).pdf`
 - **File size:** 11.39 MB
 - **Last modified:** 2025-10-01
-- **Category:** Manuals/CG and Graphics/Virtual Solutions/Lucid Studio
+- **Category:** Manuals/CG and Graphics/Virtual Solutions/Lucid Studio/User Guide
 
 ---
 

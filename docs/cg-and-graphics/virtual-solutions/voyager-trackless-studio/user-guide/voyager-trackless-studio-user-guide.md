@@ -14,7 +14,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 - **Original filename:** `Voyager Trackless Studio User Guide.pdf`
 - **File size:** 13.08 MB
 - **Last modified:** 2025-07-30
-- **Category:** Manuals/CG and Graphics/Virtual Solutions/Voyager Trackless Studio
+- **Category:** Manuals/CG and Graphics/Virtual Solutions/Voyager Trackless Studio/User Guide
 
 ---
 
