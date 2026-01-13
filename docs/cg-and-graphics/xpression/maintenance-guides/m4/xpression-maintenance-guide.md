@@ -14,7 +14,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 - **Original filename:** `XPression Maintenance Guide(3504DR-005-02).pdf`
 - **File size:** 4.21 MB
 - **Last modified:** 2025-08-12
-- **Category:** Manuals/CG and Graphics/XPression/Maintenance Guide/M4
+- **Category:** Manuals/CG and Graphics/XPression/Maintenance Guides/M4
 
 ---
 

@@ -14,7 +14,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 - **Original filename:** `XPression Prime Maintenance Guide(3504DR-006-03).pdf`
 - **File size:** 2.83 MB
 - **Last modified:** 2025-08-12
-- **Category:** Manuals/CG and Graphics/XPression/Maintenance Guide/M4
+- **Category:** Manuals/CG and Graphics/XPression/Maintenance Guides/M4
 
 ---
 

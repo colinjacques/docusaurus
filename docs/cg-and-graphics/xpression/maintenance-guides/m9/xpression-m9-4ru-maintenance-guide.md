@@ -14,7 +14,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 - **Original filename:** `XPression M9 4RU Maintenance Guide (3509DR-005-01).pdf`
 - **File size:** 52.22 MB
 - **Last modified:** 2025-11-11
-- **Category:** Manuals/CG and Graphics/XPression/Maintenance Guide/M9
+- **Category:** Manuals/CG and Graphics/XPression/Maintenance Guides/M9
 
 ---
 

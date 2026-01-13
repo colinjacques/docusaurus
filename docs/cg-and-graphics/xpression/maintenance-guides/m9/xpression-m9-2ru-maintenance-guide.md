@@ -14,7 +14,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 - **Original filename:** `XPression M9 2RU Maintenance Guide (3509DR-025-01).pdf`
 - **File size:** 30.44 MB
 - **Last modified:** 2025-11-11
-- **Category:** Manuals/CG and Graphics/XPression/Maintenance Guide/M9
+- **Category:** Manuals/CG and Graphics/XPression/Maintenance Guides/M9
 
 ---
 

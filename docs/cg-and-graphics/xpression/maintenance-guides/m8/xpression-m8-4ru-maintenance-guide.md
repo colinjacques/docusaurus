@@ -14,7 +14,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 - **Original filename:** `XPression M8 4RU Maintenance Guide.pdf`
 - **File size:** 15.93 MB
 - **Last modified:** 2025-07-30
-- **Category:** Manuals/CG and Graphics/XPression/Maintenance Guide/M8
+- **Category:** Manuals/CG and Graphics/XPression/Maintenance Guides/M8
 
 ---
 
