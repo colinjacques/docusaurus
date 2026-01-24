@@ -1,12 +1,12 @@
 ---
-title: "MediaCache IG"
+title: "MediaCache-IG"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# MediaCache IG
+# MediaCache-IG
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Installation%20Guides/MediaCache-IG(4800DR-315).pdf" title="MediaCache IG" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Installation%20Guides/MediaCache-IG%284800DR-315%29.pdf" title="MediaCache-IG" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [MediaCache-IG(4800DR-315).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Installation%20Guides/MediaCache-IG(4800DR-315).pdf)
+**External Link:** [MediaCache-IG(4800DR-315).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Installation%20Guides/MediaCache-IG%284800DR-315%29.pdf)

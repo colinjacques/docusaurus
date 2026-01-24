@@ -6,7 +6,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 # GPI On XPression App Note
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/GPI%20On%20XPression%20App%20Note(3500DR-513-07).pdf" title="GPI On XPression App Note" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/GPI%20On%20XPression%20App%20Note%283500DR-513-07%29.pdf" title="GPI On XPression App Note" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [GPI On XPression App Note(3500DR-513-07).pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/GPI%20On%20XPression%20App%20Note(3500DR-513-07).pdf)
+**External Link:** [GPI On XPression App Note(3500DR-513-07).pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/GPI%20On%20XPression%20App%20Note%283500DR-513-07%29.pdf)

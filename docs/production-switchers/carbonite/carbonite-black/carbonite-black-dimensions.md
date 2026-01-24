@@ -1,12 +1,12 @@
 ---
-title: "Carbonite Black Dimensions"
+title: "Carbonite-Black-Dimensions"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Carbonite Black Dimensions
+# Carbonite-Black-Dimensions
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Carbonite%20Black/Carbonite-Black-Dimensions(4804DR-408).pdf" title="Carbonite Black Dimensions" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Carbonite%20Black/Carbonite-Black-Dimensions%284804DR-408%29.pdf" title="Carbonite-Black-Dimensions" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Carbonite-Black-Dimensions(4804DR-408).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Carbonite%20Black/Carbonite-Black-Dimensions(4804DR-408).pdf)
+**External Link:** [Carbonite-Black-Dimensions(4804DR-408).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Carbonite%20Black/Carbonite-Black-Dimensions%284804DR-408%29.pdf)

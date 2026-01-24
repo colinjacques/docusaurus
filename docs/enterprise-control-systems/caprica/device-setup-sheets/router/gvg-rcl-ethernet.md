@@ -1,12 +1,12 @@
 ---
-title: "GVG RCL Ethernet"
+title: "GVG RCL - Ethernet"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# GVG RCL Ethernet
+# GVG RCL - Ethernet
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Enterprise%20Control%20Systems/Caprica/Device%20Setup%20Sheets/Router/GVG%20RCL%20-%20Ethernet.pdf" title="GVG RCL Ethernet" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Enterprise%20Control%20Systems/Caprica/Device%20Setup%20Sheets/Router/GVG%20RCL%20-%20Ethernet.pdf" title="GVG RCL - Ethernet" />
 
 ---
 

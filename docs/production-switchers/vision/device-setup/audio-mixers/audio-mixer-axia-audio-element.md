@@ -1,12 +1,12 @@
 ---
-title: "Audio Mixer Axia Audio Element"
+title: "Audio-Mixer Axia Audio Element"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Audio Mixer Axia Audio Element
+# Audio-Mixer Axia Audio Element
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Audio%20Mixers/Audio-Mixer_Axia%20Audio%20Element%20(4999DR-157).pdf" title="Audio Mixer Axia Audio Element" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Audio%20Mixers/Audio-Mixer_Axia%20Audio%20Element%20%284999DR-157%29.pdf" title="Audio-Mixer Axia Audio Element" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Audio-Mixer_Axia Audio Element (4999DR-157).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Audio%20Mixers/Audio-Mixer_Axia%20Audio%20Element%20(4999DR-157).pdf)
+**External Link:** [Audio-Mixer_Axia Audio Element (4999DR-157).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Audio%20Mixers/Audio-Mixer_Axia%20Audio%20Element%20%284999DR-157%29.pdf)

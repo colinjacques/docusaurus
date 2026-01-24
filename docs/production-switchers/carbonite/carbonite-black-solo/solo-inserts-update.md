@@ -1,12 +1,12 @@
 ---
-title: "Solo Inserts Update"
+title: "Solo-Inserts-Update"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Solo Inserts Update
+# Solo-Inserts-Update
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Carbonite%20Black%20Solo/Solo-Inserts-Update(4840DR-503).pdf" title="Solo Inserts Update" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Carbonite%20Black%20Solo/Solo-Inserts-Update%284840DR-503%29.pdf" title="Solo-Inserts-Update" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Solo-Inserts-Update(4840DR-503).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Carbonite%20Black%20Solo/Solo-Inserts-Update(4840DR-503).pdf)
+**External Link:** [Solo-Inserts-Update(4840DR-503).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Carbonite%20Black%20Solo/Solo-Inserts-Update%284840DR-503%29.pdf)

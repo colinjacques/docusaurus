@@ -1,12 +1,12 @@
 ---
-title: "Crossover Solo QS"
+title: "Crossover-Solo-QS"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Crossover Solo QS
+# Crossover-Solo-QS
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/CrossOver/Crossover-Solo-QS(4801DR-024).pdf" title="Crossover Solo QS" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/CrossOver/Crossover-Solo-QS%284801DR-024%29.pdf" title="Crossover-Solo-QS" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Crossover-Solo-QS(4801DR-024).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/CrossOver/Crossover-Solo-QS(4801DR-024).pdf)
+**External Link:** [Crossover-Solo-QS(4801DR-024).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/CrossOver/Crossover-Solo-QS%284801DR-024%29.pdf)

@@ -1,12 +1,12 @@
 ---
-title: "Ultrix Acuity FR12 Frame"
+title: "Ultrix-Acuity-FR12-Frame"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Ultrix Acuity FR12 Frame
+# Ultrix-Acuity-FR12-Frame
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Ultrix%20Acuity/Ultrix-Acuity-FR12-Frame(4842DR-201).pdf" title="Ultrix Acuity FR12 Frame" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Ultrix%20Acuity/Ultrix-Acuity-FR12-Frame%284842DR-201%29.pdf" title="Ultrix-Acuity-FR12-Frame" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Ultrix-Acuity-FR12-Frame(4842DR-201).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Ultrix%20Acuity/Ultrix-Acuity-FR12-Frame(4842DR-201).pdf)
+**External Link:** [Ultrix-Acuity-FR12-Frame(4842DR-201).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Ultrix%20Acuity/Ultrix-Acuity-FR12-Frame%284842DR-201%29.pdf)

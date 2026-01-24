@@ -6,7 +6,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 # XPression Maintenance Guide
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Maintenance%20Guide/M3/XPression%20Maintenance%20Guide(3503DR-005-01).pdf" title="XPression Maintenance Guide" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Maintenance%20Guides/M3/XPression%20Maintenance%20Guide%283503DR-005-01%29.pdf" title="XPression Maintenance Guide" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [XPression Maintenance Guide(3503DR-005-01).pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Maintenance%20Guide/M3/XPression%20Maintenance%20Guide(3503DR-005-01).pdf)
+**External Link:** [XPression Maintenance Guide(3503DR-005-01).pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Maintenance%20Guides/M3/XPression%20Maintenance%20Guide%283503DR-005-01%29.pdf)

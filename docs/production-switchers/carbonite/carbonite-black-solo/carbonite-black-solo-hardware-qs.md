@@ -1,12 +1,12 @@
 ---
-title: "Carbonite Black Solo Hardware QS"
+title: "Carbonite-Black-Solo-Hardware-QS"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Carbonite Black Solo Hardware QS
+# Carbonite-Black-Solo-Hardware-QS
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Carbonite%20Black%20Solo/Carbonite-Black-Solo-Hardware-QS(4840DR-200).pdf" title="Carbonite Black Solo Hardware QS" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Carbonite%20Black%20Solo/Carbonite-Black-Solo-Hardware-QS%284840DR-200%29.pdf" title="Carbonite-Black-Solo-Hardware-QS" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Carbonite-Black-Solo-Hardware-QS(4840DR-200).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Carbonite%20Black%20Solo/Carbonite-Black-Solo-Hardware-QS(4840DR-200).pdf)
+**External Link:** [Carbonite-Black-Solo-Hardware-QS(4840DR-200).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Carbonite%20Black%20Solo/Carbonite-Black-Solo-Hardware-QS%284840DR-200%29.pdf)

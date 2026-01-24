@@ -6,7 +6,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 # Horizon User Guide
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Enterprise%20Control%20Systems/Horizon/Horizon%20User%20Guide%20(7900DR-004-2.3).pdf" title="Horizon User Guide" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Enterprise%20Control%20Systems/Horizon/Horizon%20User%20Guide%20%287900DR-004-2.3%29.pdf" title="Horizon User Guide" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Horizon User Guide (7900DR-004-2.3).pdf](https://documentation.rossvideo.com/files/Manuals/Enterprise%20Control%20Systems/Horizon/Horizon%20User%20Guide%20(7900DR-004-2.3).pdf)
+**External Link:** [Horizon User Guide (7900DR-004-2.3).pdf](https://documentation.rossvideo.com/files/Manuals/Enterprise%20Control%20Systems/Horizon/Horizon%20User%20Guide%20%287900DR-004-2.3%29.pdf)

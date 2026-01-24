@@ -1,12 +1,12 @@
 ---
-title: "RemConPanel RCP NK1"
+title: "RemConPanel RCP-NK1"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# RemConPanel RCP NK1
+# RemConPanel RCP-NK1
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/RemConPanel_RCP-NK1%20(4999DR-163).pdf" title="RemConPanel RCP NK1" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/RemConPanel_RCP-NK1%20%284999DR-163%29.pdf" title="RemConPanel RCP-NK1" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [RemConPanel_RCP-NK1 (4999DR-163).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/RemConPanel_RCP-NK1%20(4999DR-163).pdf)
+**External Link:** [RemConPanel_RCP-NK1 (4999DR-163).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/RemConPanel_RCP-NK1%20%284999DR-163%29.pdf)

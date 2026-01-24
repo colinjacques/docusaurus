@@ -1,12 +1,12 @@
 ---
-title: "XFX IG"
+title: "XFX-IG"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# XFX IG
+# XFX-IG
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Installation%20Guides/XFX-IG(4800DR-318).pdf" title="XFX IG" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Installation%20Guides/XFX-IG%284800DR-318%29.pdf" title="XFX-IG" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [XFX-IG(4800DR-318).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Installation%20Guides/XFX-IG(4800DR-318).pdf)
+**External Link:** [XFX-IG(4800DR-318).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Installation%20Guides/XFX-IG%284800DR-318%29.pdf)

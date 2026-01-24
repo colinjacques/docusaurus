@@ -6,7 +6,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 # Lucid Studio User Guide
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/Virtual%20Solutions/Lucid%20Studio/Lucid%20Studio%20User%20Guide%20(3600DR-001-7.3.2).pdf" title="Lucid Studio User Guide" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/Virtual%20Solutions/Lucid%20Studio/User%20Guide/Lucid%20Studio%20User%20Guide%20%283600DR-001-7.3.2%29.pdf" title="Lucid Studio User Guide" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Lucid Studio User Guide (3600DR-001-7.3.2).pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/Virtual%20Solutions/Lucid%20Studio/Lucid%20Studio%20User%20Guide%20(3600DR-001-7.3.2).pdf)
+**External Link:** [Lucid Studio User Guide (3600DR-001-7.3.2).pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/Virtual%20Solutions/Lucid%20Studio/User%20Guide/Lucid%20Studio%20User%20Guide%20%283600DR-001-7.3.2%29.pdf)

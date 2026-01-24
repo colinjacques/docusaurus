@@ -1,12 +1,12 @@
 ---
-title: "PIERO M9 1RU HD SDI Hardware Specs"
+title: "PIERO M9 1RU HD-SDI Hardware Specs"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# PIERO M9 1RU HD SDI Hardware Specs
+# PIERO M9 1RU HD-SDI Hardware Specs
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/PIERO/Hardware%20Specs%20and%20Requirements/PIERO_M9_1RU_HD-SDI_Hardware_Specs.pdf" title="PIERO M9 1RU HD SDI Hardware Specs" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/PIERO/Hardware%20Specs%20and%20Requirements/PIERO_M9_1RU_HD-SDI_Hardware_Specs.pdf" title="PIERO M9 1RU HD-SDI Hardware Specs" />
 
 ---
 

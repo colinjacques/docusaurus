@@ -1,12 +1,12 @@
 ---
-title: "Video Server Gallery Sienna Virtual VTR"
+title: "Video-Server Gallery Sienna Virtual VTR"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Video Server Gallery Sienna Virtual VTR
+# Video-Server Gallery Sienna Virtual VTR
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Video%20Servers/Video-Server_Gallery%20Sienna%20Virtual%20VTR%20(Panel)%20(4999DR-172).pdf" title="Video Server Gallery Sienna Virtual VTR" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Video%20Servers/Video-Server_Gallery%20Sienna%20Virtual%20VTR%20%28Panel%29%20%284999DR-172%29.pdf" title="Video-Server Gallery Sienna Virtual VTR" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Video-Server_Gallery Sienna Virtual VTR (Panel) (4999DR-172).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Video%20Servers/Video-Server_Gallery%20Sienna%20Virtual%20VTR%20(Panel)%20(4999DR-172).pdf)
+**External Link:** [Video-Server_Gallery Sienna Virtual VTR (Panel) (4999DR-172).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Video%20Servers/Video-Server_Gallery%20Sienna%20Virtual%20VTR%20%28Panel%29%20%284999DR-172%29.pdf)

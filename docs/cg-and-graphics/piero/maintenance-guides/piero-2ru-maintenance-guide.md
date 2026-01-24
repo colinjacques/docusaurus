@@ -6,7 +6,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 # PIERO 2RU Maintenance Guide
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/PIERO/PIERO_2RU_Maintenance_Guide.pdf" title="PIERO 2RU Maintenance Guide" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/PIERO/Maintenance%20Guides/PIERO_2RU_Maintenance_Guide.pdf" title="PIERO 2RU Maintenance Guide" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [PIERO_2RU_Maintenance_Guide.pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/PIERO/PIERO_2RU_Maintenance_Guide.pdf)
+**External Link:** [PIERO_2RU_Maintenance_Guide.pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/PIERO/Maintenance%20Guides/PIERO_2RU_Maintenance_Guide.pdf)

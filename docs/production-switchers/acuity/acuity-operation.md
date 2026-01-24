@@ -1,12 +1,12 @@
 ---
-title: "Acuity Operation"
+title: "Acuity-Operation"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Acuity Operation
+# Acuity-Operation
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Acuity/Acuity-Operation(4820DR-110).pdf" title="Acuity Operation" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Acuity/Acuity-Operation%284820DR-110%29.pdf" title="Acuity-Operation" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Acuity-Operation(4820DR-110).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Acuity/Acuity-Operation(4820DR-110).pdf)
+**External Link:** [Acuity-Operation(4820DR-110).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Acuity/Acuity-Operation%284820DR-110%29.pdf)

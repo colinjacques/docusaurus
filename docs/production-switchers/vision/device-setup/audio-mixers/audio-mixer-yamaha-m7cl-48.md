@@ -1,12 +1,12 @@
 ---
-title: "Audio Mixer Yamaha M7CL 48"
+title: "Audio-Mixer Yamaha M7CL-48"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Audio Mixer Yamaha M7CL 48
+# Audio-Mixer Yamaha M7CL-48
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Audio%20Mixers/Audio-Mixer_Yamaha%20M7CL-48%20(SMC-9901)(4999DR-043).pdf" title="Audio Mixer Yamaha M7CL 48" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Audio%20Mixers/Audio-Mixer_Yamaha%20M7CL-48%20%28SMC-9901%29%284999DR-043%29.pdf" title="Audio-Mixer Yamaha M7CL-48" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Audio-Mixer_Yamaha M7CL-48 (SMC-9901)(4999DR-043).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Audio%20Mixers/Audio-Mixer_Yamaha%20M7CL-48%20(SMC-9901)(4999DR-043).pdf)
+**External Link:** [Audio-Mixer_Yamaha M7CL-48 (SMC-9901)(4999DR-043).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Audio%20Mixers/Audio-Mixer_Yamaha%20M7CL-48%20%28SMC-9901%29%284999DR-043%29.pdf)

@@ -6,7 +6,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 # PIERO Backup and Restore Process Using Asset Manager
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/PIERO/PIERO_Backup_and_Restore_Process_Using_Asset_Manager.pdf" title="PIERO Backup and Restore Process Using Asset Manager" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/PIERO/Application%20Notes/PIERO_Backup_and_Restore_Process_Using_Asset_Manager.pdf" title="PIERO Backup and Restore Process Using Asset Manager" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [PIERO_Backup_and_Restore_Process_Using_Asset_Manager.pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/PIERO/PIERO_Backup_and_Restore_Process_Using_Asset_Manager.pdf)
+**External Link:** [PIERO_Backup_and_Restore_Process_Using_Asset_Manager.pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/PIERO/Application%20Notes/PIERO_Backup_and_Restore_Process_Using_Asset_Manager.pdf)

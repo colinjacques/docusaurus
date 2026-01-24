@@ -1,12 +1,12 @@
 ---
-title: "MOS CG Channel Selection Using iNEWS MOS MAP"
+title: "MOS CG Channel Selection Using iNEWS MOS-MAP"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# MOS CG Channel Selection Using iNEWS MOS MAP
+# MOS CG Channel Selection Using iNEWS MOS-MAP
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Enterprise%20Control%20Systems/OverDrive/Application%20Notes/MOS%20CG%20Channel%20Selection%20Using%20iNEWS%20MOS-MAP.pdf" title="MOS CG Channel Selection Using iNEWS MOS MAP" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Enterprise%20Control%20Systems/OverDrive/Application%20Notes/MOS%20CG%20Channel%20Selection%20Using%20iNEWS%20MOS-MAP.pdf" title="MOS CG Channel Selection Using iNEWS MOS-MAP" />
 
 ---
 

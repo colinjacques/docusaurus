@@ -1,8 +1,8 @@
 ---
-title: "PTZ 12G and PTZ NDI Release"
+title: "PTZ-12G and PTZ-NDI Release"
 ---
 
-# PTZ 12G and PTZ NDI Release
+# PTZ-12G and PTZ-NDI Release
 
 **Document Information:**
 - **Original filename:** `PTZ-12G_and_PTZ-NDI_Release.zip`

@@ -6,7 +6,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 # XPression Memory Cache Settings
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/XPression%20Memory%20Cache%20Settings%20(3500DR-542-02%20Rev%202).pdf" title="XPression Memory Cache Settings" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/XPression%20Memory%20Cache%20Settings%20%283500DR-542-02%20Rev%202%29.pdf" title="XPression Memory Cache Settings" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [XPression Memory Cache Settings (3500DR-542-02 Rev 2).pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/XPression%20Memory%20Cache%20Settings%20(3500DR-542-02%20Rev%202).pdf)
+**External Link:** [XPression Memory Cache Settings (3500DR-542-02 Rev 2).pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/XPression%20Memory%20Cache%20Settings%20%283500DR-542-02%20Rev%202%29.pdf)

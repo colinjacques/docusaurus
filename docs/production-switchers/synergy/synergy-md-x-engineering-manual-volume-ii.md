@@ -1,12 +1,12 @@
 ---
-title: "Synergy MD X Engineering Manual Volume II"
+title: "Synergy MD-X Engineering Manual Volume II"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Synergy MD X Engineering Manual Volume II
+# Synergy MD-X Engineering Manual Volume II
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Synergy/Synergy%20MD-X%20Engineering%20Manual%20Volume%20II%20(4800DR-001A).pdf" title="Synergy MD X Engineering Manual Volume II" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Synergy/Synergy%20MD-X%20Engineering%20Manual%20Volume%20II%20%284800DR-001A%29.pdf" title="Synergy MD-X Engineering Manual Volume II" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Synergy MD-X Engineering Manual Volume II (4800DR-001A).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Synergy/Synergy%20MD-X%20Engineering%20Manual%20Volume%20II%20(4800DR-001A).pdf)
+**External Link:** [Synergy MD-X Engineering Manual Volume II (4800DR-001A).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Synergy/Synergy%20MD-X%20Engineering%20Manual%20Volume%20II%20%284800DR-001A%29.pdf)

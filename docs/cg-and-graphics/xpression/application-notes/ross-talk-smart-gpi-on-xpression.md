@@ -1,12 +1,12 @@
 ---
-title: "RossTalk Smart GPI on XPression"
+title: "RossTalk - Smart GPI on XPression"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# RossTalk Smart GPI on XPression
+# RossTalk - Smart GPI on XPression
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/RossTalk%20-%20Smart%20GPI%20on%20XPression%20(3500DR-513-14).pdf" title="RossTalk Smart GPI on XPression" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/RossTalk%20-%20Smart%20GPI%20on%20XPression%20%283500DR-513-14%29.pdf" title="RossTalk - Smart GPI on XPression" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [RossTalk - Smart GPI on XPression (3500DR-513-14).pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/RossTalk%20-%20Smart%20GPI%20on%20XPression%20(3500DR-513-14).pdf)
+**External Link:** [RossTalk - Smart GPI on XPression (3500DR-513-14).pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/RossTalk%20-%20Smart%20GPI%20on%20XPression%20%283500DR-513-14%29.pdf)

@@ -1,12 +1,12 @@
 ---
-title: "Voyager Cabling Guide 12G"
+title: "Voyager Cabling Guide - 12G"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Voyager Cabling Guide 12G
+# Voyager Cabling Guide - 12G
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/Virtual%20Solutions/Voyager/Cabling%20Guides/Voyager%20Cabling%20Guide%20-%2012G.pdf" title="Voyager Cabling Guide 12G" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/Virtual%20Solutions/Voyager/Cabling%20Guides/Voyager%20Cabling%20Guide%20-%2012G.pdf" title="Voyager Cabling Guide - 12G" />
 
 ---
 

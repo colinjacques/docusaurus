@@ -1,12 +1,12 @@
 ---
-title: "Ultrix Acuity Setup"
+title: "Ultrix-Acuity-Setup"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Ultrix Acuity Setup
+# Ultrix-Acuity-Setup
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Ultrix%20Acuity/Ultrix-Acuity-Setup(4842DR-120).pdf" title="Ultrix Acuity Setup" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Ultrix%20Acuity/Ultrix-Acuity-Setup%284842DR-120%29.pdf" title="Ultrix-Acuity-Setup" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Ultrix-Acuity-Setup(4842DR-120).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Ultrix%20Acuity/Ultrix-Acuity-Setup(4842DR-120).pdf)
+**External Link:** [Ultrix-Acuity-Setup(4842DR-120).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Ultrix%20Acuity/Ultrix-Acuity-Setup%284842DR-120%29.pdf)

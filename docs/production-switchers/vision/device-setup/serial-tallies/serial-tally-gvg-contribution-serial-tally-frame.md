@@ -1,12 +1,12 @@
 ---
-title: "Serial Tally GVG Contribution Serial Tally Frame"
+title: "Serial-Tally GVG Contribution Serial Tally - Frame"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Serial Tally GVG Contribution Serial Tally Frame
+# Serial-Tally GVG Contribution Serial Tally - Frame
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Serial%20Tallies/Serial-Tally_GVG%20Contribution%20Serial%20Tally%20-%20Frame%20(4999DR-110).pdf" title="Serial Tally GVG Contribution Serial Tally Frame" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Serial%20Tallies/Serial-Tally_GVG%20Contribution%20Serial%20Tally%20-%20Frame%20%284999DR-110%29.pdf" title="Serial-Tally GVG Contribution Serial Tally - Frame" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Serial-Tally_GVG Contribution Serial Tally - Frame (4999DR-110).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Serial%20Tallies/Serial-Tally_GVG%20Contribution%20Serial%20Tally%20-%20Frame%20(4999DR-110).pdf)
+**External Link:** [Serial-Tally_GVG Contribution Serial Tally - Frame (4999DR-110).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Serial%20Tallies/Serial-Tally_GVG%20Contribution%20Serial%20Tally%20-%20Frame%20%284999DR-110%29.pdf)

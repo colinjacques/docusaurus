@@ -6,7 +6,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 # XPression iNews App Note
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/XPression%20iNews%20App%20Note%20(3500DR-510-04%20Rev%202).pdf" title="XPression iNews App Note" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/XPression%20iNews%20App%20Note%20%283500DR-510-04%20Rev%202%29.pdf" title="XPression iNews App Note" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [XPression iNews App Note (3500DR-510-04 Rev 2).pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/XPression%20iNews%20App%20Note%20(3500DR-510-04%20Rev%202).pdf)
+**External Link:** [XPression iNews App Note (3500DR-510-04 Rev 2).pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/XPression%20iNews%20App%20Note%20%283500DR-510-04%20Rev%202%29.pdf)

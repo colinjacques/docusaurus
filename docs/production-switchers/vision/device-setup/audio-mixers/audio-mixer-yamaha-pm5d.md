@@ -1,12 +1,12 @@
 ---
-title: "Audio Mixer Yamaha PM5D"
+title: "Audio-Mixer Yamaha PM5D"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Audio Mixer Yamaha PM5D
+# Audio-Mixer Yamaha PM5D
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Audio%20Mixers/Audio-Mixer_Yamaha%20PM5D%20(SMC-9901)(4999DR-042).pdf" title="Audio Mixer Yamaha PM5D" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Audio%20Mixers/Audio-Mixer_Yamaha%20PM5D%20%28SMC-9901%29%284999DR-042%29.pdf" title="Audio-Mixer Yamaha PM5D" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Audio-Mixer_Yamaha PM5D (SMC-9901)(4999DR-042).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Audio%20Mixers/Audio-Mixer_Yamaha%20PM5D%20(SMC-9901)(4999DR-042).pdf)
+**External Link:** [Audio-Mixer_Yamaha PM5D (SMC-9901)(4999DR-042).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Audio%20Mixers/Audio-Mixer_Yamaha%20PM5D%20%28SMC-9901%29%284999DR-042%29.pdf)

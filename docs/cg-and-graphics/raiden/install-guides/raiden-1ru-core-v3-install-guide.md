@@ -6,7 +6,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 # Raiden 1RU Core V3 Install Guide
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/Raiden/Hardware%20Specs/Raiden_1RU_Core_V3_Install_Guide.pdf" title="Raiden 1RU Core V3 Install Guide" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/Raiden/Install%20Guides/Raiden_1RU_Core_V3_Install_Guide.pdf" title="Raiden 1RU Core V3 Install Guide" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Raiden_1RU_Core_V3_Install_Guide.pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/Raiden/Hardware%20Specs/Raiden_1RU_Core_V3_Install_Guide.pdf)
+**External Link:** [Raiden_1RU_Core_V3_Install_Guide.pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/Raiden/Install%20Guides/Raiden_1RU_Core_V3_Install_Guide.pdf)

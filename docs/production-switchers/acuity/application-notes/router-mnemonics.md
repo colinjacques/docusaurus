@@ -1,12 +1,12 @@
 ---
-title: "Router Mnemonics"
+title: "Router-Mnemonics"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Router Mnemonics
+# Router-Mnemonics
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Acuity/Application%20Notes/Router-Mnemonics(4820DR-401).pdf" title="Router Mnemonics" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Acuity/Application%20Notes/Router-Mnemonics%284820DR-401%29.pdf" title="Router-Mnemonics" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Router-Mnemonics(4820DR-401).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Acuity/Application%20Notes/Router-Mnemonics(4820DR-401).pdf)
+**External Link:** [Router-Mnemonics(4820DR-401).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Acuity/Application%20Notes/Router-Mnemonics%284820DR-401%29.pdf)

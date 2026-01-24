@@ -1,12 +1,12 @@
 ---
-title: "Audio Server Merging Ovation"
+title: "Audio-Server Merging Ovation"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Audio Server Merging Ovation
+# Audio-Server Merging Ovation
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Audio%20Servers/Audio-Server_Merging%20Ovation%20(4999DR-171).pdf" title="Audio Server Merging Ovation" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Audio%20Servers/Audio-Server_Merging%20Ovation%20%284999DR-171%29.pdf" title="Audio-Server Merging Ovation" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Audio-Server_Merging Ovation (4999DR-171).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Audio%20Servers/Audio-Server_Merging%20Ovation%20(4999DR-171).pdf)
+**External Link:** [Audio-Server_Merging Ovation (4999DR-171).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Audio%20Servers/Audio-Server_Merging%20Ovation%20%284999DR-171%29.pdf)

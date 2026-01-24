@@ -6,7 +6,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 # Editor Thomson Grass Valley GVG200
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Editors/Editor_Thomson%20Grass%20Valley%20GVG200%20(4999DR-082).pdf" title="Editor Thomson Grass Valley GVG200" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Editors/Editor_Thomson%20Grass%20Valley%20GVG200%20%284999DR-082%29.pdf" title="Editor Thomson Grass Valley GVG200" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Editor_Thomson Grass Valley GVG200 (4999DR-082).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Editors/Editor_Thomson%20Grass%20Valley%20GVG200%20(4999DR-082).pdf)
+**External Link:** [Editor_Thomson Grass Valley GVG200 (4999DR-082).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Editors/Editor_Thomson%20Grass%20Valley%20GVG200%20%284999DR-082%29.pdf)

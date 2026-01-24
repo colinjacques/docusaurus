@@ -1,12 +1,12 @@
 ---
-title: "Voyager Cabling Guide No IO"
+title: "Voyager Cabling Guide - No IO"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Voyager Cabling Guide No IO
+# Voyager Cabling Guide - No IO
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/Virtual%20Solutions/Voyager/Cabling%20Guides/Voyager%20Cabling%20Guide%20-%20No%20IO.pdf" title="Voyager Cabling Guide No IO" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/Virtual%20Solutions/Voyager/Cabling%20Guides/Voyager%20Cabling%20Guide%20-%20No%20IO.pdf" title="Voyager Cabling Guide - No IO" />
 
 ---
 

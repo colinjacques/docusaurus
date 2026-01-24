@@ -1,12 +1,12 @@
 ---
-title: "Audio Mixer Logitek Audio Mixer"
+title: "Audio-Mixer Logitek Audio Mixer"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Audio Mixer Logitek Audio Mixer
+# Audio-Mixer Logitek Audio Mixer
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Audio%20Mixers/Audio-Mixer_Logitek%20Audio%20Mixer(4999DR-159).pdf" title="Audio Mixer Logitek Audio Mixer" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Audio%20Mixers/Audio-Mixer_Logitek%20Audio%20Mixer%284999DR-159%29.pdf" title="Audio-Mixer Logitek Audio Mixer" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Audio-Mixer_Logitek Audio Mixer(4999DR-159).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Audio%20Mixers/Audio-Mixer_Logitek%20Audio%20Mixer(4999DR-159).pdf)
+**External Link:** [Audio-Mixer_Logitek Audio Mixer(4999DR-159).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Audio%20Mixers/Audio-Mixer_Logitek%20Audio%20Mixer%284999DR-159%29.pdf)

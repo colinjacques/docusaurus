@@ -1,12 +1,12 @@
 ---
-title: "2024 7 9 Carbonite FINAL"
+title: "2024 7-9 Carbonite FINAL"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# 2024 7 9 Carbonite FINAL
+# 2024 7-9 Carbonite FINAL
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Product%20Matrix/2024_7-9_Carbonite_FINAL.pdf" title="2024 7 9 Carbonite FINAL" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Product%20Matrix/2024_7-9_Carbonite_FINAL.pdf" title="2024 7-9 Carbonite FINAL" />
 
 ---
 

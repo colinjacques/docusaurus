@@ -1,12 +1,12 @@
 ---
-title: "Acuity Setup"
+title: "Acuity-Setup"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Acuity Setup
+# Acuity-Setup
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Acuity/Acuity-Setup(4820DR-120).pdf" title="Acuity Setup" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Acuity/Acuity-Setup%284820DR-120%29.pdf" title="Acuity-Setup" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Acuity-Setup(4820DR-120).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Acuity/Acuity-Setup(4820DR-120).pdf)
+**External Link:** [Acuity-Setup(4820DR-120).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Acuity/Acuity-Setup%284820DR-120%29.pdf)

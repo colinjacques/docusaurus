@@ -1,12 +1,12 @@
 ---
-title: "ULTRIX FM NS 1RU Install Guide"
+title: "ULTRIX-FM-NS-1RU Install Guide"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# ULTRIX FM NS 1RU Install Guide
+# ULTRIX-FM-NS-1RU Install Guide
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Routers/Ultrix/ULTRIX-FM-NS-1RU%20Install%20Guide%20(2101DR-484-01).pdf" title="ULTRIX FM NS 1RU Install Guide" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Routers/Ultrix/ULTRIX-FM-NS-1RU%20Install%20Guide%20%282101DR-484-01%29.pdf" title="ULTRIX-FM-NS-1RU Install Guide" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [ULTRIX-FM-NS-1RU Install Guide (2101DR-484-01).pdf](https://documentation.rossvideo.com/files/Manuals/Routers/Ultrix/ULTRIX-FM-NS-1RU%20Install%20Guide%20(2101DR-484-01).pdf)
+**External Link:** [ULTRIX-FM-NS-1RU Install Guide (2101DR-484-01).pdf](https://documentation.rossvideo.com/files/Manuals/Routers/Ultrix/ULTRIX-FM-NS-1RU%20Install%20Guide%20%282101DR-484-01%29.pdf)

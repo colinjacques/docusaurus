@@ -1,12 +1,12 @@
 ---
-title: "Router Pro Bel Halo"
+title: "Router Pro-Bel Halo"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Router Pro Bel Halo
+# Router Pro-Bel Halo
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Routers/Router_Pro-Bel%20Halo%20(4999DR-027).pdf" title="Router Pro Bel Halo" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Routers/Router_Pro-Bel%20Halo%20%284999DR-027%29.pdf" title="Router Pro-Bel Halo" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Router_Pro-Bel Halo (4999DR-027).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Routers/Router_Pro-Bel%20Halo%20(4999DR-027).pdf)
+**External Link:** [Router_Pro-Bel Halo (4999DR-027).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Routers/Router_Pro-Bel%20Halo%20%284999DR-027%29.pdf)

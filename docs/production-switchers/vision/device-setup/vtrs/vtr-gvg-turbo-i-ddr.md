@@ -6,7 +6,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 # VTR GVG Turbo iDDR
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/VTRs/VTR_GVG%20Turbo%20iDDR%20(4999DR-009).pdf" title="VTR GVG Turbo iDDR" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/VTRs/VTR_GVG%20Turbo%20iDDR%20%284999DR-009%29.pdf" title="VTR GVG Turbo iDDR" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [VTR_GVG Turbo iDDR (4999DR-009).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/VTRs/VTR_GVG%20Turbo%20iDDR%20(4999DR-009).pdf)
+**External Link:** [VTR_GVG Turbo iDDR (4999DR-009).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/VTRs/VTR_GVG%20Turbo%20iDDR%20%284999DR-009%29.pdf)

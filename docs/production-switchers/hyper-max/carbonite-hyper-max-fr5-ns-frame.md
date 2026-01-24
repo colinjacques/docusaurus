@@ -1,12 +1,12 @@
 ---
-title: "Carbonite HyperMax FR5 NS Frame"
+title: "Carbonite-HyperMax-FR5-NS-Frame"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Carbonite HyperMax FR5 NS Frame
+# Carbonite-HyperMax-FR5-NS-Frame
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/HyperMax/Carbonite-HyperMax-FR5-NS-Frame(4849DR-200).pdf" title="Carbonite HyperMax FR5 NS Frame" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/HyperMax/Carbonite-HyperMax-FR5-NS-Frame%284849DR-200%29.pdf" title="Carbonite-HyperMax-FR5-NS-Frame" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Carbonite-HyperMax-FR5-NS-Frame(4849DR-200).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/HyperMax/Carbonite-HyperMax-FR5-NS-Frame(4849DR-200).pdf)
+**External Link:** [Carbonite-HyperMax-FR5-NS-Frame(4849DR-200).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/HyperMax/Carbonite-HyperMax-FR5-NS-Frame%284849DR-200%29.pdf)

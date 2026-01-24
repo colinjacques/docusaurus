@@ -1,12 +1,12 @@
 ---
-title: "ENCO Ethernet"
+title: "ENCO - Ethernet"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# ENCO Ethernet
+# ENCO - Ethernet
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Enterprise%20Control%20Systems/Caprica/Device%20Setup%20Sheets/Audio%20Server/ENCO%20-%20Ethernet.pdf" title="ENCO Ethernet" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Enterprise%20Control%20Systems/Caprica/Device%20Setup%20Sheets/Audio%20Server/ENCO%20-%20Ethernet.pdf" title="ENCO - Ethernet" />
 
 ---
 

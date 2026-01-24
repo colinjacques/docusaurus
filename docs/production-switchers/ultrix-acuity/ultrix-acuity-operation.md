@@ -1,12 +1,12 @@
 ---
-title: "Ultrix Acuity Operation"
+title: "Ultrix-Acuity-Operation"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Ultrix Acuity Operation
+# Ultrix-Acuity-Operation
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Ultrix%20Acuity/Ultrix-Acuity-Operation(4842DR-110).pdf" title="Ultrix Acuity Operation" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Ultrix%20Acuity/Ultrix-Acuity-Operation%284842DR-110%29.pdf" title="Ultrix-Acuity-Operation" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Ultrix-Acuity-Operation(4842DR-110).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Ultrix%20Acuity/Ultrix-Acuity-Operation(4842DR-110).pdf)
+**External Link:** [Ultrix-Acuity-Operation(4842DR-110).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Ultrix%20Acuity/Ultrix-Acuity-Operation%284842DR-110%29.pdf)

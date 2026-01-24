@@ -1,12 +1,12 @@
 ---
-title: "GATOR TOOLBOX User Guide"
+title: "GATOR-TOOLBOX User Guide"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# GATOR TOOLBOX User Guide
+# GATOR-TOOLBOX User Guide
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Signal%20Processing/Gator/GATOR-TOOLBOX%20User%20Guide%20(8922DR-204).pdf" title="GATOR TOOLBOX User Guide" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Signal%20Processing/Gator/GATOR-TOOLBOX%20User%20Guide%20%288922DR-204%29.pdf" title="GATOR-TOOLBOX User Guide" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [GATOR-TOOLBOX User Guide (8922DR-204).pdf](https://documentation.rossvideo.com/files/Manuals/Signal%20Processing/Gator/GATOR-TOOLBOX%20User%20Guide%20(8922DR-204).pdf)
+**External Link:** [GATOR-TOOLBOX User Guide (8922DR-204).pdf](https://documentation.rossvideo.com/files/Manuals/Signal%20Processing/Gator/GATOR-TOOLBOX%20User%20Guide%20%288922DR-204%29.pdf)

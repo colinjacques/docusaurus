@@ -1,12 +1,12 @@
 ---
-title: "Carbonite Ultra Manual"
+title: "Carbonite-Ultra-Manual"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Carbonite Ultra Manual
+# Carbonite-Ultra-Manual
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Carbonite%20Ultra/Carbonite-Ultra-Manual(4841DR-110).pdf" title="Carbonite Ultra Manual" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Carbonite%20Ultra/Carbonite-Ultra-Manual%284841DR-110%29.pdf" title="Carbonite-Ultra-Manual" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Carbonite-Ultra-Manual(4841DR-110).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Carbonite%20Ultra/Carbonite-Ultra-Manual(4841DR-110).pdf)
+**External Link:** [Carbonite-Ultra-Manual(4841DR-110).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Carbonite%20Ultra/Carbonite-Ultra-Manual%284841DR-110%29.pdf)

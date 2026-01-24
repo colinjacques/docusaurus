@@ -1,12 +1,12 @@
 ---
-title: "XPN 4RU M9 XPression 4RU SDI Hardware Specs"
+title: "XPN-4RU-M9 XPression 4RU SDI Hardware Specs"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# XPN 4RU M9 XPression 4RU SDI Hardware Specs
+# XPN-4RU-M9 XPression 4RU SDI Hardware Specs
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals%2FCG%20and%20Graphics%2FXPression%2FHardware%20Specs%2FXPN-4RU-M9%20XPression%204RU%20SDI%20Hardware%20Specs%20%283509DR-503-01%20Rev%203%29.pdf" title="XPN 4RU M9 XPression 4RU SDI Hardware Specs" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Hardware%20Specs/XPN-4RU-M9%20XPression%204RU%20SDI%20Hardware%20Specs%20%283509DR-503-01%20Rev%203%29.pdf" title="XPN-4RU-M9 XPression 4RU SDI Hardware Specs" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [XPN-4RU-M9 XPression 4RU SDI Hardware Specs (3509DR-503-01 Rev 3).pdf](https://documentation.rossvideo.com/files/Manuals%2FCG%20and%20Graphics%2FXPression%2FHardware%20Specs%2FXPN-4RU-M9%20XPression%204RU%20SDI%20Hardware%20Specs%20%283509DR-503-01%20Rev%203%29.pdf)
+**External Link:** [XPN-4RU-M9 XPression 4RU SDI Hardware Specs (3509DR-503-01 Rev 3).pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Hardware%20Specs/XPN-4RU-M9%20XPression%204RU%20SDI%20Hardware%20Specs%20%283509DR-503-01%20Rev%203%29.pdf)

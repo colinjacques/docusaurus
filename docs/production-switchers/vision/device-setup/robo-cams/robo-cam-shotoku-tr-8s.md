@@ -1,12 +1,12 @@
 ---
-title: "Robo Cam Shotoku TR 8S"
+title: "Robo-Cam Shotoku TR-8S"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Robo Cam Shotoku TR 8S
+# Robo-Cam Shotoku TR-8S
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/RoboCams/Robo-Cam_Shotoku%20TR-8S%20(4999DR-080F).pdf" title="Robo Cam Shotoku TR 8S" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/RoboCams/Robo-Cam_Shotoku%20TR-8S%20%284999DR-080F%29.pdf" title="Robo-Cam Shotoku TR-8S" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Robo-Cam_Shotoku TR-8S (4999DR-080F).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/RoboCams/Robo-Cam_Shotoku%20TR-8S%20(4999DR-080F).pdf)
+**External Link:** [Robo-Cam_Shotoku TR-8S (4999DR-080F).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/RoboCams/Robo-Cam_Shotoku%20TR-8S%20%284999DR-080F%29.pdf)

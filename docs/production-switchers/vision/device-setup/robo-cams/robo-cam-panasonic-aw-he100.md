@@ -1,12 +1,12 @@
 ---
-title: "Robo Cam Panasonic AW HE100"
+title: "Robo-Cam Panasonic AW-HE100"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Robo Cam Panasonic AW HE100
+# Robo-Cam Panasonic AW-HE100
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/RoboCams/Robo-Cam_Panasonic%20AW-HE100%20(AW-RP655)%20(4999DR-149).pdf" title="Robo Cam Panasonic AW HE100" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/RoboCams/Robo-Cam_Panasonic%20AW-HE100%20%28AW-RP655%29%20%284999DR-149%29.pdf" title="Robo-Cam Panasonic AW-HE100" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Robo-Cam_Panasonic AW-HE100 (AW-RP655) (4999DR-149).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/RoboCams/Robo-Cam_Panasonic%20AW-HE100%20(AW-RP655)%20(4999DR-149).pdf)
+**External Link:** [Robo-Cam_Panasonic AW-HE100 (AW-RP655) (4999DR-149).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/RoboCams/Robo-Cam_Panasonic%20AW-HE100%20%28AW-RP655%29%20%284999DR-149%29.pdf)

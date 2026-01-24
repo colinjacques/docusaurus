@@ -1,12 +1,12 @@
 ---
-title: "Video Server GVG M Series iVDR"
+title: "Video-Server GVG M-Series iVDR"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Video Server GVG M Series iVDR
+# Video-Server GVG M-Series iVDR
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Video%20Servers/Video-Server_GVG%20M-Series%20iVDR%20(4999DR-007).pdf" title="Video Server GVG M Series iVDR" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Video%20Servers/Video-Server_GVG%20M-Series%20iVDR%20%284999DR-007%29.pdf" title="Video-Server GVG M-Series iVDR" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Video-Server_GVG M-Series iVDR (4999DR-007).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Video%20Servers/Video-Server_GVG%20M-Series%20iVDR%20(4999DR-007).pdf)
+**External Link:** [Video-Server_GVG M-Series iVDR (4999DR-007).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Video%20Servers/Video-Server_GVG%20M-Series%20iVDR%20%284999DR-007%29.pdf)

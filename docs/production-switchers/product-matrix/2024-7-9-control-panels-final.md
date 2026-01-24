@@ -1,12 +1,12 @@
 ---
-title: "2024 7 9 Control Panels FINAL"
+title: "2024 7-9 Control Panels FINAL"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# 2024 7 9 Control Panels FINAL
+# 2024 7-9 Control Panels FINAL
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Product%20Matrix/2024_7-9_Control_Panels_FINAL.pdf" title="2024 7 9 Control Panels FINAL" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Product%20Matrix/2024_7-9_Control_Panels_FINAL.pdf" title="2024 7-9 Control Panels FINAL" />
 
 ---
 

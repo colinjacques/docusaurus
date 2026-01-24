@@ -6,7 +6,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 # XPression System Memory Upgrade for M4, M5, M6, and M7
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/XPression%20System%20Memory%20Upgrade%20for%20M4,%20M5,%20M6,%20and%20M7%20(3500DR-545-01%20Rev%202).pdf" title="XPression System Memory Upgrade for M4, M5, M6, and M7" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/XPression%20System%20Memory%20Upgrade%20for%20M4%2C%20M5%2C%20M6%2C%20and%20M7%20%283500DR-545-01%20Rev%202%29.pdf" title="XPression System Memory Upgrade for M4, M5, M6, and M7" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [XPression System Memory Upgrade for M4, M5, M6, and M7 (3500DR-545-01 Rev 2).pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/XPression%20System%20Memory%20Upgrade%20for%20M4,%20M5,%20M6,%20and%20M7%20(3500DR-545-01%20Rev%202).pdf)
+**External Link:** [XPression System Memory Upgrade for M4, M5, M6, and M7 (3500DR-545-01 Rev 2).pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/XPression%20System%20Memory%20Upgrade%20for%20M4%2C%20M5%2C%20M6%2C%20and%20M7%20%283500DR-545-01%20Rev%202%29.pdf)

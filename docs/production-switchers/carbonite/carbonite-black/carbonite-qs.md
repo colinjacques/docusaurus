@@ -1,12 +1,12 @@
 ---
-title: "Carbonite QS"
+title: "Carbonite-QS"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Carbonite QS
+# Carbonite-QS
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Carbonite%20Black/Carbonite-QS(4802DR-200).pdf" title="Carbonite QS" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Carbonite%20Black/Carbonite-QS%284802DR-200%29.pdf" title="Carbonite-QS" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Carbonite-QS(4802DR-200).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Carbonite%20Black/Carbonite-QS(4802DR-200).pdf)
+**External Link:** [Carbonite-QS(4802DR-200).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Carbonite%20Black/Carbonite-QS%284802DR-200%29.pdf)

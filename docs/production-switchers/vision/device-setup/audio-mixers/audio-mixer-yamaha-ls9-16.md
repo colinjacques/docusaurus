@@ -1,12 +1,12 @@
 ---
-title: "Audio Mixer Yamaha LS9 16"
+title: "Audio-Mixer Yamaha LS9-16"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Audio Mixer Yamaha LS9 16
+# Audio-Mixer Yamaha LS9-16
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Audio%20Mixers/Audio-Mixer_Yamaha%20LS9-16%20(SMC-9901)(4999DR-068).pdf" title="Audio Mixer Yamaha LS9 16" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Audio%20Mixers/Audio-Mixer_Yamaha%20LS9-16%20%28SMC-9901%29%284999DR-068%29.pdf" title="Audio-Mixer Yamaha LS9-16" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Audio-Mixer_Yamaha LS9-16 (SMC-9901)(4999DR-068).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Audio%20Mixers/Audio-Mixer_Yamaha%20LS9-16%20(SMC-9901)(4999DR-068).pdf)
+**External Link:** [Audio-Mixer_Yamaha LS9-16 (SMC-9901)(4999DR-068).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Audio%20Mixers/Audio-Mixer_Yamaha%20LS9-16%20%28SMC-9901%29%284999DR-068%29.pdf)

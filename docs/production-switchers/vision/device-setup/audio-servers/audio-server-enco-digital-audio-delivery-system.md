@@ -1,12 +1,12 @@
 ---
-title: "Audio Server Enco Digital Audio Delivery System"
+title: "Audio-Server Enco Digital Audio Delivery System"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Audio Server Enco Digital Audio Delivery System
+# Audio-Server Enco Digital Audio Delivery System
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Audio%20Servers/Audio-Server_Enco%20Digital%20Audio%20Delivery%20System%20(4999DR-023).pdf" title="Audio Server Enco Digital Audio Delivery System" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Audio%20Servers/Audio-Server_Enco%20Digital%20Audio%20Delivery%20System%20%284999DR-023%29.pdf" title="Audio-Server Enco Digital Audio Delivery System" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Audio-Server_Enco Digital Audio Delivery System (4999DR-023).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Audio%20Servers/Audio-Server_Enco%20Digital%20Audio%20Delivery%20System%20(4999DR-023).pdf)
+**External Link:** [Audio-Server_Enco Digital Audio Delivery System (4999DR-023).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Audio%20Servers/Audio-Server_Enco%20Digital%20Audio%20Delivery%20System%20%284999DR-023%29.pdf)

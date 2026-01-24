@@ -1,12 +1,12 @@
 ---
-title: "Carbonite Ultra SOLO Hardware QS"
+title: "Carbonite-Ultra-SOLO-Hardware-QS"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Carbonite Ultra SOLO Hardware QS
+# Carbonite-Ultra-SOLO-Hardware-QS
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite%20Ultra%20Solo/Carbonite-Ultra-SOLO-Hardware-QS(4844DR-200).pdf" title="Carbonite Ultra SOLO Hardware QS" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite%20Ultra%20Solo/Carbonite-Ultra-SOLO-Hardware-QS%284844DR-200%29.pdf" title="Carbonite-Ultra-SOLO-Hardware-QS" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Carbonite-Ultra-SOLO-Hardware-QS(4844DR-200).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite%20Ultra%20Solo/Carbonite-Ultra-SOLO-Hardware-QS(4844DR-200).pdf)
+**External Link:** [Carbonite-Ultra-SOLO-Hardware-QS(4844DR-200).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite%20Ultra%20Solo/Carbonite-Ultra-SOLO-Hardware-QS%284844DR-200%29.pdf)

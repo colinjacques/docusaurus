@@ -1,12 +1,12 @@
 ---
-title: "Audio Mixer Yamaha DM2000"
+title: "Audio-Mixer Yamaha DM2000"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Audio Mixer Yamaha DM2000
+# Audio-Mixer Yamaha DM2000
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Audio%20Mixers/Audio-Mixer_Yamaha%20DM2000%20(SMC-9901)(4999DR-041).pdf" title="Audio Mixer Yamaha DM2000" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Audio%20Mixers/Audio-Mixer_Yamaha%20DM2000%20%28SMC-9901%29%284999DR-041%29.pdf" title="Audio-Mixer Yamaha DM2000" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Audio-Mixer_Yamaha DM2000 (SMC-9901)(4999DR-041).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Audio%20Mixers/Audio-Mixer_Yamaha%20DM2000%20(SMC-9901)(4999DR-041).pdf)
+**External Link:** [Audio-Mixer_Yamaha DM2000 (SMC-9901)(4999DR-041).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Audio%20Mixers/Audio-Mixer_Yamaha%20DM2000%20%28SMC-9901%29%284999DR-041%29.pdf)

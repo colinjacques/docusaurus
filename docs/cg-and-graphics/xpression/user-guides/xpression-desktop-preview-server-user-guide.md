@@ -6,7 +6,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 # XPression Desktop Preview Server User Guide
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/User%20Guides/XPression%20Desktop%20Preview%20Server%20User%20Guide%20(3500DR-012-12.5).pdf" title="XPression Desktop Preview Server User Guide" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/User%20Guides/XPression%20Desktop%20Preview%20Server%20User%20Guide%20%283500DR-012-12.5%29.pdf" title="XPression Desktop Preview Server User Guide" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [XPression Desktop Preview Server User Guide (3500DR-012-12.5).pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/User%20Guides/XPression%20Desktop%20Preview%20Server%20User%20Guide%20(3500DR-012-12.5).pdf)
+**External Link:** [XPression Desktop Preview Server User Guide (3500DR-012-12.5).pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/User%20Guides/XPression%20Desktop%20Preview%20Server%20User%20Guide%20%283500DR-012-12.5%29.pdf)

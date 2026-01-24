@@ -1,12 +1,12 @@
 ---
-title: "Robo Cam Ross CamBot"
+title: "Robo-Cam Ross CamBot"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Robo Cam Ross CamBot
+# Robo-Cam Ross CamBot
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/RoboCams/Robo-Cam_Ross%20CamBot%20(4999DR-096).pdf" title="Robo Cam Ross CamBot" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/RoboCams/Robo-Cam_Ross%20CamBot%20%284999DR-096%29.pdf" title="Robo-Cam Ross CamBot" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Robo-Cam_Ross CamBot (4999DR-096).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/RoboCams/Robo-Cam_Ross%20CamBot%20(4999DR-096).pdf)
+**External Link:** [Robo-Cam_Ross CamBot (4999DR-096).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/RoboCams/Robo-Cam_Ross%20CamBot%20%284999DR-096%29.pdf)

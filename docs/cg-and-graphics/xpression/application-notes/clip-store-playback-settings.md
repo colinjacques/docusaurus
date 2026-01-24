@@ -6,7 +6,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 # ClipStore Playback Settings
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/ClipStore%20Playback%20Settings%20(3500DR-527-02%20Rev%202).pdf" title="ClipStore Playback Settings" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/ClipStore%20Playback%20Settings%20%283500DR-527-02%20Rev%202%29.pdf" title="ClipStore Playback Settings" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [ClipStore Playback Settings (3500DR-527-02 Rev 2).pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/ClipStore%20Playback%20Settings%20(3500DR-527-02%20Rev%202).pdf)
+**External Link:** [ClipStore Playback Settings (3500DR-527-02 Rev 2).pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/ClipStore%20Playback%20Settings%20%283500DR-527-02%20Rev%202%29.pdf)

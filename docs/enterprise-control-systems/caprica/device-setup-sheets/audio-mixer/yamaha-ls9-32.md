@@ -1,12 +1,12 @@
 ---
-title: "Yamaha LS9 32"
+title: "Yamaha LS9-32"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Yamaha LS9 32
+# Yamaha LS9-32
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Enterprise%20Control%20Systems/Caprica/Device%20Setup%20Sheets/Audio%20Mixer/Yamaha%20LS9-32.pdf" title="Yamaha LS9 32" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Enterprise%20Control%20Systems/Caprica/Device%20Setup%20Sheets/Audio%20Mixer/Yamaha%20LS9-32.pdf" title="Yamaha LS9-32" />
 
 ---
 

@@ -1,12 +1,12 @@
 ---
-title: "Robo Cam Telemetrics PT HP S2"
+title: "Robo-Cam Telemetrics PT-HP-S2"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Robo Cam Telemetrics PT HP S2
+# Robo-Cam Telemetrics PT-HP-S2
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/RoboCams/Robo-Cam_Telemetrics%20PT-HP-S2%20(4999DR-045).pdf" title="Robo Cam Telemetrics PT HP S2" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/RoboCams/Robo-Cam_Telemetrics%20PT-HP-S2%20%284999DR-045%29.pdf" title="Robo-Cam Telemetrics PT-HP-S2" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Robo-Cam_Telemetrics PT-HP-S2 (4999DR-045).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/RoboCams/Robo-Cam_Telemetrics%20PT-HP-S2%20(4999DR-045).pdf)
+**External Link:** [Robo-Cam_Telemetrics PT-HP-S2 (4999DR-045).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/RoboCams/Robo-Cam_Telemetrics%20PT-HP-S2%20%284999DR-045%29.pdf)

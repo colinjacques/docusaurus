@@ -1,12 +1,12 @@
 ---
-title: "ULTRIX FR12 Quick Start Guide"
+title: "ULTRIX-FR12 Quick Start Guide"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# ULTRIX FR12 Quick Start Guide
+# ULTRIX-FR12 Quick Start Guide
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Routers/Ultrix/ULTRIX-FR12%20Quick%20Start%20Guide%20(2101DR-602).pdf" title="ULTRIX FR12 Quick Start Guide" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Routers/Ultrix/ULTRIX-FR12%20Quick%20Start%20Guide%20%282101DR-602%29.pdf" title="ULTRIX-FR12 Quick Start Guide" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [ULTRIX-FR12 Quick Start Guide (2101DR-602).pdf](https://documentation.rossvideo.com/files/Manuals/Routers/Ultrix/ULTRIX-FR12%20Quick%20Start%20Guide%20(2101DR-602).pdf)
+**External Link:** [ULTRIX-FR12 Quick Start Guide (2101DR-602).pdf](https://documentation.rossvideo.com/files/Manuals/Routers/Ultrix/ULTRIX-FR12%20Quick%20Start%20Guide%20%282101DR-602%29.pdf)

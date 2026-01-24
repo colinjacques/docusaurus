@@ -1,12 +1,12 @@
 ---
-title: "Video Server Avid AirSpeed Multi Stream"
+title: "Video-Server Avid AirSpeed Multi Stream"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Video Server Avid AirSpeed Multi Stream
+# Video-Server Avid AirSpeed Multi Stream
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Video%20Servers/Video-Server_Avid%20AirSpeed%20Multi%20Stream%20(4999DR-100).pdf" title="Video Server Avid AirSpeed Multi Stream" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Video%20Servers/Video-Server_Avid%20AirSpeed%20Multi%20Stream%20%284999DR-100%29.pdf" title="Video-Server Avid AirSpeed Multi Stream" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Video-Server_Avid AirSpeed Multi Stream (4999DR-100).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Video%20Servers/Video-Server_Avid%20AirSpeed%20Multi%20Stream%20(4999DR-100).pdf)
+**External Link:** [Video-Server_Avid AirSpeed Multi Stream (4999DR-100).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Video%20Servers/Video-Server_Avid%20AirSpeed%20Multi%20Stream%20%284999DR-100%29.pdf)

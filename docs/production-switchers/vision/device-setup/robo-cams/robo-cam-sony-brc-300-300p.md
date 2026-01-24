@@ -1,12 +1,12 @@
 ---
-title: "Robo Cam Sony BRC 300 300P"
+title: "Robo-Cam Sony BRC-300-300P"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Robo Cam Sony BRC 300 300P
+# Robo-Cam Sony BRC-300-300P
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/RoboCams/Robo-Cam_Sony%20BRC-300-300P%20(4999DR-050F).pdf" title="Robo Cam Sony BRC 300 300P" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/RoboCams/Robo-Cam_Sony%20BRC-300-300P%20%284999DR-050F%29.pdf" title="Robo-Cam Sony BRC-300-300P" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Robo-Cam_Sony BRC-300-300P (4999DR-050F).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/RoboCams/Robo-Cam_Sony%20BRC-300-300P%20(4999DR-050F).pdf)
+**External Link:** [Robo-Cam_Sony BRC-300-300P (4999DR-050F).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/RoboCams/Robo-Cam_Sony%20BRC-300-300P%20%284999DR-050F%29.pdf)

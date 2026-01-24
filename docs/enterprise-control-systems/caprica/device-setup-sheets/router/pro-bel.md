@@ -1,12 +1,12 @@
 ---
-title: "Pro Bel"
+title: "Pro-Bel"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Pro Bel
+# Pro-Bel
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Enterprise%20Control%20Systems/Caprica/Device%20Setup%20Sheets/Router/Pro-Bel.pdf" title="Pro Bel" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Enterprise%20Control%20Systems/Caprica/Device%20Setup%20Sheets/Router/Pro-Bel.pdf" title="Pro-Bel" />
 
 ---
 

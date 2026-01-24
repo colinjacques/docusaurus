@@ -6,7 +6,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 # Synergy MD Engineering Manual Volume I
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Synergy/Synergy%20MD%20Engineering%20Manual%20Volume%20I%20(4400DR-001).pdf" title="Synergy MD Engineering Manual Volume I" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Synergy/Synergy%20MD%20Engineering%20Manual%20Volume%20I%20%284400DR-001%29.pdf" title="Synergy MD Engineering Manual Volume I" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Synergy MD Engineering Manual Volume I (4400DR-001).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Synergy/Synergy%20MD%20Engineering%20Manual%20Volume%20I%20(4400DR-001).pdf)
+**External Link:** [Synergy MD Engineering Manual Volume I (4400DR-001).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Synergy/Synergy%20MD%20Engineering%20Manual%20Volume%20I%20%284400DR-001%29.pdf)

@@ -1,12 +1,12 @@
 ---
-title: "UItriMix MXR Direct Output Applications"
+title: "UItriMix-MXR Direct Output Applications"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# UItriMix MXR Direct Output Applications
+# UItriMix-MXR Direct Output Applications
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Routers/Ultrix/UItriMix-MXR%20Direct%20Output%20Applications.pdf" title="UItriMix MXR Direct Output Applications" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Routers/Ultrix/UItriMix-MXR%20Direct%20Output%20Applications.pdf" title="UItriMix-MXR Direct Output Applications" />
 
 ---
 

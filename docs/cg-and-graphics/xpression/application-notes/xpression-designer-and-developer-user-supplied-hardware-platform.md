@@ -1,12 +1,12 @@
 ---
-title: "XPression Designer and Developer User Supplied Hardware Platform"
+title: "XPression Designer and Developer User-Supplied Hardware Platform"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# XPression Designer and Developer User Supplied Hardware Platform
+# XPression Designer and Developer User-Supplied Hardware Platform
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/XPression%20Designer%20and%20Developer%20User-Supplied%20Hardware%20Platform%20(3509DR-507-01).pdf" title="XPression Designer and Developer User Supplied Hardware Platform" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/XPression%20Designer%20and%20Developer%20User-Supplied%20Hardware%20Platform%20%283509DR-507-01%29.pdf" title="XPression Designer and Developer User-Supplied Hardware Platform" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [XPression Designer and Developer User-Supplied Hardware Platform (3509DR-507-01).pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/XPression%20Designer%20and%20Developer%20User-Supplied%20Hardware%20Platform%20(3509DR-507-01).pdf)
+**External Link:** [XPression Designer and Developer User-Supplied Hardware Platform (3509DR-507-01).pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/XPression%20Designer%20and%20Developer%20User-Supplied%20Hardware%20Platform%20%283509DR-507-01%29.pdf)

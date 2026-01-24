@@ -1,12 +1,12 @@
 ---
-title: "Robo Cam Canon BU 50"
+title: "Robo-Cam Canon BU-50"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Robo Cam Canon BU 50
+# Robo-Cam Canon BU-50
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/RoboCams/Robo-Cam_Canon%20BU-50%20(4999DR-122F).pdf" title="Robo Cam Canon BU 50" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/RoboCams/Robo-Cam_Canon%20BU-50%20%284999DR-122F%29.pdf" title="Robo-Cam Canon BU-50" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Robo-Cam_Canon BU-50 (4999DR-122F).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/RoboCams/Robo-Cam_Canon%20BU-50%20(4999DR-122F).pdf)
+**External Link:** [Robo-Cam_Canon BU-50 (4999DR-122F).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/RoboCams/Robo-Cam_Canon%20BU-50%20%284999DR-122F%29.pdf)

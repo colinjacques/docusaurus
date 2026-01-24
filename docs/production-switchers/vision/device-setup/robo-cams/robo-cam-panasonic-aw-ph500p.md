@@ -1,12 +1,12 @@
 ---
-title: "Robo Cam Panasonic AW PH500p"
+title: "Robo-Cam Panasonic AW-PH500p"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Robo Cam Panasonic AW PH500p
+# Robo-Cam Panasonic AW-PH500p
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/RoboCams/Robo-Cam_Panasonic%20AW-PH500p%20(AW-RP-400)%20(4999DR-115).pdf" title="Robo Cam Panasonic AW PH500p" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/RoboCams/Robo-Cam_Panasonic%20AW-PH500p%20%28AW-RP-400%29%20%284999DR-115%29.pdf" title="Robo-Cam Panasonic AW-PH500p" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Robo-Cam_Panasonic AW-PH500p (AW-RP-400) (4999DR-115).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/RoboCams/Robo-Cam_Panasonic%20AW-PH500p%20(AW-RP-400)%20(4999DR-115).pdf)
+**External Link:** [Robo-Cam_Panasonic AW-PH500p (AW-RP-400) (4999DR-115).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/RoboCams/Robo-Cam_Panasonic%20AW-PH500p%20%28AW-RP-400%29%20%284999DR-115%29.pdf)

@@ -6,7 +6,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 # CG ORAD Maestro
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/CGs/CG_ORAD%20Maestro%20(4999DR-073-06).pdf" title="CG ORAD Maestro" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/CGs/CG_ORAD%20Maestro%20%284999DR-073-06%29.pdf" title="CG ORAD Maestro" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [CG_ORAD Maestro (4999DR-073-06).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/CGs/CG_ORAD%20Maestro%20(4999DR-073-06).pdf)
+**External Link:** [CG_ORAD Maestro (4999DR-073-06).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/CGs/CG_ORAD%20Maestro%20%284999DR-073-06%29.pdf)

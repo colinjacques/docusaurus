@@ -6,7 +6,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 # Ultripower User Guide
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Routers/Ultrix/Ultripower%20User%20Guide%20(2101DR-304).pdf" title="Ultripower User Guide" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Routers/Ultrix/Ultripower%20User%20Guide%20%282101DR-304%29.pdf" title="Ultripower User Guide" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Ultripower User Guide (2101DR-304).pdf](https://documentation.rossvideo.com/files/Manuals/Routers/Ultrix/Ultripower%20User%20Guide%20(2101DR-304).pdf)
+**External Link:** [Ultripower User Guide (2101DR-304).pdf](https://documentation.rossvideo.com/files/Manuals/Routers/Ultrix/Ultripower%20User%20Guide%20%282101DR-304%29.pdf)

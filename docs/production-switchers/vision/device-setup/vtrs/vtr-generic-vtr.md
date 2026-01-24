@@ -6,7 +6,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 # VTR Generic VTR
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/VTRs/VTR_Generic%20VTR%20(4999DR-065).pdf" title="VTR Generic VTR" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/VTRs/VTR_Generic%20VTR%20%284999DR-065%29.pdf" title="VTR Generic VTR" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [VTR_Generic VTR (4999DR-065).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/VTRs/VTR_Generic%20VTR%20(4999DR-065).pdf)
+**External Link:** [VTR_Generic VTR (4999DR-065).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/VTRs/VTR_Generic%20VTR%20%284999DR-065%29.pdf)

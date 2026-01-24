@@ -1,12 +1,12 @@
 ---
-title: "Video Server Avid AirSpace"
+title: "Video-Server Avid AirSpace"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Video Server Avid AirSpace
+# Video-Server Avid AirSpace
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Video%20Servers/Video-Server_Avid%20AirSpace%20(4999DR-003).pdf" title="Video Server Avid AirSpace" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Video%20Servers/Video-Server_Avid%20AirSpace%20%284999DR-003%29.pdf" title="Video-Server Avid AirSpace" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Video-Server_Avid AirSpace (4999DR-003).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Video%20Servers/Video-Server_Avid%20AirSpace%20(4999DR-003).pdf)
+**External Link:** [Video-Server_Avid AirSpace (4999DR-003).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Video%20Servers/Video-Server_Avid%20AirSpace%20%284999DR-003%29.pdf)

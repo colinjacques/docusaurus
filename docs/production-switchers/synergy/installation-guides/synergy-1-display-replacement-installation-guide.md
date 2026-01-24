@@ -1,12 +1,12 @@
 ---
-title: "Synergy 1 Display Replacement Installation Guide"
+title: "Synergy-1-Display-Replacement-Installation-Guide"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Synergy 1 Display Replacement Installation Guide
+# Synergy-1-Display-Replacement-Installation-Guide
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Synergy/Installation%20Guides/Synergy-1-Display-Replacement-Installation-Guide(4800DR-352).pdf" title="Synergy 1 Display Replacement Installation Guide" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Synergy/Installation%20Guides/Synergy-1-Display-Replacement-Installation-Guide%284800DR-352%29.pdf" title="Synergy-1-Display-Replacement-Installation-Guide" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Synergy-1-Display-Replacement-Installation-Guide(4800DR-352).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Synergy/Installation%20Guides/Synergy-1-Display-Replacement-Installation-Guide(4800DR-352).pdf)
+**External Link:** [Synergy-1-Display-Replacement-Installation-Guide(4800DR-352).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Synergy/Installation%20Guides/Synergy-1-Display-Replacement-Installation-Guide%284800DR-352%29.pdf)

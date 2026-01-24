@@ -1,12 +1,12 @@
 ---
-title: "Audio Mixer Merging Ovation"
+title: "Audio-Mixer Merging Ovation"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Audio Mixer Merging Ovation
+# Audio-Mixer Merging Ovation
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Audio%20Mixers/Audio-Mixer_Merging%20Ovation(4999DR-164).pdf" title="Audio Mixer Merging Ovation" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Audio%20Mixers/Audio-Mixer_Merging%20Ovation%284999DR-164%29.pdf" title="Audio-Mixer Merging Ovation" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Audio-Mixer_Merging Ovation(4999DR-164).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Audio%20Mixers/Audio-Mixer_Merging%20Ovation(4999DR-164).pdf)
+**External Link:** [Audio-Mixer_Merging Ovation(4999DR-164).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Audio%20Mixers/Audio-Mixer_Merging%20Ovation%284999DR-164%29.pdf)

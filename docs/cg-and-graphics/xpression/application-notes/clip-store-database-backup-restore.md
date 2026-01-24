@@ -1,12 +1,12 @@
 ---
-title: "Clip Store Database Backup Restore"
+title: "Clip Store Database Backup   Restore"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Clip Store Database Backup Restore
+# Clip Store Database Backup   Restore
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/Clip%20Store%20Database%20Backup%20_%20Restore(3500DR-532-01).pdf" title="Clip Store Database Backup Restore" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/Clip%20Store%20Database%20Backup%20_%20Restore%283500DR-532-01%29.pdf" title="Clip Store Database Backup   Restore" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Clip Store Database Backup _ Restore(3500DR-532-01).pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/Clip%20Store%20Database%20Backup%20_%20Restore(3500DR-532-01).pdf)
+**External Link:** [Clip Store Database Backup _ Restore(3500DR-532-01).pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/Clip%20Store%20Database%20Backup%20_%20Restore%283500DR-532-01%29.pdf)

@@ -6,7 +6,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 # PIERO Tech Guide
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/PIERO/Install%20Guides/PIERO_Tech_Guide.pdf" title="PIERO Tech Guide" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/PIERO/Tech%20Guides/PIERO_Tech_Guide.pdf" title="PIERO Tech Guide" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [PIERO_Tech_Guide.pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/PIERO/Install%20Guides/PIERO_Tech_Guide.pdf)
+**External Link:** [PIERO_Tech_Guide.pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/PIERO/Tech%20Guides/PIERO_Tech_Guide.pdf)

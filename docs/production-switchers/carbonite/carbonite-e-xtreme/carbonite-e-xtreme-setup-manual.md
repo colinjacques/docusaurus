@@ -1,12 +1,12 @@
 ---
-title: "Carbonite eXtreme Setup Manual"
+title: "Carbonite-eXtreme Setup-Manual"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Carbonite eXtreme Setup Manual
+# Carbonite-eXtreme Setup-Manual
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Carbonite%20eXtreme/Carbonite-eXtreme_Setup-Manual(4803DR-120).pdf" title="Carbonite eXtreme Setup Manual" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Carbonite%20eXtreme/Carbonite-eXtreme_Setup-Manual%284803DR-120%29.pdf" title="Carbonite-eXtreme Setup-Manual" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Carbonite-eXtreme_Setup-Manual(4803DR-120).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Carbonite%20eXtreme/Carbonite-eXtreme_Setup-Manual(4803DR-120).pdf)
+**External Link:** [Carbonite-eXtreme_Setup-Manual(4803DR-120).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Carbonite%20eXtreme/Carbonite-eXtreme_Setup-Manual%284803DR-120%29.pdf)

@@ -1,12 +1,12 @@
 ---
-title: "Mounting IG"
+title: "Mounting-IG"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Mounting IG
+# Mounting-IG
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Carbonite%20Black%20Solo/Mounting-IG(4840DR-300).pdf" title="Mounting IG" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Carbonite%20Black%20Solo/Mounting-IG%284840DR-300%29.pdf" title="Mounting-IG" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Mounting-IG(4840DR-300).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Carbonite%20Black%20Solo/Mounting-IG(4840DR-300).pdf)
+**External Link:** [Mounting-IG(4840DR-300).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Carbonite%20Black%20Solo/Mounting-IG%284840DR-300%29.pdf)

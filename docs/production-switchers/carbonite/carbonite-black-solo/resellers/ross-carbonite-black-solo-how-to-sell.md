@@ -1,8 +1,8 @@
 ---
-title: "Ross Carbonite Black Solo How to Sell"
+title: "Ross Carbonite Black Solo - How to Sell"
 ---
 
-# Ross Carbonite Black Solo How to Sell
+# Ross Carbonite Black Solo - How to Sell
 
 **Document Information:**
 - **Original filename:** `Ross Carbonite Black Solo - How to Sell.mp4`

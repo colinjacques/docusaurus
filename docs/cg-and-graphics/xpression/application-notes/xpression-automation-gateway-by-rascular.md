@@ -6,7 +6,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 # XPression Automation Gateway by Rascular
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/XPression%20Automation%20Gateway%20by%20Rascular%20(3500DR-521-03%20Rev%202).pdf" title="XPression Automation Gateway by Rascular" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/XPression%20Automation%20Gateway%20by%20Rascular%20%283500DR-521-03%20Rev%202%29.pdf" title="XPression Automation Gateway by Rascular" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [XPression Automation Gateway by Rascular (3500DR-521-03 Rev 2).pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/XPression%20Automation%20Gateway%20by%20Rascular%20(3500DR-521-03%20Rev%202).pdf)
+**External Link:** [XPression Automation Gateway by Rascular (3500DR-521-03 Rev 2).pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/XPression%20Automation%20Gateway%20by%20Rascular%20%283500DR-521-03%20Rev%202%29.pdf)

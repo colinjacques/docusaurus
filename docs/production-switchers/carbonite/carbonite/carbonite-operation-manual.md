@@ -1,12 +1,12 @@
 ---
-title: "Carbonite Operation Manual"
+title: "Carbonite Operation-Manual"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Carbonite Operation Manual
+# Carbonite Operation-Manual
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Carbonite/Carbonite_Operation-Manual(4802DR-110).pdf" title="Carbonite Operation Manual" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Carbonite/Carbonite_Operation-Manual%284802DR-110%29.pdf" title="Carbonite Operation-Manual" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Carbonite_Operation-Manual(4802DR-110).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Carbonite/Carbonite_Operation-Manual(4802DR-110).pdf)
+**External Link:** [Carbonite_Operation-Manual(4802DR-110).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Carbonite/Carbonite_Operation-Manual%284802DR-110%29.pdf)

@@ -1,12 +1,12 @@
 ---
-title: "Evertz 7700R SC BRC"
+title: "Evertz 7700R-SC-BRC"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Evertz 7700R SC BRC
+# Evertz 7700R-SC-BRC
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Enterprise%20Control%20Systems/Caprica/Device%20Setup%20Sheets/Controller/Evertz%207700R-SC-BRC.pdf" title="Evertz 7700R SC BRC" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Enterprise%20Control%20Systems/Caprica/Device%20Setup%20Sheets/Controller/Evertz%207700R-SC-BRC.pdf" title="Evertz 7700R-SC-BRC" />
 
 ---
 

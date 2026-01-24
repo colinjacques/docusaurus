@@ -1,12 +1,12 @@
 ---
-title: "TouchDrive Upgade Notes"
+title: "TouchDrive-Upgade-Notes"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# TouchDrive Upgade Notes
+# TouchDrive-Upgade-Notes
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/TouchDrive/TouchDrive-Upgade-Notes(4880DR-500).pdf" title="TouchDrive Upgade Notes" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/TouchDrive/TouchDrive-Upgade-Notes%284880DR-500%29.pdf" title="TouchDrive-Upgade-Notes" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [TouchDrive-Upgade-Notes(4880DR-500).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/TouchDrive/TouchDrive-Upgade-Notes(4880DR-500).pdf)
+**External Link:** [TouchDrive-Upgade-Notes(4880DR-500).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/TouchDrive/TouchDrive-Upgade-Notes%284880DR-500%29.pdf)

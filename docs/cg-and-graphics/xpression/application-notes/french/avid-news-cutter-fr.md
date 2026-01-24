@@ -6,7 +6,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 # Avid NewsCutter FR
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/French/Avid%20NewsCutter_FR(3500DR-508-01FR).pdf" title="Avid NewsCutter FR" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/French/Avid%20NewsCutter_FR%283500DR-508-01FR%29.pdf" title="Avid NewsCutter FR" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Avid NewsCutter_FR(3500DR-508-01FR).pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/French/Avid%20NewsCutter_FR(3500DR-508-01FR).pdf)
+**External Link:** [Avid NewsCutter_FR(3500DR-508-01FR).pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/French/Avid%20NewsCutter_FR%283500DR-508-01FR%29.pdf)

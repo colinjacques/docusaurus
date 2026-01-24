@@ -6,7 +6,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 # Ultrix IO Board Upgrade Guide
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Routers/Ultrix/Ultrix%20IO%20Board%20Upgrade%20Guide%20(2101DR-006).pdf" title="Ultrix IO Board Upgrade Guide" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Routers/Ultrix/Ultrix%20IO%20Board%20Upgrade%20Guide%20%282101DR-006%29.pdf" title="Ultrix IO Board Upgrade Guide" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Ultrix IO Board Upgrade Guide (2101DR-006).pdf](https://documentation.rossvideo.com/files/Manuals/Routers/Ultrix/Ultrix%20IO%20Board%20Upgrade%20Guide%20(2101DR-006).pdf)
+**External Link:** [Ultrix IO Board Upgrade Guide (2101DR-006).pdf](https://documentation.rossvideo.com/files/Manuals/Routers/Ultrix/Ultrix%20IO%20Board%20Upgrade%20Guide%20%282101DR-006%29.pdf)

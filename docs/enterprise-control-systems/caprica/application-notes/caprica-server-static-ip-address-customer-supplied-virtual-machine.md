@@ -1,12 +1,12 @@
 ---
-title: "Caprica Server Static IP Address Customer Supplied Virtual Machine"
+title: "Caprica Server Static IP Address - Customer Supplied Virtual Machine"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Caprica Server Static IP Address Customer Supplied Virtual Machine
+# Caprica Server Static IP Address - Customer Supplied Virtual Machine
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Enterprise%20Control%20Systems/Caprica/Application%20Notes/Caprica%20Server%20Static%20IP%20Address%20-%20Customer%20Supplied%20Virtual%20Machine.pdf" title="Caprica Server Static IP Address Customer Supplied Virtual Machine" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Enterprise%20Control%20Systems/Caprica/Application%20Notes/Caprica%20Server%20Static%20IP%20Address%20-%20Customer%20Supplied%20Virtual%20Machine.pdf" title="Caprica Server Static IP Address - Customer Supplied Virtual Machine" />
 
 ---
 

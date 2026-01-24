@@ -1,12 +1,12 @@
 ---
-title: "ULTRIX FR5 FLEX Slot Application Note"
+title: "ULTRIX-FR5 FLEX Slot Application Note"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# ULTRIX FR5 FLEX Slot Application Note
+# ULTRIX-FR5 FLEX Slot Application Note
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Routers/Ultrix/ULTRIX-FR5%20FLEX%20Slot%20Application%20Note%20(2101DR-017).pdf" title="ULTRIX FR5 FLEX Slot Application Note" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Routers/Ultrix/ULTRIX-FR5%20FLEX%20Slot%20Application%20Note%20%282101DR-017%29.pdf" title="ULTRIX-FR5 FLEX Slot Application Note" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [ULTRIX-FR5 FLEX Slot Application Note (2101DR-017).pdf](https://documentation.rossvideo.com/files/Manuals/Routers/Ultrix/ULTRIX-FR5%20FLEX%20Slot%20Application%20Note%20(2101DR-017).pdf)
+**External Link:** [ULTRIX-FR5 FLEX Slot Application Note (2101DR-017).pdf](https://documentation.rossvideo.com/files/Manuals/Routers/Ultrix/ULTRIX-FR5%20FLEX%20Slot%20Application%20Note%20%282101DR-017%29.pdf)

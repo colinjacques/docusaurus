@@ -6,7 +6,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 # Raiden Thank You Letter
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/Raiden/Raiden_Thank_You_Letter.pdf" title="Raiden Thank You Letter" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/Raiden/Thank%20You%20Letter/Raiden_Thank_You_Letter.pdf" title="Raiden Thank You Letter" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Raiden_Thank_You_Letter.pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/Raiden/Raiden_Thank_You_Letter.pdf)
+**External Link:** [Raiden_Thank_You_Letter.pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/Raiden/Thank%20You%20Letter/Raiden_Thank_You_Letter.pdf)

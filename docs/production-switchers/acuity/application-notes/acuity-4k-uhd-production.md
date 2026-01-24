@@ -1,12 +1,12 @@
 ---
-title: "Acuity 4K UHD Production"
+title: "Acuity-4K-UHD-Production"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Acuity 4K UHD Production
+# Acuity-4K-UHD-Production
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Acuity/Application%20Notes/Acuity-4K-UHD-Production(4820DR-508).pdf" title="Acuity 4K UHD Production" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Acuity/Application%20Notes/Acuity-4K-UHD-Production%284820DR-508%29.pdf" title="Acuity-4K-UHD-Production" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Acuity-4K-UHD-Production(4820DR-508).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Acuity/Application%20Notes/Acuity-4K-UHD-Production(4820DR-508).pdf)
+**External Link:** [Acuity-4K-UHD-Production(4820DR-508).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Acuity/Application%20Notes/Acuity-4K-UHD-Production%284820DR-508%29.pdf)

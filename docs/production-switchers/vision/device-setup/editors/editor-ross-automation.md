@@ -6,7 +6,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 # Editor RossAutomation
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Editors/Editor_RossAutomation%20(4999DR-168).pdf" title="Editor RossAutomation" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Editors/Editor_RossAutomation%20%284999DR-168%29.pdf" title="Editor RossAutomation" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Editor_RossAutomation (4999DR-168).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Editors/Editor_RossAutomation%20(4999DR-168).pdf)
+**External Link:** [Editor_RossAutomation (4999DR-168).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Editors/Editor_RossAutomation%20%284999DR-168%29.pdf)

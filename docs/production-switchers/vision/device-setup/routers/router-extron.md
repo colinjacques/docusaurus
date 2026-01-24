@@ -6,7 +6,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 # Router Extron
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Routers/Router_Extron%20(4999DR-091).pdf" title="Router Extron" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Routers/Router_Extron%20%284999DR-091%29.pdf" title="Router Extron" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Router_Extron (4999DR-091).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Routers/Router_Extron%20(4999DR-091).pdf)
+**External Link:** [Router_Extron (4999DR-091).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Routers/Router_Extron%20%284999DR-091%29.pdf)

@@ -1,12 +1,12 @@
 ---
-title: "Video Server Ross BlackStorm"
+title: "Video-Server Ross BlackStorm"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Video Server Ross BlackStorm
+# Video-Server Ross BlackStorm
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Video%20Servers/Video-Server_Ross%20BlackStorm%20(serial-AMP)%20(4999DR-160F).pdf" title="Video Server Ross BlackStorm" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Video%20Servers/Video-Server_Ross%20BlackStorm%20%28serial-AMP%29%20%284999DR-160F%29.pdf" title="Video-Server Ross BlackStorm" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Video-Server_Ross BlackStorm (serial-AMP) (4999DR-160F).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Video%20Servers/Video-Server_Ross%20BlackStorm%20(serial-AMP)%20(4999DR-160F).pdf)
+**External Link:** [Video-Server_Ross BlackStorm (serial-AMP) (4999DR-160F).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Video%20Servers/Video-Server_Ross%20BlackStorm%20%28serial-AMP%29%20%284999DR-160F%29.pdf)

@@ -1,12 +1,12 @@
 ---
-title: "Audio Mixer Wheatstone Digital Audio Control Surface"
+title: "Audio-Mixer Wheatstone Digital Audio Control Surface"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Audio Mixer Wheatstone Digital Audio Control Surface
+# Audio-Mixer Wheatstone Digital Audio Control Surface
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Audio%20Mixers/Audio-Mixer_Wheatstone%20Digital%20Audio%20Control%20Surface%20(4999DR-038).pdf" title="Audio Mixer Wheatstone Digital Audio Control Surface" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Audio%20Mixers/Audio-Mixer_Wheatstone%20Digital%20Audio%20Control%20Surface%20%284999DR-038%29.pdf" title="Audio-Mixer Wheatstone Digital Audio Control Surface" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Audio-Mixer_Wheatstone Digital Audio Control Surface (4999DR-038).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Audio%20Mixers/Audio-Mixer_Wheatstone%20Digital%20Audio%20Control%20Surface%20(4999DR-038).pdf)
+**External Link:** [Audio-Mixer_Wheatstone Digital Audio Control Surface (4999DR-038).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Audio%20Mixers/Audio-Mixer_Wheatstone%20Digital%20Audio%20Control%20Surface%20%284999DR-038%29.pdf)

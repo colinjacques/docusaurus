@@ -1,12 +1,12 @@
 ---
-title: "Video Server Pinnacle Systems ThunderMX"
+title: "Video-Server Pinnacle Systems ThunderMX"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Video Server Pinnacle Systems ThunderMX
+# Video-Server Pinnacle Systems ThunderMX
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Video%20Servers/Video-Server_Pinnacle%20Systems%20ThunderMX%20(4999DR-016).pdf" title="Video Server Pinnacle Systems ThunderMX" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Video%20Servers/Video-Server_Pinnacle%20Systems%20ThunderMX%20%284999DR-016%29.pdf" title="Video-Server Pinnacle Systems ThunderMX" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Video-Server_Pinnacle Systems ThunderMX (4999DR-016).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Video%20Servers/Video-Server_Pinnacle%20Systems%20ThunderMX%20(4999DR-016).pdf)
+**External Link:** [Video-Server_Pinnacle Systems ThunderMX (4999DR-016).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Video%20Servers/Video-Server_Pinnacle%20Systems%20ThunderMX%20%284999DR-016%29.pdf)

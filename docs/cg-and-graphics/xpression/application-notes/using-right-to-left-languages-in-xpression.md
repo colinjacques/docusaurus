@@ -6,7 +6,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 # Using Right to Left Languages in XPression
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/Using%20Right%20to%20Left%20Languages%20in%20XPression%20(3500DR-546-01).pdf" title="Using Right to Left Languages in XPression" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/Using%20Right%20to%20Left%20Languages%20in%20XPression%20%283500DR-546-01%29.pdf" title="Using Right to Left Languages in XPression" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Using Right to Left Languages in XPression (3500DR-546-01).pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/Using%20Right%20to%20Left%20Languages%20in%20XPression%20(3500DR-546-01).pdf)
+**External Link:** [Using Right to Left Languages in XPression (3500DR-546-01).pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/Using%20Right%20to%20Left%20Languages%20in%20XPression%20%283500DR-546-01%29.pdf)

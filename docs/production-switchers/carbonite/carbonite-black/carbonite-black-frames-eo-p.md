@@ -1,12 +1,12 @@
 ---
-title: "Carbonite Black Frames EoP"
+title: "Carbonite-Black-Frames-EoP"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Carbonite Black Frames EoP
+# Carbonite-Black-Frames-EoP
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Carbonite%20Black/Carbonite-Black-Frames-EoP.pdf" title="Carbonite Black Frames EoP" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Carbonite%20Black/Carbonite-Black-Frames-EoP.pdf" title="Carbonite-Black-Frames-EoP" />
 
 ---
 

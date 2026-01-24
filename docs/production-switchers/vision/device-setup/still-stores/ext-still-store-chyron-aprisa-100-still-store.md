@@ -1,12 +1,12 @@
 ---
-title: "Ext Still Store Chyron Aprisa 100 Still Store"
+title: "Ext-Still-Store Chyron Aprisa 100 Still Store"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Ext Still Store Chyron Aprisa 100 Still Store
+# Ext-Still-Store Chyron Aprisa 100 Still Store
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Still%20Stores/Ext-Still-Store_Chyron%20Aprisa%20100%20Still%20Store%20(4999DR-066).pdf" title="Ext Still Store Chyron Aprisa 100 Still Store" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Still%20Stores/Ext-Still-Store_Chyron%20Aprisa%20100%20Still%20Store%20%284999DR-066%29.pdf" title="Ext-Still-Store Chyron Aprisa 100 Still Store" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Ext-Still-Store_Chyron Aprisa 100 Still Store (4999DR-066).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Still%20Stores/Ext-Still-Store_Chyron%20Aprisa%20100%20Still%20Store%20(4999DR-066).pdf)
+**External Link:** [Ext-Still-Store_Chyron Aprisa 100 Still Store (4999DR-066).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Still%20Stores/Ext-Still-Store_Chyron%20Aprisa%20100%20Still%20Store%20%284999DR-066%29.pdf)

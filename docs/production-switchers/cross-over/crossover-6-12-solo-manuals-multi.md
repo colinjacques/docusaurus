@@ -1,8 +1,8 @@
 ---
-title: "crossover 6 12 solo Manuals MULTI"
+title: "crossover 6-12-solo Manuals MULTI"
 ---
 
-# crossover 6 12 solo Manuals MULTI
+# crossover 6-12-solo Manuals MULTI
 
 **Document Information:**
 - **Original filename:** `crossover_6-12-solo_Manuals_MULTI.zip`

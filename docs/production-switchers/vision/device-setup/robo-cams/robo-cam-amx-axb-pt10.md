@@ -1,12 +1,12 @@
 ---
-title: "Robo Cam AMX AXB PT10"
+title: "Robo-Cam AMX AXB-PT10"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Robo Cam AMX AXB PT10
+# Robo-Cam AMX AXB-PT10
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/RoboCams/Robo-Cam_AMX%20AXB-PT10%20(4999DR-075).pdf" title="Robo Cam AMX AXB PT10" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/RoboCams/Robo-Cam_AMX%20AXB-PT10%20%284999DR-075%29.pdf" title="Robo-Cam AMX AXB-PT10" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Robo-Cam_AMX AXB-PT10 (4999DR-075).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/RoboCams/Robo-Cam_AMX%20AXB-PT10%20(4999DR-075).pdf)
+**External Link:** [Robo-Cam_AMX AXB-PT10 (4999DR-075).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/RoboCams/Robo-Cam_AMX%20AXB-PT10%20%284999DR-075%29.pdf)

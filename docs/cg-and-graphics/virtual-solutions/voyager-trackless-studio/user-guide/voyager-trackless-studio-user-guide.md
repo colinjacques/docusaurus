@@ -6,7 +6,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 # Voyager Trackless Studio User Guide
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/Virtual%20Solutions/Voyager%20Trackless%20Studio/Voyager%20Trackless%20Studio%20User%20Guide.pdf" title="Voyager Trackless Studio User Guide" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/Virtual%20Solutions/Voyager%20Trackless%20Studio/User%20Guide/Voyager%20Trackless%20Studio%20User%20Guide.pdf" title="Voyager Trackless Studio User Guide" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Voyager Trackless Studio User Guide.pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/Virtual%20Solutions/Voyager%20Trackless%20Studio/Voyager%20Trackless%20Studio%20User%20Guide.pdf)
+**External Link:** [Voyager Trackless Studio User Guide.pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/Virtual%20Solutions/Voyager%20Trackless%20Studio/User%20Guide/Voyager%20Trackless%20Studio%20User%20Guide.pdf)

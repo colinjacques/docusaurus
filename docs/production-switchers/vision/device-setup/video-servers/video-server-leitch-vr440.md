@@ -1,12 +1,12 @@
 ---
-title: "Video Server Leitch VR440"
+title: "Video-Server Leitch VR440"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Video Server Leitch VR440
+# Video-Server Leitch VR440
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Video%20Servers/Video-Server_Leitch%20VR440%20(4999DR-012).pdf" title="Video Server Leitch VR440" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Video%20Servers/Video-Server_Leitch%20VR440%20%284999DR-012%29.pdf" title="Video-Server Leitch VR440" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Video-Server_Leitch VR440 (4999DR-012).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Video%20Servers/Video-Server_Leitch%20VR440%20(4999DR-012).pdf)
+**External Link:** [Video-Server_Leitch VR440 (4999DR-012).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Video%20Servers/Video-Server_Leitch%20VR440%20%284999DR-012%29.pdf)

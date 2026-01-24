@@ -1,12 +1,12 @@
 ---
-title: "CrossOver 6+12 User Manual"
+title: "CrossOver-6+12-User-Manual"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# CrossOver 6+12 User Manual
+# CrossOver-6+12-User-Manual
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/CrossOver/CrossOver-6+12-User-Manual(4801DR-002).pdf" title="CrossOver 6+12 User Manual" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/CrossOver/CrossOver-6%2B12-User-Manual%284801DR-002%29.pdf" title="CrossOver-6+12-User-Manual" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [CrossOver-6+12-User-Manual(4801DR-002).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/CrossOver/CrossOver-6+12-User-Manual(4801DR-002).pdf)
+**External Link:** [CrossOver-6+12-User-Manual(4801DR-002).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/CrossOver/CrossOver-6%2B12-User-Manual%284801DR-002%29.pdf)

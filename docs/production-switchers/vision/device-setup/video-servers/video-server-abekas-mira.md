@@ -1,12 +1,12 @@
 ---
-title: "Video Server Abekas Mira"
+title: "Video-Server Abekas Mira"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Video Server Abekas Mira
+# Video-Server Abekas Mira
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Video%20Servers/Video-Server_Abekas%20Mira%20(4999DR-177).pdf" title="Video Server Abekas Mira" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Video%20Servers/Video-Server_Abekas%20Mira%20%284999DR-177%29.pdf" title="Video-Server Abekas Mira" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Video-Server_Abekas Mira (4999DR-177).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Video%20Servers/Video-Server_Abekas%20Mira%20(4999DR-177).pdf)
+**External Link:** [Video-Server_Abekas Mira (4999DR-177).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Video%20Servers/Video-Server_Abekas%20Mira%20%284999DR-177%29.pdf)

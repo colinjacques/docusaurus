@@ -1,12 +1,12 @@
 ---
-title: "LiveEDL Setup"
+title: "LiveEDL-Setup"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# LiveEDL Setup
+# LiveEDL-Setup
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Carbonite%20Black/Application%20Notes/LiveEDL-Setup(4802DR-402).pdf" title="LiveEDL Setup" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Carbonite%20Black/Application%20Notes/LiveEDL-Setup%284802DR-402%29.pdf" title="LiveEDL-Setup" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [LiveEDL-Setup(4802DR-402).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Carbonite%20Black/Application%20Notes/LiveEDL-Setup(4802DR-402).pdf)
+**External Link:** [LiveEDL-Setup(4802DR-402).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Carbonite%20Black/Application%20Notes/LiveEDL-Setup%284802DR-402%29.pdf)

@@ -6,7 +6,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 # XPression User Supplied Hardware Platform Specifications
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/XPression%20User%20Supplied%20Hardware%20Platform%20Specifications%20(3509DR-506-01).pdf" title="XPression User Supplied Hardware Platform Specifications" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/XPression%20User%20Supplied%20Hardware%20Platform%20Specifications%20%283509DR-506-01%29.pdf" title="XPression User Supplied Hardware Platform Specifications" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [XPression User Supplied Hardware Platform Specifications (3509DR-506-01).pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/XPression%20User%20Supplied%20Hardware%20Platform%20Specifications%20(3509DR-506-01).pdf)
+**External Link:** [XPression User Supplied Hardware Platform Specifications (3509DR-506-01).pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/XPression%20User%20Supplied%20Hardware%20Platform%20Specifications%20%283509DR-506-01%29.pdf)

@@ -6,7 +6,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 # Ultricore QuickStart Guide
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Routers/Ultrix/Ultricore%20QuickStart%20Guide%20(2201DR-102).pdf" title="Ultricore QuickStart Guide" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Routers/Ultrix/Ultricore%20QuickStart%20Guide%20%282201DR-102%29.pdf" title="Ultricore QuickStart Guide" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Ultricore QuickStart Guide (2201DR-102).pdf](https://documentation.rossvideo.com/files/Manuals/Routers/Ultrix/Ultricore%20QuickStart%20Guide%20(2201DR-102).pdf)
+**External Link:** [Ultricore QuickStart Guide (2201DR-102).pdf](https://documentation.rossvideo.com/files/Manuals/Routers/Ultrix/Ultricore%20QuickStart%20Guide%20%282201DR-102%29.pdf)

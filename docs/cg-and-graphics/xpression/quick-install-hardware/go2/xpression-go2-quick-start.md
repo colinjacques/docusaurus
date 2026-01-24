@@ -6,7 +6,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 # XPression GO2 Quick Start
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Quick%20Install%20-%20Hardware/GO2!/XPression%20GO2%20Quick%20Start.pdf" title="XPression GO2 Quick Start" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Quick%20Install%20-%20Hardware/GO2%21/XPression%20GO2%20Quick%20Start.pdf" title="XPression GO2 Quick Start" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [XPression GO2 Quick Start.pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Quick%20Install%20-%20Hardware/GO2!/XPression%20GO2%20Quick%20Start.pdf)
+**External Link:** [XPression GO2 Quick Start.pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Quick%20Install%20-%20Hardware/GO2%21/XPression%20GO2%20Quick%20Start.pdf)

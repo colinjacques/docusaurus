@@ -1,12 +1,12 @@
 ---
-title: "Router Pro Bel Freeway"
+title: "Router Pro-Bel Freeway"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Router Pro Bel Freeway
+# Router Pro-Bel Freeway
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Routers/Router_Pro-Bel%20Freeway%20(4999DR-026).pdf" title="Router Pro Bel Freeway" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Routers/Router_Pro-Bel%20Freeway%20%284999DR-026%29.pdf" title="Router Pro-Bel Freeway" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Router_Pro-Bel Freeway (4999DR-026).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Routers/Router_Pro-Bel%20Freeway%20(4999DR-026).pdf)
+**External Link:** [Router_Pro-Bel Freeway (4999DR-026).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Routers/Router_Pro-Bel%20Freeway%20%284999DR-026%29.pdf)

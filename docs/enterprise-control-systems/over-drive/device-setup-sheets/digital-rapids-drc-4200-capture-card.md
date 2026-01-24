@@ -1,12 +1,12 @@
 ---
-title: "Digital Rapids DRC 4200 Capture Card"
+title: "Digital Rapids DRC-4200 Capture Card"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Digital Rapids DRC 4200 Capture Card
+# Digital Rapids DRC-4200 Capture Card
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Enterprise%20Control%20Systems/OverDrive/Device%20Setup%20Sheets/Digital%20Rapids%20DRC-4200%20Capture%20Card.pdf" title="Digital Rapids DRC 4200 Capture Card" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Enterprise%20Control%20Systems/OverDrive/Device%20Setup%20Sheets/Digital%20Rapids%20DRC-4200%20Capture%20Card.pdf" title="Digital Rapids DRC-4200 Capture Card" />
 
 ---
 

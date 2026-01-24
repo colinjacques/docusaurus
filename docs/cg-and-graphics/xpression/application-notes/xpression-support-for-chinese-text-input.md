@@ -6,7 +6,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 # XPression Support for Chinese Text Input
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/XPression%20Support%20for%20Chinese%20Text%20Input%20(3500DR-536-01).pdf" title="XPression Support for Chinese Text Input" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/XPression%20Support%20for%20Chinese%20Text%20Input%20%283500DR-536-01%29.pdf" title="XPression Support for Chinese Text Input" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [XPression Support for Chinese Text Input (3500DR-536-01).pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/XPression%20Support%20for%20Chinese%20Text%20Input%20(3500DR-536-01).pdf)
+**External Link:** [XPression Support for Chinese Text Input (3500DR-536-01).pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/XPression%20Support%20for%20Chinese%20Text%20Input%20%283500DR-536-01%29.pdf)

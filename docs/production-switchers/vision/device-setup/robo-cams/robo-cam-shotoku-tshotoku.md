@@ -1,12 +1,12 @@
 ---
-title: "Robo Cam Shotoku TShotoku"
+title: "Robo-Cam Shotoku TShotoku"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Robo Cam Shotoku TShotoku
+# Robo-Cam Shotoku TShotoku
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/RoboCams/Robo-Cam_Shotoku%20TShotoku%20(4999DR-175F).pdf" title="Robo Cam Shotoku TShotoku" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/RoboCams/Robo-Cam_Shotoku%20TShotoku%20%284999DR-175F%29.pdf" title="Robo-Cam Shotoku TShotoku" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Robo-Cam_Shotoku TShotoku (4999DR-175F).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/RoboCams/Robo-Cam_Shotoku%20TShotoku%20(4999DR-175F).pdf)
+**External Link:** [Robo-Cam_Shotoku TShotoku (4999DR-175F).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/RoboCams/Robo-Cam_Shotoku%20TShotoku%20%284999DR-175F%29.pdf)

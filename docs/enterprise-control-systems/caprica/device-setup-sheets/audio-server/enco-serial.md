@@ -1,12 +1,12 @@
 ---
-title: "ENCO Serial"
+title: "ENCO - Serial"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# ENCO Serial
+# ENCO - Serial
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Enterprise%20Control%20Systems/Caprica/Device%20Setup%20Sheets/Audio%20Server/ENCO%20-%20Serial.pdf" title="ENCO Serial" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Enterprise%20Control%20Systems/Caprica/Device%20Setup%20Sheets/Audio%20Server/ENCO%20-%20Serial.pdf" title="ENCO - Serial" />
 
 ---
 

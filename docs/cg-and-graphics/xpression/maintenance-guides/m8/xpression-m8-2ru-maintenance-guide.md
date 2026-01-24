@@ -6,7 +6,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 # XPression M8 2RU Maintenance Guide
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Maintenance%20Guide/M8/XPression%20M8%202RU%20Maintenance%20Guide.pdf" title="XPression M8 2RU Maintenance Guide" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Maintenance%20Guides/M8/XPression%20M8%202RU%20Maintenance%20Guide.pdf" title="XPression M8 2RU Maintenance Guide" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [XPression M8 2RU Maintenance Guide.pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Maintenance%20Guide/M8/XPression%20M8%202RU%20Maintenance%20Guide.pdf)
+**External Link:** [XPression M8 2RU Maintenance Guide.pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Maintenance%20Guides/M8/XPression%20M8%202RU%20Maintenance%20Guide.pdf)

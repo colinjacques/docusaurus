@@ -6,7 +6,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 # Mira+ User Manual
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Replay%20Systems/Mira/Mira+%20User%20Manual.pdf" title="Mira+ User Manual" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Replay%20Systems/Mira/Mira%2B%20User%20Manual.pdf" title="Mira+ User Manual" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Mira+ User Manual.pdf](https://documentation.rossvideo.com/files/Manuals/Replay%20Systems/Mira/Mira+%20User%20Manual.pdf)
+**External Link:** [Mira+ User Manual.pdf](https://documentation.rossvideo.com/files/Manuals/Replay%20Systems/Mira/Mira%2B%20User%20Manual.pdf)

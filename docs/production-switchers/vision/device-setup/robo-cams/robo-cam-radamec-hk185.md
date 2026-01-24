@@ -1,12 +1,12 @@
 ---
-title: "Robo Cam Radamec HK185"
+title: "Robo-Cam Radamec HK185"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Robo Cam Radamec HK185
+# Robo-Cam Radamec HK185
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/RoboCams/Robo-Cam_Radamec%20HK185%20(4999DR-078F).pdf" title="Robo Cam Radamec HK185" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/RoboCams/Robo-Cam_Radamec%20HK185%20%284999DR-078F%29.pdf" title="Robo-Cam Radamec HK185" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Robo-Cam_Radamec HK185 (4999DR-078F).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/RoboCams/Robo-Cam_Radamec%20HK185%20(4999DR-078F).pdf)
+**External Link:** [Robo-Cam_Radamec HK185 (4999DR-078F).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/RoboCams/Robo-Cam_Radamec%20HK185%20%284999DR-078F%29.pdf)

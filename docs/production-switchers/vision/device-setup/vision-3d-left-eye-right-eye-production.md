@@ -1,12 +1,12 @@
 ---
-title: "Vision 3D Left Eye Right Eye Production"
+title: "Vision 3D Left-Eye Right-Eye Production"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Vision 3D Left Eye Right Eye Production
+# Vision 3D Left-Eye Right-Eye Production
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Vision%203D%20Left-Eye_Right-Eye%20Production%20(4800DR-343).pdf" title="Vision 3D Left Eye Right Eye Production" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Vision%203D%20Left-Eye_Right-Eye%20Production%20%284800DR-343%29.pdf" title="Vision 3D Left-Eye Right-Eye Production" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Vision 3D Left-Eye_Right-Eye Production (4800DR-343).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Vision%203D%20Left-Eye_Right-Eye%20Production%20(4800DR-343).pdf)
+**External Link:** [Vision 3D Left-Eye_Right-Eye Production (4800DR-343).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Vision%203D%20Left-Eye_Right-Eye%20Production%20%284800DR-343%29.pdf)

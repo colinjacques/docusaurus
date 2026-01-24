@@ -1,12 +1,12 @@
 ---
-title: "Audio Mixer SSL C10HD"
+title: "Audio-Mixer SSL-C10HD"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Audio Mixer SSL C10HD
+# Audio-Mixer SSL-C10HD
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Audio%20Mixers/Audio-Mixer_SSL-C10HD(4999DR-167).pdf" title="Audio Mixer SSL C10HD" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Audio%20Mixers/Audio-Mixer_SSL-C10HD%284999DR-167%29.pdf" title="Audio-Mixer SSL-C10HD" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Audio-Mixer_SSL-C10HD(4999DR-167).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Audio%20Mixers/Audio-Mixer_SSL-C10HD(4999DR-167).pdf)
+**External Link:** [Audio-Mixer_SSL-C10HD(4999DR-167).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Audio%20Mixers/Audio-Mixer_SSL-C10HD%284999DR-167%29.pdf)

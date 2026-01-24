@@ -1,12 +1,12 @@
 ---
-title: "GVG RCL Serial"
+title: "GVG RCL - Serial"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# GVG RCL Serial
+# GVG RCL - Serial
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Enterprise%20Control%20Systems/Caprica/Device%20Setup%20Sheets/Router/GVG%20RCL%20-%20Serial.pdf" title="GVG RCL Serial" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Enterprise%20Control%20Systems/Caprica/Device%20Setup%20Sheets/Router/GVG%20RCL%20-%20Serial.pdf" title="GVG RCL - Serial" />
 
 ---
 

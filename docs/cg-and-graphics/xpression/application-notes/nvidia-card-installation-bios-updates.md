@@ -6,7 +6,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 # NVIDIA Card Installation & BIOS Updates
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/NVIDIA%20Card%20Installation%20&%20BIOS%20Updates%20(3500DR-541-01%20Rev%202).pdf" title="NVIDIA Card Installation & BIOS Updates" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/NVIDIA%20Card%20Installation%20%26%20BIOS%20Updates%20%283500DR-541-01%20Rev%202%29.pdf" title="NVIDIA Card Installation & BIOS Updates" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [NVIDIA Card Installation & BIOS Updates (3500DR-541-01 Rev 2).pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/NVIDIA%20Card%20Installation%20&%20BIOS%20Updates%20(3500DR-541-01%20Rev%202).pdf)
+**External Link:** [NVIDIA Card Installation & BIOS Updates (3500DR-541-01 Rev 2).pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/NVIDIA%20Card%20Installation%20%26%20BIOS%20Updates%20%283500DR-541-01%20Rev%202%29.pdf)

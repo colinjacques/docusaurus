@@ -1,12 +1,12 @@
 ---
-title: "RAM Replacement IG"
+title: "RAM-Replacement-IG"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# RAM Replacement IG
+# RAM-Replacement-IG
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Installation%20Guides/RAM-Replacement-IG(4802DR-301).pdf" title="RAM Replacement IG" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Installation%20Guides/RAM-Replacement-IG%284802DR-301%29.pdf" title="RAM-Replacement-IG" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [RAM-Replacement-IG(4802DR-301).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Installation%20Guides/RAM-Replacement-IG(4802DR-301).pdf)
+**External Link:** [RAM-Replacement-IG(4802DR-301).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Installation%20Guides/RAM-Replacement-IG%284802DR-301%29.pdf)

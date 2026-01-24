@@ -6,7 +6,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 # MultiViewer FAQ
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Application%20Notes/MultiViewer_FAQ(4800DR-351).pdf" title="MultiViewer FAQ" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Application%20Notes/MultiViewer_FAQ%284800DR-351%29.pdf" title="MultiViewer FAQ" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [MultiViewer_FAQ(4800DR-351).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Application%20Notes/MultiViewer_FAQ(4800DR-351).pdf)
+**External Link:** [MultiViewer_FAQ(4800DR-351).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Application%20Notes/MultiViewer_FAQ%284800DR-351%29.pdf)

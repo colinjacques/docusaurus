@@ -6,7 +6,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 # Trackless Install & Virtual Set Settings
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Trackless%20Studio/Trackless%20Install%20&%20Virtual%20Set%20Settings.pdf" title="Trackless Install & Virtual Set Settings" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Trackless%20Studio/Trackless%20Install%20%26%20Virtual%20Set%20Settings.pdf" title="Trackless Install & Virtual Set Settings" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Trackless Install & Virtual Set Settings.pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Trackless%20Studio/Trackless%20Install%20&%20Virtual%20Set%20Settings.pdf)
+**External Link:** [Trackless Install & Virtual Set Settings.pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Trackless%20Studio/Trackless%20Install%20%26%20Virtual%20Set%20Settings.pdf)

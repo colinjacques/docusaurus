@@ -1,12 +1,12 @@
 ---
-title: "Carbonite Ultra 60 Hardware QS"
+title: "Carbonite-Ultra-60-Hardware-QS"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Carbonite Ultra 60 Hardware QS
+# Carbonite-Ultra-60-Hardware-QS
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Carbonite%20Ultra%2060/Carbonite-Ultra-60-Hardware-QS.pdf" title="Carbonite Ultra 60 Hardware QS" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Carbonite%20Ultra%2060/Carbonite-Ultra-60-Hardware-QS.pdf" title="Carbonite-Ultra-60-Hardware-QS" />
 
 ---
 

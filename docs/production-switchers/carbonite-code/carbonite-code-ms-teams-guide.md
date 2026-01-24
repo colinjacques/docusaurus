@@ -1,12 +1,12 @@
 ---
-title: "Carbonite Code MS Teams Guide"
+title: "Carbonite Code - MS Teams Guide"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Carbonite Code MS Teams Guide
+# Carbonite Code - MS Teams Guide
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite%20Code/Carbonite%20Code%20-%20MS%20Teams%20Guide.pdf" title="Carbonite Code MS Teams Guide" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite%20Code/Carbonite%20Code%20-%20MS%20Teams%20Guide.pdf" title="Carbonite Code - MS Teams Guide" />
 
 ---
 

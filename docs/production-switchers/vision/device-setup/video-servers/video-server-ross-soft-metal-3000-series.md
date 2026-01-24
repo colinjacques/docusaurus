@@ -1,12 +1,12 @@
 ---
-title: "Video Server Ross SoftMetal 3000 Series"
+title: "Video-Server Ross SoftMetal 3000 Series"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Video Server Ross SoftMetal 3000 Series
+# Video-Server Ross SoftMetal 3000 Series
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Video%20Servers/Video-Server_Ross%20SoftMetal%203000%20Series%20(ethernet)(4999DR-127).pdf" title="Video Server Ross SoftMetal 3000 Series" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Video%20Servers/Video-Server_Ross%20SoftMetal%203000%20Series%20%28ethernet%29%284999DR-127%29.pdf" title="Video-Server Ross SoftMetal 3000 Series" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Video-Server_Ross SoftMetal 3000 Series (ethernet)(4999DR-127).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Video%20Servers/Video-Server_Ross%20SoftMetal%203000%20Series%20(ethernet)(4999DR-127).pdf)
+**External Link:** [Video-Server_Ross SoftMetal 3000 Series (ethernet)(4999DR-127).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Video%20Servers/Video-Server_Ross%20SoftMetal%203000%20Series%20%28ethernet%29%284999DR-127%29.pdf)

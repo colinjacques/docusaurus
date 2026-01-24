@@ -1,12 +1,12 @@
 ---
-title: "Carbonite HyperMax FR12 Frame"
+title: "Carbonite-HyperMax-FR12-Frame"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Carbonite HyperMax FR12 Frame
+# Carbonite-HyperMax-FR12-Frame
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/HyperMax/Carbonite-HyperMax-FR12-Frame(4849DR-201).pdf" title="Carbonite HyperMax FR12 Frame" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/HyperMax/Carbonite-HyperMax-FR12-Frame%284849DR-201%29.pdf" title="Carbonite-HyperMax-FR12-Frame" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Carbonite-HyperMax-FR12-Frame(4849DR-201).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/HyperMax/Carbonite-HyperMax-FR12-Frame(4849DR-201).pdf)
+**External Link:** [Carbonite-HyperMax-FR12-Frame(4849DR-201).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/HyperMax/Carbonite-HyperMax-FR12-Frame%284849DR-201%29.pdf)

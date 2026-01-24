@@ -6,7 +6,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 # XPression Gateway Installation
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/XPression%20Gateway%20Installation%20(3500DR-509-03).pdf" title="XPression Gateway Installation" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/XPression%20Gateway%20Installation%20%283500DR-509-03%29.pdf" title="XPression Gateway Installation" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [XPression Gateway Installation (3500DR-509-03).pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/XPression%20Gateway%20Installation%20(3500DR-509-03).pdf)
+**External Link:** [XPression Gateway Installation (3500DR-509-03).pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/XPression%20Gateway%20Installation%20%283500DR-509-03%29.pdf)

@@ -1,12 +1,12 @@
 ---
-title: "Carbonite Black Panel QS"
+title: "Carbonite-Black-Panel-QS"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Carbonite Black Panel QS
+# Carbonite-Black-Panel-QS
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Carbonite%20Black/Carbonite-Black-Panel-QS(4804DR-201).pdf" title="Carbonite Black Panel QS" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Carbonite%20Black/Carbonite-Black-Panel-QS%284804DR-201%29.pdf" title="Carbonite-Black-Panel-QS" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Carbonite-Black-Panel-QS(4804DR-201).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Carbonite%20Black/Carbonite-Black-Panel-QS(4804DR-201).pdf)
+**External Link:** [Carbonite-Black-Panel-QS(4804DR-201).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Carbonite%20Black/Carbonite-Black-Panel-QS%284804DR-201%29.pdf)

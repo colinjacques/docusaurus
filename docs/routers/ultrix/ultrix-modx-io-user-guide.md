@@ -1,12 +1,12 @@
 ---
-title: "ULTRIX MODX IO User Guide"
+title: "ULTRIX-MODX-IO User Guide"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# ULTRIX MODX IO User Guide
+# ULTRIX-MODX-IO User Guide
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Routers/Ultrix/ULTRIX-MODX-IO%20User%20Guide.pdf" title="ULTRIX MODX IO User Guide" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Routers/Ultrix/ULTRIX-MODX-IO%20User%20Guide.pdf" title="ULTRIX-MODX-IO User Guide" />
 
 ---
 

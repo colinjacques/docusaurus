@@ -1,12 +1,12 @@
 ---
-title: "Audio Mixer Studer Vista"
+title: "Audio-Mixer Studer Vista"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Audio Mixer Studer Vista
+# Audio-Mixer Studer Vista
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Audio%20Mixers/Audio-Mixer_Studer%20Vista(4999DR-173-01).pdf" title="Audio Mixer Studer Vista" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Audio%20Mixers/Audio-Mixer_Studer%20Vista%284999DR-173-01%29.pdf" title="Audio-Mixer Studer Vista" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Audio-Mixer_Studer Vista(4999DR-173-01).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Audio%20Mixers/Audio-Mixer_Studer%20Vista(4999DR-173-01).pdf)
+**External Link:** [Audio-Mixer_Studer Vista(4999DR-173-01).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Audio%20Mixers/Audio-Mixer_Studer%20Vista%284999DR-173-01%29.pdf)

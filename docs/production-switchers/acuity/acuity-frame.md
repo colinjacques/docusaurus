@@ -1,12 +1,12 @@
 ---
-title: "Acuity Frame"
+title: "Acuity-Frame"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Acuity Frame
+# Acuity-Frame
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Acuity/Acuity-Frame(4820DR-200).pdf" title="Acuity Frame" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Acuity/Acuity-Frame%284820DR-200%29.pdf" title="Acuity-Frame" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Acuity-Frame(4820DR-200).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Acuity/Acuity-Frame(4820DR-200).pdf)
+**External Link:** [Acuity-Frame(4820DR-200).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Acuity/Acuity-Frame%284820DR-200%29.pdf)

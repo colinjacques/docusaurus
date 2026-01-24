@@ -1,12 +1,12 @@
 ---
-title: "Panel Row Add Installation Guide"
+title: "Panel-Row-Add-Installation-Guide"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Panel Row Add Installation Guide
+# Panel-Row-Add-Installation-Guide
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Installation%20Guides/Panel-Row-Add-Installation-Guide(4800DR-325).pdf" title="Panel Row Add Installation Guide" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Installation%20Guides/Panel-Row-Add-Installation-Guide%284800DR-325%29.pdf" title="Panel-Row-Add-Installation-Guide" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Panel-Row-Add-Installation-Guide(4800DR-325).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Installation%20Guides/Panel-Row-Add-Installation-Guide(4800DR-325).pdf)
+**External Link:** [Panel-Row-Add-Installation-Guide(4800DR-325).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Installation%20Guides/Panel-Row-Add-Installation-Guide%284800DR-325%29.pdf)

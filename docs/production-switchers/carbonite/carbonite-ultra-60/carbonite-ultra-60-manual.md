@@ -1,12 +1,12 @@
 ---
-title: "Carbonite Ultra 60 Manual"
+title: "Carbonite-Ultra-60-Manual"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Carbonite Ultra 60 Manual
+# Carbonite-Ultra-60-Manual
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Carbonite%20Ultra%2060/Carbonite-Ultra-60-Manual.pdf" title="Carbonite Ultra 60 Manual" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Carbonite%20Ultra%2060/Carbonite-Ultra-60-Manual.pdf" title="Carbonite-Ultra-60-Manual" />
 
 ---
 

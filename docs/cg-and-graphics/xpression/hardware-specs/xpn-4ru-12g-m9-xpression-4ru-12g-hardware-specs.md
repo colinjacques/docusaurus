@@ -1,12 +1,12 @@
 ---
-title: "XPN 4RU 12G M9 XPression 4RU 12G Hardware Specs"
+title: "XPN-4RU-12G-M9 XPression 4RU 12G Hardware Specs"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# XPN 4RU 12G M9 XPression 4RU 12G Hardware Specs
+# XPN-4RU-12G-M9 XPression 4RU 12G Hardware Specs
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals%2FCG%20and%20Graphics%2FXPression%2FHardware%20Specs%2FXPN-4RU-12G-M9%20XPression%204RU%2012G%20Hardware%20Specs%20%283509DR-568-01%20Rev%202%29.pdf" title="XPN 4RU 12G M9 XPression 4RU 12G Hardware Specs" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Hardware%20Specs/XPN-4RU-12G-M9%20XPression%204RU%2012G%20Hardware%20Specs%20%283509DR-568-01%20Rev%202%29.pdf" title="XPN-4RU-12G-M9 XPression 4RU 12G Hardware Specs" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [XPN-4RU-12G-M9 XPression 4RU 12G Hardware Specs (3509DR-568-01 Rev 2).pdf](https://documentation.rossvideo.com/files/Manuals%2FCG%20and%20Graphics%2FXPression%2FHardware%20Specs%2FXPN-4RU-12G-M9%20XPression%204RU%2012G%20Hardware%20Specs%20%283509DR-568-01%20Rev%202%29.pdf)
+**External Link:** [XPN-4RU-12G-M9 XPression 4RU 12G Hardware Specs (3509DR-568-01 Rev 2).pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Hardware%20Specs/XPN-4RU-12G-M9%20XPression%204RU%2012G%20Hardware%20Specs%20%283509DR-568-01%20Rev%202%29.pdf)

@@ -1,12 +1,12 @@
 ---
-title: "Miranda HMP 1801"
+title: "Miranda HMP-1801"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Miranda HMP 1801
+# Miranda HMP-1801
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Enterprise%20Control%20Systems/Caprica/Device%20Setup%20Sheets/Server%20VTR/Miranda%20HMP-1801.pdf" title="Miranda HMP 1801" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Enterprise%20Control%20Systems/Caprica/Device%20Setup%20Sheets/Server%20VTR/Miranda%20HMP-1801.pdf" title="Miranda HMP-1801" />
 
 ---
 

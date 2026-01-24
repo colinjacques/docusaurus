@@ -6,7 +6,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 # CG Vizrt VizITrio
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/CGs/CG_Vizrt%20VizITrio%20(4999DR-058).pdf" title="CG Vizrt VizITrio" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/CGs/CG_Vizrt%20VizITrio%20%284999DR-058%29.pdf" title="CG Vizrt VizITrio" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [CG_Vizrt VizITrio (4999DR-058).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/CGs/CG_Vizrt%20VizITrio%20(4999DR-058).pdf)
+**External Link:** [CG_Vizrt VizITrio (4999DR-058).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/CGs/CG_Vizrt%20VizITrio%20%284999DR-058%29.pdf)

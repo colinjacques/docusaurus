@@ -1,12 +1,12 @@
 ---
-title: "Ultrix Carbonite Tally Mode Setup App Note"
+title: "Ultrix-Carbonite Tally Mode Setup App Note"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Ultrix Carbonite Tally Mode Setup App Note
+# Ultrix-Carbonite Tally Mode Setup App Note
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Routers/Ultrix/Ultrix-Carbonite%20Tally%20Mode%20Setup%20App%20Note.pdf" title="Ultrix Carbonite Tally Mode Setup App Note" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Routers/Ultrix/Ultrix-Carbonite%20Tally%20Mode%20Setup%20App%20Note.pdf" title="Ultrix-Carbonite Tally Mode Setup App Note" />
 
 ---
 

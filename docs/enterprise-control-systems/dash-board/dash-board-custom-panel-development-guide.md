@@ -6,7 +6,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 # DashBoard CustomPanel Development Guide
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals%2FEnterprise%20Control%20Systems%2FDashBoard%2FDashBoard_CustomPanel_Development_Guide.pdf" title="DashBoard CustomPanel Development Guide" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Enterprise%20Control%20Systems/DashBoard/DashBoard_CustomPanel_Development_Guide.pdf" title="DashBoard CustomPanel Development Guide" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [DashBoard_CustomPanel_Development_Guide.pdf](https://documentation.rossvideo.com/files/Manuals%2FEnterprise%20Control%20Systems%2FDashBoard%2FDashBoard_CustomPanel_Development_Guide.pdf)
+**External Link:** [DashBoard_CustomPanel_Development_Guide.pdf](https://documentation.rossvideo.com/files/Manuals/Enterprise%20Control%20Systems/DashBoard/DashBoard_CustomPanel_Development_Guide.pdf)

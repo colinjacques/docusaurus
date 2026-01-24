@@ -6,7 +6,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 # VOYAGER TRACKLESS STUDIO RELEASE NOTES
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/Virtual%20Solutions/Voyager%20Trackless%20Studio/VOYAGER%20TRACKLESS%20STUDIO%20RELEASE%20NOTES.pdf" title="VOYAGER TRACKLESS STUDIO RELEASE NOTES" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/Virtual%20Solutions/Voyager%20Trackless%20Studio/Release%20Notes/VOYAGER%20TRACKLESS%20STUDIO%20RELEASE%20NOTES.pdf" title="VOYAGER TRACKLESS STUDIO RELEASE NOTES" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [VOYAGER TRACKLESS STUDIO RELEASE NOTES.pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/Virtual%20Solutions/Voyager%20Trackless%20Studio/VOYAGER%20TRACKLESS%20STUDIO%20RELEASE%20NOTES.pdf)
+**External Link:** [VOYAGER TRACKLESS STUDIO RELEASE NOTES.pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/Virtual%20Solutions/Voyager%20Trackless%20Studio/Release%20Notes/VOYAGER%20TRACKLESS%20STUDIO%20RELEASE%20NOTES.pdf)

@@ -1,12 +1,12 @@
 ---
-title: "Robo Cam Sony EVIHD1"
+title: "Robo-Cam Sony EVIHD1"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Robo Cam Sony EVIHD1
+# Robo-Cam Sony EVIHD1
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/RoboCams/Robo-Cam_Sony%20EVIHD1%20(4999DR-126F).pdf" title="Robo Cam Sony EVIHD1" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/RoboCams/Robo-Cam_Sony%20EVIHD1%20%284999DR-126F%29.pdf" title="Robo-Cam Sony EVIHD1" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Robo-Cam_Sony EVIHD1 (4999DR-126F).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/RoboCams/Robo-Cam_Sony%20EVIHD1%20(4999DR-126F).pdf)
+**External Link:** [Robo-Cam_Sony EVIHD1 (4999DR-126F).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/RoboCams/Robo-Cam_Sony%20EVIHD1%20%284999DR-126F%29.pdf)

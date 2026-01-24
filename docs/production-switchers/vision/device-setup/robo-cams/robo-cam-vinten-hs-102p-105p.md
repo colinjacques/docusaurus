@@ -1,12 +1,12 @@
 ---
-title: "Robo Cam Vinten HS 102P 105P"
+title: "Robo-Cam Vinten HS-102P-105P"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Robo Cam Vinten HS 102P 105P
+# Robo-Cam Vinten HS-102P-105P
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/RoboCams/Robo-Cam_Vinten%20HS-102P-105P%20(4999DR-095).pdf" title="Robo Cam Vinten HS 102P 105P" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/RoboCams/Robo-Cam_Vinten%20HS-102P-105P%20%284999DR-095%29.pdf" title="Robo-Cam Vinten HS-102P-105P" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Robo-Cam_Vinten HS-102P-105P (4999DR-095).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/RoboCams/Robo-Cam_Vinten%20HS-102P-105P%20(4999DR-095).pdf)
+**External Link:** [Robo-Cam_Vinten HS-102P-105P (4999DR-095).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/RoboCams/Robo-Cam_Vinten%20HS-102P-105P%20%284999DR-095%29.pdf)

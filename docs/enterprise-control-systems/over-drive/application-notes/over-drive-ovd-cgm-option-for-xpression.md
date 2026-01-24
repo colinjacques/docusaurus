@@ -1,12 +1,12 @@
 ---
-title: "OverDrive OVD CGM Option for XPression"
+title: "OverDrive OVD-CGM Option for XPression"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# OverDrive OVD CGM Option for XPression
+# OverDrive OVD-CGM Option for XPression
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Enterprise%20Control%20Systems/OverDrive/Application%20Notes/OverDrive%20OVD-CGM%20Option%20for%20XPression.pdf" title="OverDrive OVD CGM Option for XPression" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Enterprise%20Control%20Systems/OverDrive/Application%20Notes/OverDrive%20OVD-CGM%20Option%20for%20XPression.pdf" title="OverDrive OVD-CGM Option for XPression" />
 
 ---
 

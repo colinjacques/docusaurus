@@ -6,7 +6,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 # Carbonite CF Series End Of Production Notice 1
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Carbonite/Carbonite%20CF%20Series%20End%20Of%20Production%20Notice%201.pdf" title="Carbonite CF Series End Of Production Notice 1" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Carbonite/Carbonite%20CF%20Series%20End%20Of%20Production%20Notice.pdf" title="Carbonite CF Series End Of Production Notice 1" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Carbonite CF Series End Of Production Notice.pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Carbonite/Carbonite%20CF%20Series%20End%20Of%20Production%20Notice%201.pdf)
+**External Link:** [Carbonite CF Series End Of Production Notice.pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Carbonite/Carbonite%20CF%20Series%20End%20Of%20Production%20Notice.pdf)

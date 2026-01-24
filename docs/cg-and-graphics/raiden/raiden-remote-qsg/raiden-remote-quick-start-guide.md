@@ -6,7 +6,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 # Raiden Remote Quick Start Guide
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/Raiden/Hardware%20Specs/Raiden_Remote_Quick_Start_Guide.pdf" title="Raiden Remote Quick Start Guide" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/Raiden/Raiden%20Remote%20QSG/Raiden_Remote_Quick_Start_Guide.pdf" title="Raiden Remote Quick Start Guide" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Raiden_Remote_Quick_Start_Guide.pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/Raiden/Hardware%20Specs/Raiden_Remote_Quick_Start_Guide.pdf)
+**External Link:** [Raiden_Remote_Quick_Start_Guide.pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/Raiden/Raiden%20Remote%20QSG/Raiden_Remote_Quick_Start_Guide.pdf)

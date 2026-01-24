@@ -6,7 +6,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 # Vision Router Mnemonic Names
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Application%20Notes/Vision%20Router%20Mnemonic%20Names(4800DR-348).pdf" title="Vision Router Mnemonic Names" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Application%20Notes/Vision%20Router%20Mnemonic%20Names%284800DR-348%29.pdf" title="Vision Router Mnemonic Names" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Vision Router Mnemonic Names(4800DR-348).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Application%20Notes/Vision%20Router%20Mnemonic%20Names(4800DR-348).pdf)
+**External Link:** [Vision Router Mnemonic Names(4800DR-348).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Application%20Notes/Vision%20Router%20Mnemonic%20Names%284800DR-348%29.pdf)

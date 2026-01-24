@@ -1,12 +1,12 @@
 ---
-title: "Robo Cam Sony BRC H700"
+title: "Robo-Cam Sony BRC-H700"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Robo Cam Sony BRC H700
+# Robo-Cam Sony BRC-H700
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/RoboCams/Robo-Cam_Sony%20BRC-H700%20(4999DR-162F).pdf" title="Robo Cam Sony BRC H700" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/RoboCams/Robo-Cam_Sony%20BRC-H700%20%284999DR-162F%29.pdf" title="Robo-Cam Sony BRC-H700" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Robo-Cam_Sony BRC-H700 (4999DR-162F).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/RoboCams/Robo-Cam_Sony%20BRC-H700%20(4999DR-162F).pdf)
+**External Link:** [Robo-Cam_Sony BRC-H700 (4999DR-162F).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/RoboCams/Robo-Cam_Sony%20BRC-H700%20%284999DR-162F%29.pdf)

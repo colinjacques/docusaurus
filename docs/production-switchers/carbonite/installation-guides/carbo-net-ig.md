@@ -1,12 +1,12 @@
 ---
-title: "CarboNET IG"
+title: "CarboNET-IG"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# CarboNET IG
+# CarboNET-IG
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Installation%20Guides/CarboNET-IG(4805DR-100).pdf" title="CarboNET IG" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Installation%20Guides/CarboNET-IG%284805DR-100%29.pdf" title="CarboNET-IG" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [CarboNET-IG(4805DR-100).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Installation%20Guides/CarboNET-IG(4805DR-100).pdf)
+**External Link:** [CarboNET-IG(4805DR-100).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Installation%20Guides/CarboNET-IG%284805DR-100%29.pdf)

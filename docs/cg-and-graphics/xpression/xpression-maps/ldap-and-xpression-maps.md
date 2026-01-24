@@ -6,7 +6,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 # LDAP and XPression Maps
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/XPression%20Maps/LDAP%20and%20XPression%20Maps%20(3500DR-025-01%20Rev%202).pdf" title="LDAP and XPression Maps" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/XPression%20Maps/LDAP%20and%20XPression%20Maps%20%283500DR-025-01%20Rev%202%29.pdf" title="LDAP and XPression Maps" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [LDAP and XPression Maps (3500DR-025-01 Rev 2).pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/XPression%20Maps/LDAP%20and%20XPression%20Maps%20(3500DR-025-01%20Rev%202).pdf)
+**External Link:** [LDAP and XPression Maps (3500DR-025-01 Rev 2).pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/XPression%20Maps/LDAP%20and%20XPression%20Maps%20%283500DR-025-01%20Rev%202%29.pdf)

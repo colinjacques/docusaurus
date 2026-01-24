@@ -6,7 +6,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 # EmbeddedTriggers
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Application%20Notes/EmbeddedTriggers(4802DR-406).pdf" title="EmbeddedTriggers" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Application%20Notes/EmbeddedTriggers%284802DR-406%29.pdf" title="EmbeddedTriggers" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [EmbeddedTriggers(4802DR-406).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Application%20Notes/EmbeddedTriggers(4802DR-406).pdf)
+**External Link:** [EmbeddedTriggers(4802DR-406).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Application%20Notes/EmbeddedTriggers%284802DR-406%29.pdf)

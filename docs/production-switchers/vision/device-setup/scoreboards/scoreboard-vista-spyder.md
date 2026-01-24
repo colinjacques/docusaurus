@@ -6,7 +6,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 # Scoreboard Vista Spyder
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Scoreboards/Scoreboard_Vista%20Spyder%20(Frame)%20(4999DR-176).pdf" title="Scoreboard Vista Spyder" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Scoreboards/Scoreboard_Vista%20Spyder%20%28Frame%29%20%284999DR-176%29.pdf" title="Scoreboard Vista Spyder" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Scoreboard_Vista Spyder (Frame) (4999DR-176).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Scoreboards/Scoreboard_Vista%20Spyder%20(Frame)%20(4999DR-176).pdf)
+**External Link:** [Scoreboard_Vista Spyder (Frame) (4999DR-176).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Scoreboards/Scoreboard_Vista%20Spyder%20%28Frame%29%20%284999DR-176%29.pdf)

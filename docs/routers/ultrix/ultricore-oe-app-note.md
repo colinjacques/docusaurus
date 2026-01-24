@@ -1,12 +1,12 @@
 ---
-title: "Ultricore OE App Note"
+title: "Ultricore-OE App Note"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Ultricore OE App Note
+# Ultricore-OE App Note
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Routers/Ultrix/Ultricore-OE%20App%20Note%20(2101DR-110).pdf" title="Ultricore OE App Note" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Routers/Ultrix/Ultricore-OE%20App%20Note%20%282101DR-110%29.pdf" title="Ultricore-OE App Note" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Ultricore-OE App Note (2101DR-110).pdf](https://documentation.rossvideo.com/files/Manuals/Routers/Ultrix/Ultricore-OE%20App%20Note%20(2101DR-110).pdf)
+**External Link:** [Ultricore-OE App Note (2101DR-110).pdf](https://documentation.rossvideo.com/files/Manuals/Routers/Ultrix/Ultricore-OE%20App%20Note%20%282101DR-110%29.pdf)

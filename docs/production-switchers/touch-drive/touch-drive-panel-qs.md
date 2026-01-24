@@ -1,12 +1,12 @@
 ---
-title: "TouchDrive Panel QS"
+title: "TouchDrive-Panel-QS"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# TouchDrive Panel QS
+# TouchDrive-Panel-QS
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/TouchDrive/TouchDrive-Panel-QS(4880DR-200).pdf" title="TouchDrive Panel QS" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/TouchDrive/TouchDrive-Panel-QS%284880DR-200%29.pdf" title="TouchDrive-Panel-QS" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [TouchDrive-Panel-QS(4880DR-200).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/TouchDrive/TouchDrive-Panel-QS(4880DR-200).pdf)
+**External Link:** [TouchDrive-Panel-QS(4880DR-200).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/TouchDrive/TouchDrive-Panel-QS%284880DR-200%29.pdf)

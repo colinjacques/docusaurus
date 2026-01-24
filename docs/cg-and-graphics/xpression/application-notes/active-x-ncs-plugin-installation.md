@@ -6,7 +6,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 # ActiveX NCS Plugin Installation
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/ActiveX%20NCS%20Plugin%20Installation%20(3500DR-013-02).pdf" title="ActiveX NCS Plugin Installation" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/ActiveX%20NCS%20Plugin%20Installation%20%283500DR-013-02%29.pdf" title="ActiveX NCS Plugin Installation" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [ActiveX NCS Plugin Installation (3500DR-013-02).pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/ActiveX%20NCS%20Plugin%20Installation%20(3500DR-013-02).pdf)
+**External Link:** [ActiveX NCS Plugin Installation (3500DR-013-02).pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/ActiveX%20NCS%20Plugin%20Installation%20%283500DR-013-02%29.pdf)

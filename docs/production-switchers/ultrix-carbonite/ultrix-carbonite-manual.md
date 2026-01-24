@@ -1,12 +1,12 @@
 ---
-title: "Ultrix Carbonite Manual"
+title: "Ultrix-Carbonite-Manual"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Ultrix Carbonite Manual
+# Ultrix-Carbonite-Manual
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Ultrix%20Carbonite/Ultrix-Carbonite-Manual(4843DR-110).pdf" title="Ultrix Carbonite Manual" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Ultrix%20Carbonite/Ultrix-Carbonite-Manual%284843DR-110%29.pdf" title="Ultrix-Carbonite-Manual" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Ultrix-Carbonite-Manual(4843DR-110).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Ultrix%20Carbonite/Ultrix-Carbonite-Manual(4843DR-110).pdf)
+**External Link:** [Ultrix-Carbonite-Manual(4843DR-110).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Ultrix%20Carbonite/Ultrix-Carbonite-Manual%284843DR-110%29.pdf)

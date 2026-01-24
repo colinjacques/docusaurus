@@ -6,7 +6,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 # MultiPanel FAQ
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Application%20Notes/MultiPanel_FAQ(4800DR-336).pdf" title="MultiPanel FAQ" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Application%20Notes/MultiPanel_FAQ%284800DR-336%29.pdf" title="MultiPanel FAQ" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [MultiPanel_FAQ(4800DR-336).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Application%20Notes/MultiPanel_FAQ(4800DR-336).pdf)
+**External Link:** [MultiPanel_FAQ(4800DR-336).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Application%20Notes/MultiPanel_FAQ%284800DR-336%29.pdf)

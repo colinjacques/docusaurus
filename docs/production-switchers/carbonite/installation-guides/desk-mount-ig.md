@@ -1,12 +1,12 @@
 ---
-title: "Desk Mount IG"
+title: "Desk-Mount-IG"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Desk Mount IG
+# Desk-Mount-IG
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Installation%20Guides/Desk-Mount-IG(4802DR-302).pdf" title="Desk Mount IG" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Installation%20Guides/Desk-Mount-IG%284802DR-302%29.pdf" title="Desk-Mount-IG" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Desk-Mount-IG(4802DR-302).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Installation%20Guides/Desk-Mount-IG(4802DR-302).pdf)
+**External Link:** [Desk-Mount-IG(4802DR-302).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Installation%20Guides/Desk-Mount-IG%284802DR-302%29.pdf)

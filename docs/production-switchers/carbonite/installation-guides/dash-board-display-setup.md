@@ -1,12 +1,12 @@
 ---
-title: "DashBoard Display Setup"
+title: "DashBoard-Display-Setup"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# DashBoard Display Setup
+# DashBoard-Display-Setup
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Installation%20Guides/DashBoard-Display-Setup(4802DR-307).pdf" title="DashBoard Display Setup" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Installation%20Guides/DashBoard-Display-Setup%284802DR-307%29.pdf" title="DashBoard-Display-Setup" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [DashBoard-Display-Setup(4802DR-307).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Installation%20Guides/DashBoard-Display-Setup(4802DR-307).pdf)
+**External Link:** [DashBoard-Display-Setup(4802DR-307).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Installation%20Guides/DashBoard-Display-Setup%284802DR-307%29.pdf)

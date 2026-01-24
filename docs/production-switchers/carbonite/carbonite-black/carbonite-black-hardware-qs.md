@@ -1,8 +1,8 @@
 ---
-title: "Carbonite Black Hardware QS"
+title: "Carbonite-Black-Hardware-QS"
 ---
 
-# Carbonite Black Hardware QS
+# Carbonite-Black-Hardware-QS
 
 **Document Information:**
 - **Original filename:** `Carbonite-Black-Hardware-QS(4804DR-200).zip`
@@ -13,4 +13,4 @@ title: "Carbonite Black Hardware QS"
 
 ---
 
-**External Link:** [Carbonite-Black-Hardware-QS(4804DR-200).zip](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Carbonite%20Black/Carbonite-Black-Hardware-QS(4804DR-200).zip)
+**External Link:** [Carbonite-Black-Hardware-QS(4804DR-200).zip](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Carbonite%20Black/Carbonite-Black-Hardware-QS%284804DR-200%29.zip)

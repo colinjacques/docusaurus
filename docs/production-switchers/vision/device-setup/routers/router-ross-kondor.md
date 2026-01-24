@@ -6,7 +6,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 # Router Ross Kondor
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Routers/Router_Ross%20Kondor%20(EOS)%20(4999DR-028).pdf" title="Router Ross Kondor" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Routers/Router_Ross%20Kondor%20%28EOS%29%20%284999DR-028%29.pdf" title="Router Ross Kondor" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Router_Ross Kondor (EOS) (4999DR-028).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Routers/Router_Ross%20Kondor%20(EOS)%20(4999DR-028).pdf)
+**External Link:** [Router_Ross Kondor (EOS) (4999DR-028).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Routers/Router_Ross%20Kondor%20%28EOS%29%20%284999DR-028%29.pdf)

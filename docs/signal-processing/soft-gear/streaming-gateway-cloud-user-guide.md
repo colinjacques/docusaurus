@@ -6,7 +6,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 # Streaming Gateway Cloud User Guide
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Signal%20Processing/softGear/Streaming%20Gateway%20Cloud%20User%20Guide%20(3900DR-514).pdf" title="Streaming Gateway Cloud User Guide" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Signal%20Processing/softGear/Streaming%20Gateway%20Cloud%20User%20Guide%20%283900DR-514%29.pdf" title="Streaming Gateway Cloud User Guide" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Streaming Gateway Cloud User Guide (3900DR-514).pdf](https://documentation.rossvideo.com/files/Manuals/Signal%20Processing/softGear/Streaming%20Gateway%20Cloud%20User%20Guide%20(3900DR-514).pdf)
+**External Link:** [Streaming Gateway Cloud User Guide (3900DR-514).pdf](https://documentation.rossvideo.com/files/Manuals/Signal%20Processing/softGear/Streaming%20Gateway%20Cloud%20User%20Guide%20%283900DR-514%29.pdf)

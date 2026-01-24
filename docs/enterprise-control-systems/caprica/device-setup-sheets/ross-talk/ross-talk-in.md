@@ -1,12 +1,12 @@
 ---
-title: "RossTalk IN"
+title: "RossTalk-IN"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# RossTalk IN
+# RossTalk-IN
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Enterprise%20Control%20Systems/Caprica/Device%20Setup%20Sheets/RossTalk/RossTalk-IN.pdf" title="RossTalk IN" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Enterprise%20Control%20Systems/Caprica/Device%20Setup%20Sheets/RossTalk/RossTalk-IN.pdf" title="RossTalk-IN" />
 
 ---
 

@@ -6,7 +6,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 # Avid Command App Note
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/Avid%20Command%20App%20Note%20(3500DR-514-03%20Rev%202).pdf" title="Avid Command App Note" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/Avid%20Command%20App%20Note%20%283500DR-514-03%20Rev%202%29.pdf" title="Avid Command App Note" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Avid Command App Note (3500DR-514-03 Rev 2).pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/Avid%20Command%20App%20Note%20(3500DR-514-03%20Rev%202).pdf)
+**External Link:** [Avid Command App Note (3500DR-514-03 Rev 2).pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/Avid%20Command%20App%20Note%20%283500DR-514-03%20Rev%202%29.pdf)

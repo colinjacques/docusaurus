@@ -1,12 +1,12 @@
 ---
-title: "Video Server Spencer Technologies"
+title: "Video-Server Spencer Technologies"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Video Server Spencer Technologies
+# Video-Server Spencer Technologies
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Video%20Servers/Video-Server_Spencer%20Technologies%20(4999DR-018).pdf" title="Video Server Spencer Technologies" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Video%20Servers/Video-Server_Spencer%20Technologies%20%284999DR-018%29.pdf" title="Video-Server Spencer Technologies" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Video-Server_Spencer Technologies (4999DR-018).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Video%20Servers/Video-Server_Spencer%20Technologies%20(4999DR-018).pdf)
+**External Link:** [Video-Server_Spencer Technologies (4999DR-018).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Video%20Servers/Video-Server_Spencer%20Technologies%20%284999DR-018%29.pdf)

@@ -6,7 +6,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 # XPression Go! Mini Black Magic Ultra Studio HD Mini Driver Install
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/XPression%20Go!%20Mini%20Black%20Magic%20Ultra%20Studio%20HD%20Mini%20Driver%20Install%20(3701DR-003-01%20Rev%202).pdf" title="XPression Go! Mini Black Magic Ultra Studio HD Mini Driver Install" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/XPression%20Go%21%20Mini%20Black%20Magic%20Ultra%20Studio%20HD%20Mini%20Driver%20Install%20%283701DR-003-01%20Rev%202%29.pdf" title="XPression Go! Mini Black Magic Ultra Studio HD Mini Driver Install" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [XPression Go! Mini Black Magic Ultra Studio HD Mini Driver Install (3701DR-003-01 Rev 2).pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/XPression%20Go!%20Mini%20Black%20Magic%20Ultra%20Studio%20HD%20Mini%20Driver%20Install%20(3701DR-003-01%20Rev%202).pdf)
+**External Link:** [XPression Go! Mini Black Magic Ultra Studio HD Mini Driver Install (3701DR-003-01 Rev 2).pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Application%20Notes/XPression%20Go%21%20Mini%20Black%20Magic%20Ultra%20Studio%20HD%20Mini%20Driver%20Install%20%283701DR-003-01%20Rev%202%29.pdf)

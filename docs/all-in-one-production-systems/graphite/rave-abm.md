@@ -13,4 +13,4 @@ title: "Rave ABM"
 
 ---
 
-**External Link:** [Rave_ABM.zip](https://documentation.rossvideo.com/files/Manuals/All-in-One Production Systems/Graphite/Rave_ABM.zip)
+**External Link:** [Rave_ABM.zip](https://documentation.rossvideo.com/files/Manuals/All-in-One%20Production%20Systems/Graphite/Rave_ABM.zip)

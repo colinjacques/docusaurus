@@ -6,7 +6,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 # VTR Accom APR Clipstore
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/VTRs/VTR_Accom%20APR%20Clipstore%20(4999DR-063).pdf" title="VTR Accom APR Clipstore" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/VTRs/VTR_Accom%20APR%20Clipstore%20%284999DR-063%29.pdf" title="VTR Accom APR Clipstore" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [VTR_Accom APR Clipstore (4999DR-063).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/VTRs/VTR_Accom%20APR%20Clipstore%20(4999DR-063).pdf)
+**External Link:** [VTR_Accom APR Clipstore (4999DR-063).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/VTRs/VTR_Accom%20APR%20Clipstore%20%284999DR-063%29.pdf)

@@ -1,12 +1,12 @@
 ---
-title: "Abekas Mira Serial"
+title: "Abekas Mira - Serial"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Abekas Mira Serial
+# Abekas Mira - Serial
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Enterprise%20Control%20Systems/Caprica/Device%20Setup%20Sheets/Server%20VTR/Abekas%20Mira%20-%20Serial.pdf" title="Abekas Mira Serial" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Enterprise%20Control%20Systems/Caprica/Device%20Setup%20Sheets/Server%20VTR/Abekas%20Mira%20-%20Serial.pdf" title="Abekas Mira - Serial" />
 
 ---
 

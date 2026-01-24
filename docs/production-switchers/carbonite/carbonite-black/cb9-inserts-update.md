@@ -1,12 +1,12 @@
 ---
-title: "CB9 Inserts Update"
+title: "CB9-Inserts-Update"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# CB9 Inserts Update
+# CB9-Inserts-Update
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Carbonite%20Black/CB9-Inserts-Update(4840DR-504).pdf" title="CB9 Inserts Update" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Carbonite%20Black/CB9-Inserts-Update%284840DR-504%29.pdf" title="CB9-Inserts-Update" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [CB9-Inserts-Update(4840DR-504).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Carbonite%20Black/CB9-Inserts-Update(4840DR-504).pdf)
+**External Link:** [CB9-Inserts-Update(4840DR-504).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Carbonite%20Black/CB9-Inserts-Update%284840DR-504%29.pdf)

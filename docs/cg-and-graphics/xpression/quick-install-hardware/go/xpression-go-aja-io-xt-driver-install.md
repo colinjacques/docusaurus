@@ -6,7 +6,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 # XPression GO! AJA IoXT Driver Install
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Quick%20Install%20-%20Hardware/GO!/XPression%20GO!%20AJA%20IoXT%20Driver%20Install.pdf" title="XPression GO! AJA IoXT Driver Install" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Quick%20Install%20-%20Hardware/GO%21/XPression%20GO%21%20AJA%20IoXT%20Driver%20Install.pdf" title="XPression GO! AJA IoXT Driver Install" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [XPression GO! AJA IoXT Driver Install.pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Quick%20Install%20-%20Hardware/GO!/XPression%20GO!%20AJA%20IoXT%20Driver%20Install.pdf)
+**External Link:** [XPression GO! AJA IoXT Driver Install.pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/Quick%20Install%20-%20Hardware/GO%21/XPression%20GO%21%20AJA%20IoXT%20Driver%20Install.pdf)

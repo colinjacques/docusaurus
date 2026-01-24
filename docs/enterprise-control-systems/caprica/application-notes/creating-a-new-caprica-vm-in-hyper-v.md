@@ -1,12 +1,12 @@
 ---
-title: "Creating a New Caprica VM in Hyper V"
+title: "Creating a New Caprica VM in Hyper-V"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Creating a New Caprica VM in Hyper V
+# Creating a New Caprica VM in Hyper-V
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Enterprise%20Control%20Systems/Caprica/Application%20Notes/Creating%20a%20New%20Caprica%20VM%20in%20Hyper-V.pdf" title="Creating a New Caprica VM in Hyper V" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Enterprise%20Control%20Systems/Caprica/Application%20Notes/Creating%20a%20New%20Caprica%20VM%20in%20Hyper-V.pdf" title="Creating a New Caprica VM in Hyper-V" />
 
 ---
 

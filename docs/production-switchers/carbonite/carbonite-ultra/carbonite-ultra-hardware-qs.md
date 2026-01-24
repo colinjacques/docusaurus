@@ -1,12 +1,12 @@
 ---
-title: "Carbonite Ultra Hardware QS"
+title: "Carbonite-Ultra-Hardware-QS"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Carbonite Ultra Hardware QS
+# Carbonite-Ultra-Hardware-QS
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Carbonite%20Ultra/Carbonite-Ultra-Hardware-QS(4841DR-200).pdf" title="Carbonite Ultra Hardware QS" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Carbonite%20Ultra/Carbonite-Ultra-Hardware-QS%284841DR-200%29.pdf" title="Carbonite-Ultra-Hardware-QS" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Carbonite-Ultra-Hardware-QS(4841DR-200).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Carbonite%20Ultra/Carbonite-Ultra-Hardware-QS(4841DR-200).pdf)
+**External Link:** [Carbonite-Ultra-Hardware-QS(4841DR-200).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Carbonite%20Ultra/Carbonite-Ultra-Hardware-QS%284841DR-200%29.pdf)

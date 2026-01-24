@@ -6,7 +6,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 # XPression Telestrate User Guide
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/XPression%20Telestrate/XPression%20Telestrate%20User%20Guide.pdf" title="XPression Telestrate User Guide" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/User%20Guides/XPression%20Telestrate%20User%20Guide.pdf" title="XPression Telestrate User Guide" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [XPression Telestrate User Guide.pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/XPression%20Telestrate/XPression%20Telestrate%20User%20Guide.pdf)
+**External Link:** [XPression Telestrate User Guide.pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/XPression/User%20Guides/XPression%20Telestrate%20User%20Guide.pdf)

@@ -6,7 +6,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 # Router Harris
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Routers/Router_Harris%20(Harris%20Edge)(4999DR-117).pdf" title="Router Harris" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Routers/Router_Harris%20%28Harris%20Edge%29%284999DR-117%29.pdf" title="Router Harris" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Router_Harris (Harris Edge)(4999DR-117).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Routers/Router_Harris%20(Harris%20Edge)(4999DR-117).pdf)
+**External Link:** [Router_Harris (Harris Edge)(4999DR-117).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Routers/Router_Harris%20%28Harris%20Edge%29%284999DR-117%29.pdf)

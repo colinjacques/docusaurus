@@ -1,12 +1,12 @@
 ---
-title: "Editor Thomson Grass Valley GVG100 110"
+title: "Editor Thomson Grass Valley GVG100-110"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Editor Thomson Grass Valley GVG100 110
+# Editor Thomson Grass Valley GVG100-110
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Editors/Editor_Thomson%20Grass%20Valley%20GVG100-110%20(4999DR-081).pdf" title="Editor Thomson Grass Valley GVG100 110" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Editors/Editor_Thomson%20Grass%20Valley%20GVG100-110%20%284999DR-081%29.pdf" title="Editor Thomson Grass Valley GVG100-110" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Editor_Thomson Grass Valley GVG100-110 (4999DR-081).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Editors/Editor_Thomson%20Grass%20Valley%20GVG100-110%20(4999DR-081).pdf)
+**External Link:** [Editor_Thomson Grass Valley GVG100-110 (4999DR-081).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Editors/Editor_Thomson%20Grass%20Valley%20GVG100-110%20%284999DR-081%29.pdf)

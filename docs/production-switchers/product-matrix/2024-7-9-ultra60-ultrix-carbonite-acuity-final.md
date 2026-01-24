@@ -1,12 +1,12 @@
 ---
-title: "2024 7 9 Ultra60 Ultrix Carbonite Acuity FINAL"
+title: "2024 7-9 Ultra60 Ultrix Carbonite Acuity FINAL"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# 2024 7 9 Ultra60 Ultrix Carbonite Acuity FINAL
+# 2024 7-9 Ultra60 Ultrix Carbonite Acuity FINAL
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Product%20Matrix/2024_7-9_Ultra60_Ultrix_Carbonite_Acuity_FINAL.pdf" title="2024 7 9 Ultra60 Ultrix Carbonite Acuity FINAL" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Product%20Matrix/2024_7-9_Ultra60_Ultrix_Carbonite_Acuity_FINAL.pdf" title="2024 7-9 Ultra60 Ultrix Carbonite Acuity FINAL" />
 
 ---
 

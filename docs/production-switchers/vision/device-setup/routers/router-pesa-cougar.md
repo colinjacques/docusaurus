@@ -6,7 +6,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 # Router PESA Cougar
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Routers/Router_PESA%20Cougar%20(4999DR-025).pdf" title="Router PESA Cougar" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Routers/Router_PESA%20Cougar%20%284999DR-025%29.pdf" title="Router PESA Cougar" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Router_PESA Cougar (4999DR-025).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Routers/Router_PESA%20Cougar%20(4999DR-025).pdf)
+**External Link:** [Router_PESA Cougar (4999DR-025).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Routers/Router_PESA%20Cougar%20%284999DR-025%29.pdf)

@@ -1,12 +1,12 @@
 ---
-title: "CrossOver Getting Started"
+title: "CrossOver-Getting-Started"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# CrossOver Getting Started
+# CrossOver-Getting-Started
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/CrossOver/CrossOver-Getting-Started(4801DR-022B).pdf" title="CrossOver Getting Started" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/CrossOver/CrossOver-Getting-Started%284801DR-022B%29.pdf" title="CrossOver-Getting-Started" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [CrossOver-Getting-Started(4801DR-022B).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/CrossOver/CrossOver-Getting-Started(4801DR-022B).pdf)
+**External Link:** [CrossOver-Getting-Started(4801DR-022B).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/CrossOver/CrossOver-Getting-Started%284801DR-022B%29.pdf)

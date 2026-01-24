@@ -1,12 +1,12 @@
 ---
-title: "Video Server Generic"
+title: "Video-Server Generic"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Video Server Generic
+# Video-Server Generic
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Video%20Servers/Video-Server_Generic%20(4999DR-019).pdf" title="Video Server Generic" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Video%20Servers/Video-Server_Generic%20%284999DR-019%29.pdf" title="Video-Server Generic" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Video-Server_Generic (4999DR-019).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Video%20Servers/Video-Server_Generic%20(4999DR-019).pdf)
+**External Link:** [Video-Server_Generic (4999DR-019).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Video%20Servers/Video-Server_Generic%20%284999DR-019%29.pdf)

@@ -1,12 +1,12 @@
 ---
-title: "Serial Tally Evertz 7700PTX CTP Trans Frame"
+title: "Serial-Tally Evertz 7700PTX-CTP Trans - Frame"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Serial Tally Evertz 7700PTX CTP Trans Frame
+# Serial-Tally Evertz 7700PTX-CTP Trans - Frame
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Serial%20Tallies/Serial-Tally_Evertz%207700PTX-CTP%20Trans%20-%20Frame%20(4999DR-120).pdf" title="Serial Tally Evertz 7700PTX CTP Trans Frame" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Serial%20Tallies/Serial-Tally_Evertz%207700PTX-CTP%20Trans%20-%20Frame%20%284999DR-120%29.pdf" title="Serial-Tally Evertz 7700PTX-CTP Trans - Frame" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Serial-Tally_Evertz 7700PTX-CTP Trans - Frame (4999DR-120).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Serial%20Tallies/Serial-Tally_Evertz%207700PTX-CTP%20Trans%20-%20Frame%20(4999DR-120).pdf)
+**External Link:** [Serial-Tally_Evertz 7700PTX-CTP Trans - Frame (4999DR-120).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Serial%20Tallies/Serial-Tally_Evertz%207700PTX-CTP%20Trans%20-%20Frame%20%284999DR-120%29.pdf)

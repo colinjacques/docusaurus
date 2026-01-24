@@ -1,12 +1,12 @@
 ---
-title: "Sony BRC 900 Camera"
+title: "Sony BRC-900 Camera"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Sony BRC 900 Camera
+# Sony BRC-900 Camera
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Enterprise%20Control%20Systems/Caprica/Device%20Setup%20Sheets/Robotic%20Cam/Sony%20BRC-900%20Camera.pdf" title="Sony BRC 900 Camera" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Enterprise%20Control%20Systems/Caprica/Device%20Setup%20Sheets/Robotic%20Cam/Sony%20BRC-900%20Camera.pdf" title="Sony BRC-900 Camera" />
 
 ---
 

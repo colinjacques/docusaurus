@@ -1,12 +1,12 @@
 ---
-title: "Fan Replacement"
+title: "Fan-Replacement"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Fan Replacement
+# Fan-Replacement
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Installation%20Guides/Fan-Replacement%20(eXtreme)-IG(4803DR-300).pdf" title="Fan Replacement" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Installation%20Guides/Fan-Replacement%20%28eXtreme%29-IG%284803DR-300%29.pdf" title="Fan-Replacement" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Fan-Replacement (eXtreme)-IG(4803DR-300).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Installation%20Guides/Fan-Replacement%20(eXtreme)-IG(4803DR-300).pdf)
+**External Link:** [Fan-Replacement (eXtreme)-IG(4803DR-300).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Installation%20Guides/Fan-Replacement%20%28eXtreme%29-IG%284803DR-300%29.pdf)

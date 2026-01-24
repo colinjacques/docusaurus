@@ -1,12 +1,12 @@
 ---
-title: "Carbonite HyperMax Manual"
+title: "Carbonite-HyperMax-Manual"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Carbonite HyperMax Manual
+# Carbonite-HyperMax-Manual
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/HyperMax/Carbonite-HyperMax-Manual(4849DR-110).pdf" title="Carbonite HyperMax Manual" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/HyperMax/Carbonite-HyperMax-Manual%284849DR-110%29.pdf" title="Carbonite-HyperMax-Manual" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Carbonite-HyperMax-Manual(4849DR-110).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/HyperMax/Carbonite-HyperMax-Manual(4849DR-110).pdf)
+**External Link:** [Carbonite-HyperMax-Manual(4849DR-110).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/HyperMax/Carbonite-HyperMax-Manual%284849DR-110%29.pdf)

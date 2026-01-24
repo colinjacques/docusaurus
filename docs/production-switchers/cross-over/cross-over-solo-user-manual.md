@@ -1,12 +1,12 @@
 ---
-title: "CrossOver Solo User Manual"
+title: "CrossOver-Solo-User-Manual"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# CrossOver Solo User Manual
+# CrossOver-Solo-User-Manual
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/CrossOver/CrossOver-Solo-User-Manual(4801DR-004).pdf" title="CrossOver Solo User Manual" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/CrossOver/CrossOver-Solo-User-Manual%284801DR-004%29.pdf" title="CrossOver-Solo-User-Manual" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [CrossOver-Solo-User-Manual(4801DR-004).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/CrossOver/CrossOver-Solo-User-Manual(4801DR-004).pdf)
+**External Link:** [CrossOver-Solo-User-Manual(4801DR-004).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/CrossOver/CrossOver-Solo-User-Manual%284801DR-004%29.pdf)

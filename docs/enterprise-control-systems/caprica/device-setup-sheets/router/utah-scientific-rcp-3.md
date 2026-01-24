@@ -1,12 +1,12 @@
 ---
-title: "Utah Scientific RCP 3"
+title: "Utah Scientific RCP-3"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Utah Scientific RCP 3
+# Utah Scientific RCP-3
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Enterprise%20Control%20Systems/Caprica/Device%20Setup%20Sheets/Router/Utah%20Scientific%20RCP-3.pdf" title="Utah Scientific RCP 3" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Enterprise%20Control%20Systems/Caprica/Device%20Setup%20Sheets/Router/Utah%20Scientific%20RCP-3.pdf" title="Utah Scientific RCP-3" />
 
 ---
 

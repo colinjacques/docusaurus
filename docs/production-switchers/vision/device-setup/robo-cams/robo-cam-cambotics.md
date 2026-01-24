@@ -1,12 +1,12 @@
 ---
-title: "Robo Cam Cambotics"
+title: "Robo-Cam Cambotics"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Robo Cam Cambotics
+# Robo-Cam Cambotics
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/RoboCams/Robo-Cam_Cambotics%20(4999DR-096).pdf" title="Robo Cam Cambotics" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/RoboCams/Robo-Cam_Cambotics%20%284999DR-096%29.pdf" title="Robo-Cam Cambotics" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Robo-Cam_Cambotics (4999DR-096).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/RoboCams/Robo-Cam_Cambotics%20(4999DR-096).pdf)
+**External Link:** [Robo-Cam_Cambotics (4999DR-096).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/RoboCams/Robo-Cam_Cambotics%20%284999DR-096%29.pdf)

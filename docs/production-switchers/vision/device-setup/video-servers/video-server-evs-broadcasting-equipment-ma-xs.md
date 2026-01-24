@@ -1,12 +1,12 @@
 ---
-title: "Video Server EVS Broadcasting Equipment maXS"
+title: "Video-Server EVS Broadcasting Equipment maXS"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Video Server EVS Broadcasting Equipment maXS
+# Video-Server EVS Broadcasting Equipment maXS
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Video%20Servers/Video-Server_EVS%20Broadcasting%20Equipment%20maXS%20(4999DR-005).pdf" title="Video Server EVS Broadcasting Equipment maXS" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Video%20Servers/Video-Server_EVS%20Broadcasting%20Equipment%20maXS%20%284999DR-005%29.pdf" title="Video-Server EVS Broadcasting Equipment maXS" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Video-Server_EVS Broadcasting Equipment maXS (4999DR-005).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Video%20Servers/Video-Server_EVS%20Broadcasting%20Equipment%20maXS%20(4999DR-005).pdf)
+**External Link:** [Video-Server_EVS Broadcasting Equipment maXS (4999DR-005).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Video%20Servers/Video-Server_EVS%20Broadcasting%20Equipment%20maXS%20%284999DR-005%29.pdf)

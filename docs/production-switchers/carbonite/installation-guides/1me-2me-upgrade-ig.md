@@ -1,12 +1,12 @@
 ---
-title: "1ME 2ME Upgrade IG"
+title: "1ME-2ME-Upgrade-IG"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# 1ME 2ME Upgrade IG
+# 1ME-2ME-Upgrade-IG
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Installation%20Guides/1ME-2ME-Upgrade-IG(4802DR-303).pdf" title="1ME 2ME Upgrade IG" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Installation%20Guides/1ME-2ME-Upgrade-IG%284802DR-303%29.pdf" title="1ME-2ME-Upgrade-IG" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [1ME-2ME-Upgrade-IG(4802DR-303).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Installation%20Guides/1ME-2ME-Upgrade-IG(4802DR-303).pdf)
+**External Link:** [1ME-2ME-Upgrade-IG(4802DR-303).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Carbonite/Installation%20Guides/1ME-2ME-Upgrade-IG%284802DR-303%29.pdf)

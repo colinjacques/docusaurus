@@ -1,12 +1,12 @@
 ---
-title: "ULTRIX FR12 User Guide"
+title: "ULTRIX-FR12 User Guide"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# ULTRIX FR12 User Guide
+# ULTRIX-FR12 User Guide
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Routers/Ultrix/ULTRIX-FR12%20User%20Guide%20(2101DR-604).pdf" title="ULTRIX FR12 User Guide" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Routers/Ultrix/ULTRIX-FR12%20User%20Guide%20%282101DR-604%29.pdf" title="ULTRIX-FR12 User Guide" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [ULTRIX-FR12 User Guide (2101DR-604).pdf](https://documentation.rossvideo.com/files/Manuals/Routers/Ultrix/ULTRIX-FR12%20User%20Guide%20(2101DR-604).pdf)
+**External Link:** [ULTRIX-FR12 User Guide (2101DR-604).pdf](https://documentation.rossvideo.com/files/Manuals/Routers/Ultrix/ULTRIX-FR12%20User%20Guide%20%282101DR-604%29.pdf)

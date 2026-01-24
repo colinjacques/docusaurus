@@ -1,12 +1,12 @@
 ---
-title: "Robo Cam Telemetrics DS 4"
+title: "Robo-Cam Telemetrics DS-4"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Robo Cam Telemetrics DS 4
+# Robo-Cam Telemetrics DS-4
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/RoboCams/Robo-Cam_Telemetrics%20DS-4%20(4999DR-049).pdf" title="Robo Cam Telemetrics DS 4" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/RoboCams/Robo-Cam_Telemetrics%20DS-4%20%284999DR-049%29.pdf" title="Robo-Cam Telemetrics DS-4" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Robo-Cam_Telemetrics DS-4 (4999DR-049).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/RoboCams/Robo-Cam_Telemetrics%20DS-4%20(4999DR-049).pdf)
+**External Link:** [Robo-Cam_Telemetrics DS-4 (4999DR-049).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/RoboCams/Robo-Cam_Telemetrics%20DS-4%20%284999DR-049%29.pdf)

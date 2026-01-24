@@ -1,12 +1,12 @@
 ---
-title: "Audio Mixer Yamaha 01V96"
+title: "Audio-Mixer Yamaha 01V96"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Audio Mixer Yamaha 01V96
+# Audio-Mixer Yamaha 01V96
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Audio%20Mixers/Audio-Mixer_Yamaha%2001V96%20(SMC-9901)(4999DR-039).pdf" title="Audio Mixer Yamaha 01V96" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Audio%20Mixers/Audio-Mixer_Yamaha%2001V96%20%28SMC-9901%29%284999DR-039%29.pdf" title="Audio-Mixer Yamaha 01V96" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Audio-Mixer_Yamaha 01V96 (SMC-9901)(4999DR-039).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Audio%20Mixers/Audio-Mixer_Yamaha%2001V96%20(SMC-9901)(4999DR-039).pdf)
+**External Link:** [Audio-Mixer_Yamaha 01V96 (SMC-9901)(4999DR-039).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Audio%20Mixers/Audio-Mixer_Yamaha%2001V96%20%28SMC-9901%29%284999DR-039%29.pdf)

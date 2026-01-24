@@ -6,7 +6,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 # Voyager User Guide
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/Virtual%20Solutions/Voyager/User%20Guide/Voyager%20User%20Guide%20(3808DR-001-7.3.3).pdf" title="Voyager User Guide" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/Virtual%20Solutions/Voyager/User%20Guide/Voyager%20User%20Guide%20%283808DR-001-7.3.3%29.pdf" title="Voyager User Guide" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Voyager User Guide (3808DR-001-7.3.3).pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/Virtual%20Solutions/Voyager/User%20Guide/Voyager%20User%20Guide%20(3808DR-001-7.3.3).pdf)
+**External Link:** [Voyager User Guide (3808DR-001-7.3.3).pdf](https://documentation.rossvideo.com/files/Manuals/CG%20and%20Graphics/Virtual%20Solutions/Voyager/User%20Guide/Voyager%20User%20Guide%20%283808DR-001-7.3.3%29.pdf)

@@ -1,12 +1,12 @@
 ---
-title: "Caprica Server Operating System Upgrade Static"
+title: "Caprica Server Operating System Upgrade - Static"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Caprica Server Operating System Upgrade Static
+# Caprica Server Operating System Upgrade - Static
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Enterprise%20Control%20Systems/Caprica/Application%20Notes/Caprica%20Server%20Operating%20System%20Upgrade%20-%20Static.pdf" title="Caprica Server Operating System Upgrade Static" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Enterprise%20Control%20Systems/Caprica/Application%20Notes/Caprica%20Server%20Operating%20System%20Upgrade%20-%20Static.pdf" title="Caprica Server Operating System Upgrade - Static" />
 
 ---
 

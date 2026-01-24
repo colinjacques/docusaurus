@@ -6,7 +6,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 # Router Sierra Systems Yosemite
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Routers/Router_Sierra%20Systems%20Yosemite%20(4999DR-033).pdf" title="Router Sierra Systems Yosemite" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Routers/Router_Sierra%20Systems%20Yosemite%20%284999DR-033%29.pdf" title="Router Sierra Systems Yosemite" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Router_Sierra Systems Yosemite (4999DR-033).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Routers/Router_Sierra%20Systems%20Yosemite%20(4999DR-033).pdf)
+**External Link:** [Router_Sierra Systems Yosemite (4999DR-033).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/Routers/Router_Sierra%20Systems%20Yosemite%20%284999DR-033%29.pdf)

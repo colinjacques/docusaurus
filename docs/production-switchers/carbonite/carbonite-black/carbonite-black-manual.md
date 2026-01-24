@@ -1,8 +1,8 @@
 ---
-title: "Carbonite Black Manual"
+title: "Carbonite-Black-Manual"
 ---
 
-# Carbonite Black Manual
+# Carbonite-Black-Manual
 
 **Document Information:**
 - **Original filename:** `Carbonite-Black-Manual.zip`

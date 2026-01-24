@@ -1,12 +1,12 @@
 ---
-title: "Sony XVS 8000"
+title: "Sony XVS-8000"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Sony XVS 8000
+# Sony XVS-8000
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Enterprise%20Control%20Systems/Caprica/Device%20Setup%20Sheets/Switcher/Sony%20XVS-8000.pdf" title="Sony XVS 8000" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Enterprise%20Control%20Systems/Caprica/Device%20Setup%20Sheets/Switcher/Sony%20XVS-8000.pdf" title="Sony XVS-8000" />
 
 ---
 

@@ -6,7 +6,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 # Pbus Pbus Protocol
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/P-Bus/Pbus_Pbus%20Protocol%20(4999DR-084).pdf" title="Pbus Pbus Protocol" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/P-Bus/Pbus_Pbus%20Protocol%20%284999DR-084%29.pdf" title="Pbus Pbus Protocol" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Pbus_Pbus Protocol (4999DR-084).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/P-Bus/Pbus_Pbus%20Protocol%20(4999DR-084).pdf)
+**External Link:** [Pbus_Pbus Protocol (4999DR-084).pdf](https://documentation.rossvideo.com/files/Manuals/Production%20Switchers/Vision/Device%20Setup/P-Bus/Pbus_Pbus%20Protocol%20%284999DR-084%29.pdf)

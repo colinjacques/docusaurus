@@ -1,12 +1,12 @@
 ---
-title: "Sony MLS X1"
+title: "Sony MLS-X1"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Sony MLS X1
+# Sony MLS-X1
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Enterprise%20Control%20Systems/Caprica/Device%20Setup%20Sheets/Switcher/Sony%20MLS-X1.pdf" title="Sony MLS X1" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Enterprise%20Control%20Systems/Caprica/Device%20Setup%20Sheets/Switcher/Sony%20MLS-X1.pdf" title="Sony MLS-X1" />
 
 ---
 

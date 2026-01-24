@@ -1,12 +1,12 @@
 ---
-title: "Tascam Ethernet"
+title: "Tascam - Ethernet"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# Tascam Ethernet
+# Tascam - Ethernet
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Enterprise%20Control%20Systems/Caprica/Device%20Setup%20Sheets/Audio%20Server/Tascam%20-%20Ethernet.pdf" title="Tascam Ethernet" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Enterprise%20Control%20Systems/Caprica/Device%20Setup%20Sheets/Audio%20Server/Tascam%20-%20Ethernet.pdf" title="Tascam - Ethernet" />
 
 ---
 

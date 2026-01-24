@@ -1,12 +1,12 @@
 ---
-title: "ULTRIX FR5 Quick Start Guide"
+title: "ULTRIX-FR5 Quick Start Guide"
 ---
 
 import PDFViewer from '@site/src/components/PDFViewer';
 
-# ULTRIX FR5 Quick Start Guide
+# ULTRIX-FR5 Quick Start Guide
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Routers/Ultrix/ULTRIX-FR5%20Quick%20Start%20Guide%20(2101DR-502).pdf" title="ULTRIX FR5 Quick Start Guide" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Routers/Ultrix/ULTRIX-FR5%20Quick%20Start%20Guide%20%282101DR-502%29.pdf" title="ULTRIX-FR5 Quick Start Guide" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [ULTRIX-FR5 Quick Start Guide (2101DR-502).pdf](https://documentation.rossvideo.com/files/Manuals/Routers/Ultrix/ULTRIX-FR5%20Quick%20Start%20Guide%20(2101DR-502).pdf)
+**External Link:** [ULTRIX-FR5 Quick Start Guide (2101DR-502).pdf](https://documentation.rossvideo.com/files/Manuals/Routers/Ultrix/ULTRIX-FR5%20Quick%20Start%20Guide%20%282101DR-502%29.pdf)

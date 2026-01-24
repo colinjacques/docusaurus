@@ -6,7 +6,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 # Ultricore BCS User Guide
 
-<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Routers/Ultrix/Ultricore%20BCS%20User%20Guide%20(2201DR-106).pdf" title="Ultricore BCS User Guide" />
+<PDFViewer file="https://documentation.rossvideo.com/files/Manuals/Routers/Ultrix/Ultricore%20BCS%20User%20Guide%20%282201DR-106%29.pdf" title="Ultricore BCS User Guide" />
 
 ---
 
@@ -18,4 +18,4 @@ import PDFViewer from '@site/src/components/PDFViewer';
 
 ---
 
-**External Link:** [Ultricore BCS User Guide (2201DR-106).pdf](https://documentation.rossvideo.com/files/Manuals/Routers/Ultrix/Ultricore%20BCS%20User%20Guide%20(2201DR-106).pdf)
+**External Link:** [Ultricore BCS User Guide (2201DR-106).pdf](https://documentation.rossvideo.com/files/Manuals/Routers/Ultrix/Ultricore%20BCS%20User%20Guide%20%282201DR-106%29.pdf)
